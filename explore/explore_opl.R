@@ -36,6 +36,6 @@ opl.dl %>%
 opl.dl.rep <- opl.dl %>%
   filter(equipment %in% c("Raw", "wraps"))
 
-
+fit0 <- brm(deadlift ~ bw + age, data = opl.dl.rep, family = gaussian())
 
 

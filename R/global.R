@@ -2,6 +2,7 @@ library(dplyr)
 library(data.table)
 library(tidyr)
 library(ggplot2)
+library(brms)
 
 # Disclaimer: This page uses data from the OpenPowerlifting project, https://www.openpowerlifting.org.
 # You may download a copy of the data at https://data.openpowerlifting.org.
