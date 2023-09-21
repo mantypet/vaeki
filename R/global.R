@@ -9,7 +9,10 @@ library(brms)
 
 download_opl <- function() {
   url <- "https://openpowerlifting.gitlab.io/opl-csv/files/openpowerlifting-latest.zip"
-  download.file(url, here::here("data/"))
+  options(timeout=180)
+  download.file(url, "openpowerlifting-latest.zip")
+  unzip(zipfile = here::here("openpowerlifting-latest.zip"), exdir = here::here("data/"))
+  unlink(x = here::here("openpowerlifting-latest.zip"))
 }
 
 read_opl <- function(csv = here::here("data/openpowerlifting-2023-09-09/openpowerlifting-2023-09-09-6e6c522a.csv")) {
