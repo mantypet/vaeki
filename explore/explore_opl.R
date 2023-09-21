@@ -36,9 +36,16 @@ opl.dl %>%
 opl.dl.rep <- opl.dl %>%
   filter(equipment %in% c("Raw", "wraps"))
 
-fit0 <- brm(deadlift ~ bw + age, data = opl.dl.rep, family = gaussian())
-summary(fit0)
+mod_df <- opl.dl.rep %>% sample_n(1000)
 
-fit1 <- brm(deadlift ~ bw + age + (1 | sex), data = opl.dl.rep, family = gaussian())
+#fit0 <- brm(deadlift ~ bw + age, data = mod_df, family = gaussian())
+fit0 <- glm(deadlift ~ bw + age, data = opl.dl.rep, family = gaussian())
+fit1 <- glm(deadlift ~ bw + age + sex, data = opl.dl.rep, family = gaussian())
+fit2 <- lmer(deadlift ~ bw + age + (1 | sex), data = opl.dl.rep, REML = FALSE)
 summary(fit0)
+summary(fit1)
+summary(fit2)
+BIC(fit0, fit1, fit2)
 
+coef(summary(fit2))
+hist(resid(fit2))
