@@ -33,19 +33,50 @@ opl.dl %>%
   pivot_wider(names_from = tested, values_from = n) %>%
   mutate(rf = Yes/(Yes+No))
 
-opl.dl.rep <- opl.dl %>%
-  filter(equipment %in% c("Raw", "wraps"))
+# Age & bodyweight distributions
+ggplot(opl.dl) +
+  geom_density(aes(x = bw, fill = sex), alpha = 0.2)
 
-mod_df <- opl.dl.rep %>% sample_n(1000)
+ggplot(opl.dl) +
+  geom_density(aes(x = age, fill = sex), alpha = 0.2)
 
-#fit0 <- brm(deadlift ~ bw + age, data = mod_df, family = gaussian())
-fit0 <- glm(deadlift ~ bw + age, data = opl.dl.rep, family = gaussian())
-fit1 <- glm(deadlift ~ bw + age + sex, data = opl.dl.rep, family = gaussian())
-fit2 <- lmer(deadlift ~ bw + age + (1 | sex), data = opl.dl.rep, REML = FALSE)
-summary(fit0)
-summary(fit1)
-summary(fit2)
-BIC(fit0, fit1, fit2)
+ggplot(mod_df) +
+  geom_density_2d(aes(x = bw, y = deadlift/bw)) +
+  facet_grid(rows = vars(sex))
 
-coef(summary(fit2))
-hist(resid(fit2))
+opl.dl.raw.rep <- opl.dl %>%
+  filter(equipment %in% c("Raw")) %>%
+  filter(!is.na(fed))
+
+mod_df <- opl.dl.raw.rep %>%
+  filter(bwclass == "67.5")
+
+fit0a <- glm(deadlift ~ bw + age, data = mod_df, family = gaussian())
+fit0b <- glm(deadlift ~ poly(bw,2) + age, data = mod_df, family = gaussian())
+fit0bb <- glm(deadlift ~ bw + poly(age,2), data = mod_df, family = gaussian())
+fit0bbb <- glm(deadlift ~ poly(age,2), data = mod_df, family = gaussian())
+fit0c <- glm(deadlift ~ poly(bw,2) + poly(age,2), data = mod_df, family = gaussian())
+summary(fit0a)
+summary(fit0b)
+summary(fit0c)
+BIC(fit0a, fit0b, fit0bb, fit0bbb, fit0c)
+
+fit1a <- glm(deadlift ~ poly(bw,2) + poly(age,2) + sex, data = mod_df, family = gaussian())
+fit1b <- glm(deadlift ~ poly(bw,2)*sex + poly(age,2)*sex, data = mod_df, family = gaussian())
+fit1aa <- glm(deadlift ~ bw + poly(age,2) + sex, data = mod_df, family = gaussian())
+fit1bb <- glm(deadlift ~ bw*sex + poly(age,2)*sex, data = mod_df, family = gaussian())
+fit1bbb <- glm(deadlift ~ bw*sex + age*sex, data = mod_df, family = gaussian())
+summary(fit1a)
+summary(fit1b)
+BIC(fit1a, fit1b, fit1aa, fit1bb, fit1bbb)
+
+fit2a <- lmer(deadlift ~ poly(bw,2)*sex + poly(age,2)*sex + (1 | fed), data = mod_df, REML = FALSE)
+fit2a_ <- brm(deadlift ~ bw*sex + age*sex + (1 | fed), data = mod_df, family = gaussian())
+fit2aa_ <- brm(deadlift ~ bw*sex + age*sex + (1 | fed), data = mod_df, family = gaussian())
+
+
+summary(fit1b)
+summary(fit2a)
+summary(fit2a_, WAIC = TRUE)
+
+plot(fit2a_)

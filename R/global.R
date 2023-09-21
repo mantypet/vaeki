@@ -16,13 +16,14 @@ download_opl <- function() {
   unlink(x = here::here("openpowerlifting-latest.zip"))
 }
 
-read_opl <- function(csv = here::here("data/openpowerlifting-latest/openpowerlifting-2023-09-16/openpowerlifting-2023-09-16-a8e1bcb4.csv")) {
-  opl <- fread(file = csv, select = c("Name", "Sex", "Age", "BodyweightKg",
+read_opl <- function(csv = here::here("data/openpowerlifting-2023-09-09/openpowerlifting-2023-09-09-6e6c522a.csv")) {
+  opl <- fread(file = csv, select = c("Name", "Sex", "Age", "BodyweightKg", "WeightClassKg",
                                       "Date", "Event", "Equipment",
                                       "Best3SquatKg", "Best3BenchKg", "Best3DeadliftKg", "TotalKg",
                                       "Tested", "ParentFederation")) %>%
     rename_with(tolower) %>%
     rename(bw = bodyweightkg,
+           bwclass = weightclasskg,
            squat = best3squatkg,
            bench = best3benchkg,
            deadlift = best3deadliftkg,
