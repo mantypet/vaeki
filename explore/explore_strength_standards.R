@@ -42,3 +42,22 @@
 # Istumaannousu 44 / 1 min
 # Etunojapunnerrus 42 / 1 min
 # Cooper 3000 m
+
+library(devtools)
+# devtools::install_github("ricardo-bion/ggradar")
+library(ggradar)
+
+run400 <- lubridate::ms(c("1:50","1:38","1:20","1:08","0:53","0:48"))	
+run1600 <- lubridate::ms(c("8:30","7:35","6:10","5:15","4:05","3:57"))
+runcooper <- c(2400,2600,2900,3100,3700,4768)
+squat <- c(0.75,1.25,1.50,2.25,2.75)
+press <- c(0.35,0.55,0.80,1.10,1.40)
+bench <- c(0.50,0.75,1.25,1.75,2.00)
+deadlift <- c(1.00,1.50,2.00,2.50,3.00)
+
+
+
+
+
+
+
