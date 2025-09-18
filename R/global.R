@@ -5,11 +5,13 @@
 suppressPackageStartupMessages({
   library(dplyr)
   library(tidyr)
+  library(tibble)
   library(stringr)
   library(lubridate)
   library(purrr)
   library(glue)
   library(rvest)
+  library(magrittr)
 })
 
 # Force locale
