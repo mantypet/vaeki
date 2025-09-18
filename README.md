@@ -1,3 +1,11 @@
-# vaeki
+# Väki: Strength of the North
 
-Sivusto hyödyntää [OpenPowerlifting -projektin](https://www.openpowerlifting.org) aineistoja. Lisätietoja: [OpenPowerlifting Data Service](https://openpowerlifting.gitlab.io/opl-csv/introduction.html) 
+Traditional strength & fitness, an analytical take on technique, history & myths of northern traditions of strength.
+
+## Contents
+
+Supporting infrastructure for my investigations to traditional (mainly, but not exclusively Finnish) strength and fitness traditions such as natural stone lifting.
+
+## Links
+
+[Medium: @vaekifromthenorth](https://medium.com/@vaekifromthenorth)
