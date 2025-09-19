@@ -42,7 +42,17 @@ read_kotiseutumuseot <- function() {
     left_join(county.lookup, by = join_by("county_href")) |>
     select(county_name, county_href, kotiseutu_list)
   
-  county_kotiseutu.tbl # TODO: parse kotiseutu string
+  county_kotiseutu.tbl <- readRDS(here::here("local_data/county_kotiseutu.rds"))
+  
+  county_kotiseutu_long.tbl <- county_kotiseutu.tbl |>
+    unnest(kotiseutu_list) |>
+    mutate(kotiseutu_list = stringr::str_replace_all(kotiseutu_list, "<.*?>", "|")) |>
+    mutate(kotiseutu_list = stringr::str_remove_all(kotiseutu_list, "\n")) |>
+    separate_longer_delim(kotiseutu_list, delim = "|") |>
+    filter(kotiseutu_list != "") |>
+    rename(museum_name = kotiseutu_list)
+  
+  county_kotiseutu.tbl
 }
 
 
