@@ -6,7 +6,7 @@ county_kotiseutu_long.tbl <- readRDS(here::here("local_data/county_kotiseutu.rds
 # Classify local museums likely related
 county_kotiseutu_long_aux.tbl <- county_kotiseutu_long.tbl |>
   mutate(museum_type = case_when(str_detect(tolower(museum_name), "tupa|kotiseutu|museoalue|talomuseo|ulkomuseo|pitäjä|perinnealue|perinnetila|talonpoika|torppa|hembygd|torgare|häjy|alahärmän museo") ~ "backlog",
-                                 TRUE ~ NA_character_)) |>
+                                 TRUE ~ "")) |>
   mutate(museum_address = "",
          museum_coordinates = "") |>
   as.data.frame()
