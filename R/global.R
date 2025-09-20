@@ -12,6 +12,7 @@ suppressPackageStartupMessages({
   library(glue)
   library(rvest)
   library(magrittr)
+  library(xlsx)
 })
 
 # Force locale
