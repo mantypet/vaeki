@@ -15,10 +15,22 @@ download_liftingstones_org_geojson <- function() {
 
 #' Read liftingstone locations in an exploratory list structure by source
 #'
-read_stones_as_list <- function() {
-  stones.lsorg <- read_sf(dsn = here::here("local_data/2025-10-01-mapbox-liftingstones-org.geoJSON"))
-  stones.omos <- read_sf(dsn = here::here("local_data/2025-10-01-google-maps-old-man-of-the-stones.kml"))
-  stones.msos <- read_sf(dsn = here::here("local_data/2025-10-01-google-maps-modern-stones-of-strength.kml"))
+read_stones_as_list <- function(include_meta = TRUE) {
+  stones.lsorg <- read_sf(dsn = here::here("local_data/2025-10-01-mapbox-liftingstones-org.geoJSON"), quiet = TRUE)
+  stones.omos <- read_sf(dsn = here::here("local_data/2025-10-01-google-maps-old-man-of-the-stones.kml"), quiet = TRUE)
+  stones.msos <- read_sf(dsn = here::here("local_data/2025-10-01-google-maps-modern-stones-of-strength.kml"), quiet = TRUE)
+  
+  if(!include_meta) {
+    stones.lsorg <- stones.lsorg |>
+      mutate(source = "liftingstones_org") |>
+      select(source, name, geometry)
+    stones.omos <- stones.omos |>
+      mutate(source = "old_man_of_the_stones") |>
+      select(source, name = Name, geometry)
+    stones.msos <- stones.msos |>
+      mutate(source = "modern_stones_of_strength") |>
+      select(source, name = Name, geometry)
+  }
   
   list("liftingstones_org" = stones.lsorg,
        "old_man_of_the_stones" = stones.omos,
