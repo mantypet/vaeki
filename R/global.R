@@ -12,6 +12,7 @@ suppressPackageStartupMessages({
   library(purrr)
   library(rvest)
   library(sf)
+  library(stringdist)
   library(stringr)
   library(xlsx)
 })
