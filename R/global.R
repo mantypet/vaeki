@@ -4,14 +4,15 @@
 # SET LIBRARIES
 suppressPackageStartupMessages({
   library(dplyr)
-  library(tidyr)
-  library(tibble)
-  library(stringr)
-  library(lubridate)
-  library(purrr)
   library(glue)
-  library(rvest)
+  library(lubridate)
   library(magrittr)
+  library(tibble)
+  library(tidyr)
+  library(purrr)
+  library(rvest)
+  library(sf)
+  library(stringr)
   library(xlsx)
 })
 
