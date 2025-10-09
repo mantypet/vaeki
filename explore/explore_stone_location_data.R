@@ -19,15 +19,19 @@ historic.rep <- liftingstones.historic |>
          name_sep = str_replace_all(name, pattern = " and ", replacement = ",")) |>
   separate_longer_delim(cols = c(name_sep,weight_kg,weight_lb), delim = ",") |>
   mutate(i = 1) |>
-  group_by(location_id) |>
+  group_by(name_sep) |>
   mutate(stone_index = cumsum(i)) |>
-  mutate(name_rep = glue("{name_sep} ({stone_index})"),
+  mutate(name_rep = as_factor(glue("{name_sep} ({stone_index})")),
          weight_kg = weight_as_numeric(weight_kg),
          weight_lb = weight_as_numeric(weight_lb)) |>
-  select(data_source, location_id, name_rep, weight_kg, weight_lb, geometry)
+  ungroup() |>
+  select(data_source, location_id, name_rep, weight_kg, weight_lb, geometry) |>
+  arrange(desc(weight_kg))
 
 # plots
-ggplot2
+ggplot() +
+  geom_col(data = historic.rep, mapping = aes(x = fct_reorder(name_rep,weight_kg, .na_rm = TRUE), y = weight_kg)) +
+  theme(axis.text.x = element_text(angle = 90))
 
 # map plots
 world <- ne_countries(scale = "medium", returnclass = "sf")
