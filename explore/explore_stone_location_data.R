@@ -29,8 +29,11 @@ historic.rep <- liftingstones.historic |>
   arrange(desc(weight_kg))
 
 # plots
+historic.rep |>
+  filter(!is.na(weight_kg)) |>
 ggplot() +
-  geom_col(data = historic.rep, mapping = aes(x = fct_reorder(name_rep,weight_kg, .na_rm = TRUE), y = weight_kg)) +
+  geom_col(mapping = aes(x = fct_reorder(name_rep,weight_kg, .na_rm = TRUE, .desc = TRUE), y = weight_kg)) +
+  coord_flip() +
   theme(axis.text.x = element_text(angle = 90))
 
 # map plots
