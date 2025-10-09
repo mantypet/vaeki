@@ -1,0 +1,1454 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.216874,56.379062]
+      },
+      "properties": {"name":"Ardvorlich Stone","weight":"152kg (335 lb)","liftable":"Yes","permission_required":"No","notes":"Sits on Ardvorlich estate. Do not pass the gate in your car - park near the shore and walk.","number_of_stones":"1","references":"","page":"","image":"ardvorlich.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.105059,57.22866]
+      },
+      "properties": {"name":"Auchernach Loupin Stone","weight":"","liftable":"No","permission_required":"","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.616683,57.302199]
+      },
+      "properties": {"name":"Auchernack Stones","weight":"100kg, 130kg","liftable":"Yes","permission_required":"No","notes":"These two stones sit on Auchernack farm.","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.942569,57.500693]
+      },
+      "properties": {"name":"Barevan Stone","weight":"105kg (231 lb)","liftable":"Yes","permission_required":"No","notes":"Sits at the ruins of the Barevan Church yard next to an old stone coffin. Please place the stone alongside the coffin, rather than the foot of it. Please make sure the stone doesn't touch the coffin to help preserve it.","number_of_stones":"1","references":"","page":"articles/barevan_stone","image":"barevan_stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.852971,57.705554]
+      },
+      "properties": {"name":"Bow Fiddle Stone","weight":"127kg (280 lb)","liftable":"Yes","permission_required":"No","notes":"Placed by <a href='https://www.instagram.com/crawfordov24'>Andy Crawford</a> and <a href='https://www.instagram.com/michaelbrown2521/'>Michael Brown</a> - <a href='https://www.youtube.com/watch?v=mvbnXlNV3I8'>Video</a>","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.524694,56.672538]
+      },
+      "properties": {"name":"Clach Altruman mor and Clach Altruman beag","weight":"136kg (300 lb) and 59kg (130 lb)","liftable":"Yes","permission_required":"No","notes":"The stones and plinth are adjacent to an ancient coffin road. Scotland's only example of 'his and hers' stones. A rare example of female stonelifting in Scottish history. H/T to Jamie Gorrian for the information.","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.31932,55.842291]
+      },
+      "properties": {"name":"Clach Macphee","weight":"191kg (421 lb)","liftable":"Yes","permission_required":"No","notes":"A man called Macphee from Colonsay in the 18th century challenged locals to sword fights and demonstrated his strength by lifting this stone. After Macphee left, the locals took up the challenge of lifting it.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.848575,57.172751]
+      },
+      "properties": {"name":"Clach Neirt Mheirichard","weight":"94kg (207 lb)","liftable":"Yes","permission_required":"No","notes":"Follow the sign for Dalchreichart burial ground. One day at a funeral a man lifted it and put it over a fence saying 'I never saw a Grant that could do that'. A second 132kg stone has been placed at the site.","number_of_stones":"2","references":"","page":"","image":"clach-neirt-mheirichard.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.454657,57.575553]
+      },
+      "properties": {"name":"Clach ic coailte","weight":"148.85kg (328 lb)","liftable":"Yes","permission_required":"No","notes":"The stone was lifted by Angus Macvicar in 1820. H/T to Jamie Gorrian for the location.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.230461,57.291321]
+      },
+      "properties": {"name":"Clachneart Glenlivet","weight":"<130kg (286 lb)","liftable":"Yes","permission_required":"No","notes":"Place it on top of the plinth and balance. Suffered from heat damage and broke. <strong>The stone must be left on its plinth with the damaged side facing down when you leave. This will help ensure its longevity</strong>","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.913658,56.196876]
+      },
+      "properties": {"name":"Clan MacRae stones","weight":"~160kg (353 lb) and ~85kg (187 lb)","liftable":"Yes","permission_required":"No","notes":"On the site of the battle of Sheriffmuir. Part of the Ochil loop. Placed by Jamie Gorrian.","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.241946,56.930036]
+      },
+      "properties": {"name":"Dalwhinnie Stone","weight":"102kg (225 lb)","liftable":"Yes","permission_required":"No","notes":"Similar to the Inver stone, but lighter. A great stone for new lifters.","number_of_stones":"1","references":"","page":"articles/dalwhinnie_stone","image":"dalwhinnie.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.650592,57.064752]
+      },
+      "properties": {"name":"Dinnie Stones","weight":"188kg and 144kg","liftable":"Yes","permission_required":"Yes","notes":"The pair of legendary stones lifted and carried the width of Potarch Bridge by Donald Dinnie, the nineteenth century's greatest athlete.<br><br>Organized lifts take place throughout the year and <a href='https://thedinniestones.com/Set%20Up%20Your%20Lift.html'>require advanced booking</a>.<br><br><i>On the granite stone bridge that crosses the River Dee at Potarch there were, and still are, two large stones weighing about 8cwt the pair, placed in a recess. Those stones are still on the bridge and I myself lifted one in each hand on many occasions and one market day, I carried them across the bridge and back, some four to five yards.</i> —Donald Dinnie","number_of_stones":"1","references":"http://www.thedinniestones.com","page":"articles/dinnie_stones","image":"dinnie-stones.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.004143,57.680039]
+      },
+      "properties": {"name":"Dripping Cave Stone","weight":"122kg (269 lb)","liftable":"Yes","permission_required":"No","notes":"Also known as the Drooping or Dropping cave stone. Sits outside a cave next to the sea. Check tide times before visiting. Alternate coordinates 57.681568, -4.032429","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.247548,56.602048]
+      },
+      "properties": {"name":"Fianna Stone","weight":"127kg (280 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"fianna.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.459722,57.004444]
+      },
+      "properties": {"name":"Glen Quoich (stone lifting site)","weight":"~180kg (397 lb), ~72kg (159 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.751494,56.977863]
+      },
+      "properties": {"name":"Glen Roy Stones","weight":"137kg (302 lb), 133kg (293 lb)","liftable":"Yes","permission_required":"No","notes":"Two stones, 'Big red' and 'Sister grey'.","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.58785,57.020661]
+      },
+      "properties": {"name":"Glen of the little calf","weight":"~110kg (243 lb)","liftable":"Yes","permission_required":"","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.624036,57.211585]
+      },
+      "properties": {"name":"Glenelg church stone","weight":"","liftable":"No","permission_required":"","notes":"A stone now fixed to the top of the pillar next to the gate.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.404784,57.004646]
+      },
+      "properties": {"name":"Inver Stone","weight":"118kg (260 lb)","liftable":"Yes","permission_required":"Yes","notes":"Moved from Inver Cottage to Braemar in 2021. Please contact the Braemar Highland Games Centre to lift the stone. Engraved with '265LB' but actually weighs 118kg.","number_of_stones":"1","references":"","page":"articles/inver_stone","image":"inver-stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.404995,57.004794]
+      },
+      "properties": {"name":"Invercauld Stone","weight":"206.8kg (456 lb)","liftable":"No","permission_required":"Yes","notes":"A large stone at Braemar Highland Games Centre. Andy Black and Eddie Willams put wind beneath the stone in 2022. The stone has no known prior history as a lifting stone.","number_of_stones":"1","references":"","page":"","image":"invercauld-stone.jpg","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.812105,57.069302]
+      },
+      "properties": {"name":"Invergarry Stone","weight":"132kg (291 lb)","liftable":"Yes","permission_required":"","notes":"This stone was used at the Invergarry highland games in the past, and reintroduced at the games in 2024. Rediscovered by Stuart Whyte.","number_of_stones":"1","references":"","page":null,"image":null,"country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.025476,56.401753]
+      },
+      "properties": {"name":"Kilchurn Castle Stones","weight":"112kg, 119kg","liftable":"Yes","permission_required":"No","notes":"A pair of stones placed to honour the legend of Strong Black Donald who was a legendary Gallowglass warrior based at Kilchurn Castle. He trained daily with his own lifting stone. Placed by Jamie Gorrian.","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.904625,56.148232]
+      },
+      "properties": {"name":"Logie Kirk Stone","weight":"145kg (320 lb)","liftable":"Yes","permission_required":"No","notes":"Part of the Ochil loop.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.44266,56.41951]
+      },
+      "properties": {"name":"Macgregor stone","weight":"132kg (291 lb)","liftable":"Yes","permission_required":"Yes","notes":"At the Luib Hotel. Only 3 attempts. Ask for the manager.","number_of_stones":"1","references":"","page":"","image":"macgregor-stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.308653,56.632109]
+      },
+      "properties": {"name":"McColl Stone","weight":"~75kg (165 lb)","liftable":"Yes","permission_required":"Yes","notes":"John McColl attended a funeral at Keil Chapel and challenged some young men to lift a stone. John carried this stone and placed it on a wall. Situated on private land.","number_of_stones":"","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.258603,56.853111]
+      },
+      "properties": {"name":"McCrombie's putting stone","weight":"16.1kg (35.5 lb)","liftable":"Yes","permission_required":"No","notes":"First thrown by Iain Mor Mac Thomaidh, the 7th chief of clan Macthomas. The putting stone was visited as a pilgrimage up until around the 1800s by locals in the Angus glens who wished to beat McCombie's 26 ft throw. Gregor Edmunds threw it 27 ft in 2008 for a TV program. Thanks to Jamie Gorrian for the info.","number_of_stones":1,"references":"https://www.instagram.com/p/DHrO0vcoec_OLA0oqwtdSyHQzFl74CjAEV_UTU0/","page":"","image":"mccrombie-putting-stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.965125,56.66221]
+      },
+      "properties": {"name":"McDonald Stones","weight":"155kg, 141kg, 137kg, 86kg","liftable":"Yes","permission_required":"No","notes":"Red (155kg), White (141kg), Grey (137kg), Lady (86kg). Placed by Jamie Gorrian to honour the McDonalds of Glecoe, who were murdered by trust in 'one of the most shocking and harrowing events in Scottish history'.","number_of_stones":"4","references":"","page":"","image":"mcdonald-stones.jpg","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.363,56.35725]
+      },
+      "properties": {"name":"Monachyle Stone","weight":"120kg (265 lb)","liftable":"Yes","permission_required":"Yes","notes":"Sister to the Puterach stone. It was moved to sit next to the Puterach after it was damaged. The Loch Voil Stone sits in the Monachyle Stone's original spot. Not to be lifted to the Pudrac plinth.","number_of_stones":"1","references":"","page":"articles/monachyle-stone","image":"monachyle-stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.124319,57.056925]
+      },
+      "properties": {"name":"Newtonmore Stone","weight":"101kg (223 lb)","liftable":"Yes","permission_required":"No","notes":"Sits under a large tree on an old coffin road.","number_of_stones":"1","references":"","page":"","image":"newtonmore-stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.362768,56.35725]
+      },
+      "properties": {"name":"Puterach Stone","weight":"94kg (207 lb)","liftable":"Yes","permission_required":"Yes","notes":"Situated on private land. Please knock on the door. <strong>Unfortunately, lifts to the ancient plinth are no longer possible due to damage.</strong>","number_of_stones":"1","references":"","page":"articles/puterach","image":"puterach.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.779304,56.446111]
+      },
+      "properties": {"name":"Saddlin' Mare of the Sma Glen","weight":"99kg (218 lb)","liftable":"Yes","permission_required":"No","notes":"The test here is to 'saddle the mare'. The 'saddle' is the stone, and the 'mare' is the plinth.","number_of_stones":"1","references":"","page":"articles/saddlin_mare","image":"saddlinmareup2.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.182583,56.687577]
+      },
+      "properties": {"name":"Seamus à Ghlinnie","weight":"137.5kg (303 lb)","liftable":"Yes","permission_required":"No","notes":"At the James of the Glen Memorial as a mark of respect to the wrongly convicted James Stewart. Placed by <a href='https://www.instagram.com/bigsexygrandad101/'>Jamie Gorrian</a>.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.834179,56.23418]
+      },
+      "properties": {"name":"Sheriffmuir stones","weight":"55kg, 73kg, 95kg, 120kg, 130kg, and 163kg","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"7","references":"An arc of seven stones with the ~300kg Wallace plinth stone, on the site where the (now broken) Wallace Putting Stone once sat.","page":"articles/sheriffmuir-stones","image":"sheriffmuir-stack-plinth1.jpg","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.858627,57.608246]
+      },
+      "properties": {"name":"St Mary's chapel stone","weight":"150.4kg (332 lbs)","liftable":"Yes","permission_required":"No","notes":"Placed by <a href='https://www.instagram.com/crawfordov24'>Andy Crawford</a> and <a href='https://www.instagram.com/michaelbrown2521/'>Michael Brown</a> - <a href='https://www.youtube.com/shorts/a7zePMIb9CQ'>Video</a>","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.639399,58.417098]
+      },
+      "properties": {"name":"Strathmore Of Durness Stone","weight":"~160kg (353 lb)","liftable":"Yes","permission_required":"No","notes":"Please take EXTREME care when lifting. The stone has 3 hairline fractures along its width due to ice and water damage.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.79366,55.2562]
+      },
+      "properties": {"name":"The Blue Stones of Old Dailly","weight":"~127kg-141kg and ~132kg-145kg","liftable":"No","permission_required":"","notes":"These stones are strapped to a wall by 3 inch steel straps.","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.820931,57.434887]
+      },
+      "properties": {"name":"The Bullers of Buchan Stones","weight":"110kg (243 lb) and 58kg (128 lb)","liftable":"Yes","permission_required":"No","notes":"The soft ground can be tricky to get steady on. The larger stone is very similar to the Barevan stone. Placed by <a href='https://www.instagram.com/crawfordov24'>Andy Crawford</a> and <a href='https://www.instagram.com/michaelbrown2521/'>Michael Brown</a> - <a href='https://www.youtube.com/watch?v=CP9RXU5Hx4U'>Video</a>","number_of_stones":"2","references":"","page":"","image":"bullers-of-buchan.jpg","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.897424,56.623852]
+      },
+      "properties": {"name":"The Chieftain's stone","weight":"115kg (254 lb)","liftable":"Yes","permission_required":"Yes","notes":"Also known as the Castle Menzies Stone. This very smooth stone sits outside of Castle Menzies. <strong>Currently unavailble for lifting</strong> due to repair work at the castle.","number_of_stones":"1","references":"","page":"","image":"chieftains-stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.245436,56.065757]
+      },
+      "properties": {"name":"The Colonsay Stone","weight":"112kg (247 lb)","liftable":"Yes","permission_required":"No","notes":"Next to the final hole of the golf course.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.697118,56.225561]
+      },
+      "properties": {"name":"The Glendevon stones","weight":"~150kg and ~85kg","liftable":"Yes","permission_required":"No","notes":"Next to a tree. The big stone is reminiscent of an Ultach stone (North Uist). Part of the Ochil loop. Placed by Jamie Gorrian.","number_of_stones":"2","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.818098,56.139625]
+      },
+      "properties": {"name":"The Glenochil Stone","weight":"177.5kg (391 lb)","liftable":"Yes","permission_required":"No","notes":"In the woods opposite Glenochil prison. Park at the prison and enter the forest on the north west side. Walk along the treeline until you see the stone under a big tree. Part of the Ochil loop. Placed by Jamie Gorrian.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.734501,56.161745]
+      },
+      "properties": {"name":"The Harvieston stone","weight":"143kg (315 lb)","liftable":"Yes","permission_required":"No","notes":"Park on Simpson Ave and walk north up the path. Part of the Ochil loop. Placed by Jamie Gorrian.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.473079,56.343684]
+      },
+      "properties": {"name":"The Loch Voil stone","weight":"124kg (273 lb)","liftable":"Yes","permission_required":"No","notes":"A replacement for the Monachyle stone that was moved due to vandalism. Placed by <a href='https://www.instagram.com/bigsexygrandad101/'>Jamie Gorrian</a> on Feb. 19th 2023.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.778833,56.897304]
+      },
+      "properties": {"name":"The Mason's Stone and Modlach Stone","weight":"58.4kg (129 lb) and 173kg (381 lb)","liftable":"Yes","permission_required":"No","notes":"A pair of stones at Modlach Tower. The smaller stone appears to be the Mason's Stone, which was lifted after the yearly inspection of Modlach tower. A larger 173kg stone has been placed as a further challenge.","number_of_stones":2,"references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.271326,57.681282]
+      },
+      "properties": {"name":"The Millshore Stone","weight":"125kg (276 lb)","liftable":"Yes","permission_required":"No","notes":"Placed by <a href='https://www.instagram.com/crawfordov24'>Andy Crawford</a> and <a href='https://www.instagram.com/michaelbrown2521/'>Michael Brown</a> - <a href='https://www.youtube.com/watch?v=McdxRZh3MLI'>Video</a>. It was moved from Cullykhan bay due to repeated vandalism.","number_of_stones":"1","references":"","page":"","image":"millshore-stone.jpg","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.806491,56.133034]
+      },
+      "properties": {"name":"The No. 9 Stones","weight":"60kg (132 lb), 100kg (220 lb), 145kg (320 lb)","liftable":"Yes","permission_required":"No","notes":"Three stones on top of the old No. 9 mineshaft. Park at the end of Ormiston Drive. Part of the Ochil loop. Placed by Jamie Gorrian.","number_of_stones":"3","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.214882,55.639083]
+      },
+      "properties": {"name":"The Saddle Stone","weight":"43kg (95 lb)","liftable":"Yes","permission_required":"No","notes":"Also known as the putting stone of the two glens.<br> The main route from Brodick to Sannox was up through the two glens over The Saddle. On the top of The Saddle is a natural archway with a stone sitting underneath. It became a superstition that the stone had to be lifted and placed through the archway to the side in which you were walking and then replaced on the return journey. A local also said that on occasions the locals would play competitions where they would continually lift and pass the stone through the gap as many times as possible. An additional 86kg (190 lb) stone (The Sannox Stone) has been placed.<br> Thanks to Jamie Gorrian for sharing the information.","number_of_stones":2,"references":"https://www.instagram.com/p/DK-CovVo3xQA_soOnLWsMhWLbljyeEG_LIemLM0/","page":"","image":"saddle-stone.jpg","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.309731,57.565299]
+      },
+      "properties": {"name":"Ultach Ailean Raghnaill","weight":"185.5kg (409 lb)","liftable":"Yes","permission_required":"No","notes":"A replacement for the original that was destroyed by road builders. The original was first lifted in early 20th century by an 18-year-old Alan McDonald of Uist. Placed by <a href='https://www.instagram.com/bigsexygrandad101/'>Jamie Gorrian</a> and <a href='https://www.instagram.com/jacobliftsstones/'>Jacob Hetherington</a> in October 2024.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.45307,57.646181]
+      },
+      "properties": {"name":"Ultach Dhomhaill Mhoir","weight":"208.3kg (459 lb)","liftable":"Yes","permission_required":"No","notes":"Lifted to arm's length overhead by Donald Mor Maclellan circa 1876","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.38679,57.539725]
+      },
+      "properties": {"name":"Ultach Ghilleasbuig Ailein Heisgeir","weight":"230kg (507 lb)","liftable":"Yes","permission_required":"No","notes":"Currently Scotland's heaviest  known historic lifting stone. Park just past Baleshare Bothies and walk to the stone (approximately 1km). H/T to Jamie Gorrian for the info.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.191219,57.716894]
+      },
+      "properties": {"name":"Ultach Ghillie Mhoire","weight":"169.55kg (374 lb)","liftable":"Yes","permission_required":"No","notes":"First lifted by Donald Morrison of Berneray in the early to mid 1800s and named after him. Park at the village hall and walk through the gate. H/T to Jamie Gorrian for the location.","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.40644,57.637389]
+      },
+      "properties": {"name":"Ultach na- h'airde glaise","weight":"185.95kg (410 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.247605,57.645437]
+      },
+      "properties": {"name":"Windyheads stone","weight":"150kg (330 lb)","liftable":"Yes","permission_required":"No","notes":"Placed by <a href='https://www.instagram.com/crawfordov24'>Andy Crawford</a> and <a href='https://www.instagram.com/michaelbrown2521/'>Michael Brown</a> - <a href='https://www.youtube.com/shorts/8MA9vDWx38s'>Video</a>","number_of_stones":"1","references":"","page":"","image":"","country":"Scotland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.467024,55.075465]
+      },
+      "properties": {"name":"Blue Stone of Old Hartley","weight":"~200kg (441 lb)","liftable":"No","permission_required":"","notes":"A Saxon boundary stone in Northumberland. William Carr supposedly demonstrated his strength by carrying it under his arm. David Horne put wind beneath the stone in 1999.","number_of_stones":"1","references":"https://www.megalithic.co.uk/article.php?sid=5609, https://www.blythtown.net/articles/willie-carr-strongman-of-blyth-34, http://www.davidhorne-gripmaster.com/ourstonelifting.html","page":"articles/old_hartley","image":"oldhartleystone.jpg","country":"England","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.536682,51.345598]
+      },
+      "properties": {"name":"Clutton Stone","weight":"120kg (265 lb)","liftable":"Yes","permission_required":"Yes","notes":"At Daggerwood Campsite. If you successfully lift the stone to your chest or above, you get a free night stay.","number_of_stones":"1","references":"https://daggerwoodcampsite.co.uk/, https://www.instagram.com/daggerwood_campsite/, https://www.instagram.com/p/CGEo45gHrz-/","page":"","image":"","country":"England","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.084287,52.479062]
+      },
+      "properties": {"name":"Maen Stone","weight":"90kg (200 lb)","liftable":"Yes","permission_required":"Yes","notes":"The tradition has it that it was lifted by the young men of the parish as a test of strength, other stories that it was thrown over the nearby beck to win the love of a maiden. Or that a giant threw the stone at a man from the village who stole his geese. Thanks to Calum Stott for sharing his information.<br><br>The stone is currently unavailable for lifting.","number_of_stones":1,"references":"https://www.instagram.com/p/DIYL09pIped/","page":"","image":"","country":"England","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.539369,53.174888]
+      },
+      "properties": {"name":"Peak District Dinnie Stones","weight":"189kg & 163kg (352kg)","liftable":"Yes","permission_required":"Yes","notes":"Located at Matlock Farm Park. Inspired by Scotland's Dinnie Stones, these stones were created for the 2019 Peak District Highland Games using nearby stones. They're lifted annually during the Peak District Highland Games, but can be attempted by appointment.<br>Contact via <a href='mailto:info@matlockfarmpark.co.uk'>email</a> to organize a lift.","number_of_stones":"1","references":"https://www.instagram.com/peakdistrictdinniestones/ https://www.instagram.com/p/CTe-2Flqdbe/","page":"","image":"peak-district-dinnie-stones.jpg","country":"England","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.086569,54.617332]
+      },
+      "properties": {"name":"Teesdale Feat Stone","weight":"135kg (298 lb)","liftable":"Yes","permission_required":"No","notes":"Originally used as an exhibition lifting stone for a stone festival in 2012. There is a small layby on the roadside at the bottom of the hill just beyond the houses. The road is frequented by tractors so please park sensibly. Rediscovered and resited in a field just off the Pennine Way Footpath by Calum Stott.","number_of_stones":"1","references":"","page":"articles/lonton-egg","image":"teesdale-feat-stone.jpg","country":"England","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.667698,53.865032]
+      },
+      "properties": {"name":"The Giant's Stone","weight":"","liftable":"","permission_required":"","notes":"Carried to this spot by the 'Yorkshire Giant' William Bradley for a wager. Sits next to a mural depicting his feat.","number_of_stones":"1","references":"https://www.alamy.com/mural-of-william-bradley-the-yorkshire-giant-and-the-stone-he-famously-carried-in-market-weighton-east-yorkshire-england-uk-image263278094.html","page":"articles/the-giants-stone","image":"the-giants-stone.jpg","country":"England","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.106217,52.251527]
+      },
+      "properties": {"name":"The Histon Stone","weight":"152kg (335 lb)","liftable":"No","permission_required":"","notes":"At The Boot Inn. Carried ~1km into Histon Village by 'The Histon Giant' Moses Carter for a bet in the early 1800s.","number_of_stones":"1","references":"","page":"","image":"","country":"England","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.072602,54.616003]
+      },
+      "properties": {"name":"The Lonton Egg","weight":"130kg (287 lb)","liftable":"Yes","permission_required":"Yes","notes":"Young men would challenge each other to see who was the strongest by lifting the Lonton Egg on the walk home from local pubs. The stone is on private property and you must arrange to visit the stone.<br><br>To lift the Lonton Egg:<ul><li>Contact <a href='https://www.instagram.com/sherlock_stones_/>Calum Stott</a> to arrange a lift with the owners.</li><li>Bring a drop pad (<strong>required</strong>).</li><li>Please make a donation to <a href='https://www.greatnorthairambulance.co.uk/'>Great North Air Ambulance Service</a>.</li><li>No groups of more than 5 people please.</li></ul>","number_of_stones":"1","references":"","page":"articles/lonton-egg","image":"lonton-egg.jpg","country":"England","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.766258,52.647195]
+      },
+      "properties": {"name":"The Wolf Stone and Beetle Stone","weight":"99kg (218 lb), 128kg (282 lb)","liftable":"Yes","permission_required":"Yes","notes":"The Wolf Stone was sourced from Scotland's River Dee and presented to Jamie Oates. Contact via <a href='https://www.instagram.com/btb_sleeves/'>Instagram</a> to organize a lift.","number_of_stones":"1","references":"","page":"","image":"the-wolf-stone.jpg","country":"England","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.919235,53.268634]
+      },
+      "properties": {"name":"Carreg Gamp","weight":"121kg (267 lb)","liftable":"Yes","permission_required":"","notes":"Has to be moved from a stone feature before it can be lifted. H/T to David Brodlie for the information and image. Recently weighed at 121kg","number_of_stones":"1","references":"","page":"","image":"carreggamp1.jpeg","country":"Wales","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.767622,53.025601]
+      },
+      "properties": {"name":"Garreg Orchest","weight":"136kg (300 lb)","liftable":"Yes","permission_required":"Yes","notes":"A Húsafell-esque carrying stone. Contact the owners of the farm to arrange a lift of the stone (see article). H/T to David Brodlie for the location and details.","number_of_stones":"1","references":"","page":"articles/garreg-orchest","image":"garreg-orchest1.jpg","country":"Wales","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.536658,53.11088]
+      },
+      "properties": {"name":"Maen Llŵyd stone","weight":"136.6kg (301 lb)","liftable":"Yes","permission_required":"No","notes":"Within the Gors Maen Llwyd nature reserve, North of Llyn Brenig reservoir. Described as very large and slightly angular by Roger Davis who lifted the stone in 2014 - its first lift in decades.<br>Many thanks to Pete Gallagher for the photo.","number_of_stones":"1","references":"","page":"","image":"maen-llwyd.jpg","country":"Wales","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.476307,53.299672]
+      },
+      "properties": {"name":"The Bodedern Stone","weight":"72kg (159 lb)","liftable":"Yes","permission_required":"Yes","notes":"Currently situated outside Prysaddfed Hall. Recently weighed at 72kg. All visits must be pre-arranged with the current owner, Mrs Rosemary Hadcock.","number_of_stones":"1","references":"","page":"","image":"","country":"Wales","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.232229,52.92001]
+      },
+      "properties": {"name":"Y Garreg Orchest","weight":"177.5kg (391 lb)","liftable":"Yes","permission_required":"Yes","notes":"Also known as the Criccieth Stone.","number_of_stones":"1","references":"","page":"articles/criccieth_stone","image":"cricciethstone.jpg","country":"Wales","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.328161,53.091791]
+      },
+      "properties": {"name":"Y Maen Camp","weight":"46kg (101 lb)","liftable":"Yes","permission_required":"Yes","notes":"The feat stone of Efenechtyd at St. Michael and All Angels Church. Thrown on Gwylmabsant every year at the end of September to see who takes the title of village champion. Intended to be thrown backwards overhead. H/T to David Brodlie and Charles Henshaw for the location and details.","number_of_stones":"1","references":"","page":"","image":"y-maen-camp.jpg","country":"Wales","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.876681,53.420329]
+      },
+      "properties": {"name":"Aillenacally Stone","weight":"~130kg (287 lb)","liftable":"Yes","permission_required":"No","notes":"Mentioned in Connemara: The Last Pool of Darkness by Tim Robinson. 'I told her what I had gathered of the village lore from its last inhabitant: that the cottage nearest to the crooked little jetties of the harbour was the storytelling house, and all the boatmen would call in there on returning from fishing or shipping turf to the islands; how the lads used to test their strength by trying to lift a certain round granite boulder lying on the shore outside it'","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.111458,53.866277]
+      },
+      "properties": {"name":"Aughrim Graveyard Stone","weight":"100kg (220 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.690011,53.243324]
+      },
+      "properties": {"name":"Cloch Bradley Mór","weight":"230kg (507 lb)","liftable":"Yes","permission_required":"Yes","notes":"Located outside a Shíbín, an illegal pub that would serve poitín (Irish moonshine). Historically lifted by the Bradley brothers, Pádraig and Ned. Lifted first in modern times by Brian Gannon. Discovered by David Keohan and Sean Ó'Coistealbha.<br><br>Contact <a href='&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x6A;&#x6D;&#x6D;&#x6A;&#x65;&#x6E;&#x6E;&#x69;&#x6E;&#x67;&#x73;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;'>John and Layla Jennings via email</a> to request permission.","number_of_stones":1,"references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.428972,53.233373]
+      },
+      "properties": {"name":"Cloch Chaladh an Uisce","weight":"175kg (386 lb)","liftable":"Yes","permission_required":"No","notes":"An ancient fisherman's testing stone, lifted by members of the O'Malley family in living memory.","number_of_stones":"1","references":"","page":"","image":"cloch-chaladh-an-uisce.jpg","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.439172,53.478105]
+      },
+      "properties": {"name":"Cloch Dysart","weight":"102kg (225 lb)","liftable":"Yes","permission_required":"No","notes":"This beautiful carved stone was the holy water font for the church located at this site. The church was supposedly destroyed by Cromwells forces and the stone became a test of strength for locals. Take extreme care when lifting to preserve the ornate carvings.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.266968,53.246728]
+      },
+      "properties": {"name":"Cloch Máirtín Tim","weight":"169kg (373 lb)","liftable":"Yes","permission_required":"Yes","notes":"Lifted by Máirtín Tim, notoriously the strongest man of the area, when he was 16 years old. The stone sits outside Máirtín's front door.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.884031,53.315871]
+      },
+      "properties": {"name":"Cloch an Aircín","weight":"~188kg (414 lb)","liftable":"Yes","permission_required":"No","notes":"Fishermen used to lift this stone at this old natural cove as a show of strength. Only a handful of men have successfully lifted it.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.454727,52.282853]
+      },
+      "properties": {"name":"Cloch an Cathaoir Dearg","weight":"203kg (447 lb)","liftable":"Yes","permission_required":"","notes":"Used as a test of strength for hundreds of years. According to folklore, a man died attempting to lift it. It's name is Gaelic Irish for 'Stone of Red Chair'.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.464292,53.754112]
+      },
+      "properties": {"name":"Cloughhundra Stone","weight":"188kg (414 lb)","liftable":"Yes","permission_required":"","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.400273,52.689958]
+      },
+      "properties": {"name":"Coffey Stone","weight":"183kg (403 lb)","liftable":"Yes","permission_required":"No","notes":"John Coffey Seragreen used to lift a big flag at Clare Bridge and put it standing on the end of the bridge. Strong men from all parts of the country used to attempt to lift the stone, but nobody else was able to. Rediscovered by Andy Downes and famously lifted by <a href='https://www.instagram.com/p/C8AT5GFooTQ/'>Jon Cegielski</a>.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.32341,53.929973]
+      },
+      "properties": {"name":"Denn Flagstone","weight":"251kg (553 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.756883,51.929568]
+      },
+      "properties": {"name":"Dripsey Stone","weight":"116.6kg (257 lb)","liftable":"No","permission_required":"","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.351051,52.461622]
+      },
+      "properties": {"name":"Emly Graveyard stone","weight":"203kg (447 lb)","liftable":"Yes","permission_required":"No","notes":"A man named David O'Brien of Ballivistea, Emly Co. Tipperary was reputed to have lifted an exceedingly large stone at Emly Graveyard. Rediscovered by Dr. Connor Slattery.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.73969,52.991105]
+      },
+      "properties": {"name":"Faha Graveyard stones","weight":"162kg (357 lb) and 112kg (247 lb)","liftable":"Yes","permission_required":"No","notes":"A pair of stones at Faha graveyard. A 180kg men's stone and a 120kg women's stone.","number_of_stones":"2","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-10.188712,53.61547]
+      },
+      "properties": {"name":"Inishbofin Stone","weight":"177kg (390 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.575497,53.080471]
+      },
+      "properties": {"name":"Inishmaan Graveyard Stone","weight":"153kg (337 lb)","liftable":"Yes","permission_required":"No","notes":"The true test of strength on the island of Inishmaan. The full test was to lift the stone to the graveyard wall. Micil Tom Choilm was the last man to lift it to the wall until Tiernan Canny replicated the feat in 2024.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.745973,53.121732]
+      },
+      "properties": {"name":"Inishmore Stone","weight":"171kg (377 lb)","liftable":"Yes","permission_required":"No","notes":"Liam O'Flaherty wrote about this stone in 'The Stone', 1937. 'And from time immemorial it had been the custom of the young men of the village to test their strength by lifting it'","number_of_stones":"1","references":"","page":"","image":"inishmore.jpg","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-10.093222,53.700804]
+      },
+      "properties": {"name":"Inishturk Stone","weight":"207kg (456 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.181084,54.008434]
+      },
+      "properties": {"name":"John Long's Bar Stone","weight":"232kg (512 lb)","liftable":"Yes","permission_required":"Yes","notes":"Located at John Long's bar. This stone is a \"jostle stone\" that was used to protect the building from passing carts since 1757 when the bar first opened. The last known lifter was Jim Maloney who lifted the stone roughly 70 years ago. Rediscovered by Andy Downes thanks to information from Peter Carroll.","number_of_stones":1,"references":"https://www.instagram.com/p/DHO1yNpqvUL/","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.898925,53.548709]
+      },
+      "properties": {"name":"Kilbannon Stone","weight":"115.5kg (255 lb)","liftable":"Yes","permission_required":"No","notes":"Located on the corner of Duddy's bar, Kilbannon, Co. Galway. This stone was a jostle stone to protect the building from turning horse carts. It was used as a test of strength by punters from the bar after a few pints.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.872962,52.605629]
+      },
+      "properties": {"name":"Kiltennell Graveyard Stones","weight":"50kg (110 lb), 100kg (220lb), 135kg (298 lb)","liftable":"Yes","permission_required":"","notes":"Note: weights are estimates.","number_of_stones":"3","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.391372,53.413756]
+      },
+      "properties": {"name":"Langan Stone of Clonfad","weight":"189.5kg (418 lb)","liftable":"Yes","permission_required":"No","notes":"Sits on the site of an old ruined church. Discovered by Warran MagEochagain. In the late 1700s it was carried to the graveyard from a neighbouring house by Paddy Langan of Bloomfield who proclaimed \"Men will count themselves good men if they can carry that stone\".","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.259505,53.840928]
+      },
+      "properties": {"name":"Port Millstone","weight":"197kg (434 lb), ~220kg (485 lb), ~260kg (573 lb)","liftable":"Yes","permission_required":"No","notes":"This broken millstone was lifted by men of the locality during pattern days, the festival of the local patron saint. The smallest piece weighs 197kg and the bigger two are yet to be weighed. In 2024 Conor Kenny became the first man in history to lift all 3 stones.","number_of_stones":"3","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.589804,53.077386]
+      },
+      "properties": {"name":"Stonemason's Test","weight":"125kg (276 lb)","liftable":"Yes","permission_required":"Yes","notes":"This stone had to be successfully loaded on to a dry limestone wall as a test to become a stonemason's apprentice on the island of Inishmaan. Located on private land.","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.343868,52.387894]
+      },
+      "properties": {"name":"The Bulk","weight":"~120kg (275 lb)","liftable":"No","permission_required":"","notes":"No longer liftable after being cemented down.","number_of_stones":1,"references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.946771,53.340234]
+      },
+      "properties": {"name":"The Claregalway stone","weight":"186kg (410 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.014272,52.272925]
+      },
+      "properties": {"name":"The Lonergan Stone","weight":"177.5kg (391 lb)","liftable":"Yes","permission_required":"","notes":"Named after Thomas Lonergan, who was the strongest man in the parish. People came on Sunday after mass to try and lift the stone. The stone is just inside the wall of the graveyard","number_of_stones":"1","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-10.195638,51.889394]
+      },
+      "properties": {"name":"Whartons' Stone","weight":"170kg (375 lb) +40kg (88 lb)","liftable":"Yes","permission_required":"Yes","notes":"This stone was historically lifted by the Wharton family of Caherciveen. The true test of strength was to lift the 170kg stone with another 40kg stone on top of it to knee height. First lifted by David Keohan. Connor Slattery became the first man to replicate the full test of strength.","number_of_stones":"2","references":"","page":"","image":"","country":"Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.019333,54.614017]
+      },
+      "properties": {"name":"The Scalp stone","weight":"124.5kg (275 lb)","liftable":"Yes","permission_required":"Yes","notes":"If a person could put light under the stone, they were acknowledged as being strong. If they were able to reach the stone up to their chin while standing, they were applauded and given renown.","number_of_stones":"1","references":"","page":"","image":"","country":"Northern Ireland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.481638,65.518169]
+      },
+      "properties": {"name":"Brynjólfstak","weight":"281kg (620 lb)","liftable":"Yes","permission_required":"No","notes":"First pulled from the sea in 1845 by Brynjólfur, the stone's namesake.","number_of_stones":"1","references":"","page":"articles/brynjolfstak","image":"brynjolfstak.png","country":"Iceland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-23.898761,64.753393]
+      },
+      "properties": {"name":"Dritvík Stones","weight":"23kg, 54kg, 100kg, 154kg","liftable":"Yes","permission_required":"No","notes":"These stones were traditionally used to determine where you could work on fishing boats. With Hálfdrættingur (54kg) being the minimum.","number_of_stones":"4","references":"","page":"articles/dritvik_stones","image":"dritvikstones.jpg","country":"Iceland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-20.871272,64.693842]
+      },
+      "properties": {"name":"Húsafell Stone","weight":"186kg (410 lb)","liftable":"Yes","permission_required":"No","notes":"Famously used as the gate to a sheep-pen.","number_of_stones":"1","references":"","page":"articles/husafell_stone","image":"husafellstone.png","country":"Iceland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.488575,65.515202]
+      },
+      "properties": {"name":"Judas stone","weight":"127kg (280 lb)","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"Iceland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.464,65.5332]
+      },
+      "properties": {"name":"Latra stones","weight":"96kg, 107kg, 144kg, 177kg","liftable":"Yes","permission_required":"Yes","notes":"(Approximate location) Similar to the Dritvik stones, the Latra stones were used by fishermen.","number_of_stones":"4","references":"","page":"","image":"","country":"Iceland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.678709,65.843786]
+      },
+      "properties": {"name":"Legsteinn","weight":"220kg (485 lb)","liftable":"Yes","permission_required":"No","notes":"Known as the Tombstone in English. Said to mark the spot where a farmer made a pact with the devil.","number_of_stones":"1","references":"","page":"articles/legsteinn","image":"Leggstein.jpg","country":"Iceland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-23.201888,65.73335]
+      },
+      "properties": {"name":"Petursstein","weight":"~175kg (385 lb)","liftable":"Yes","permission_required":"No","notes":"Stone and plinth lift. Named after Petur Gudmundsson.","number_of_stones":"1","references":"","page":"","image":"","country":"Iceland","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.815997,64.118628]
+      },
+      "properties": {"name":"Árbær stones","weight":"Between 81kg and 304kg","liftable":"Yes","permission_required":"No","notes":"A group of 8 stones at the Árbær Open Air Museum. 2 handled stones, and 6 'traditional' stones. Payment required for entry to the museum.","number_of_stones":"8","references":"","page":"","image":"","country":"Iceland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.224935,62.105974]
+      },
+      "properties": {"name":"(Unknown) Hav","weight":"","liftable":"","permission_required":"","notes":"Approximate location (within ~2km radius of coordinates). 'Rather square, next to the fence'.","number_of_stones":"1","references":"<a href='https://issuu.com/visitfaroeislands/docs/vfi_hiking_uk_hq.compressed'>issuu.com/visitfaroeislands</a>","page":"","image":"","country":"Faroe Islands","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.912106,62.282542]
+      },
+      "properties": {"name":"Anfinn's Hav","weight":"219kg (483 lb)","liftable":"Yes","permission_required":"","notes":"Named after Anfinn, who is said to have picked up the stone with one hand.","number_of_stones":"1","references":"https://marmennilin.fo/en/","page":"","image":"","country":"Faroe Islands","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.694825,62.119288]
+      },
+      "properties": {"name":"Hav Ólavs Sterka","weight":"~220kg (485 lb)","liftable":"Yes","permission_required":"","notes":"(Within ~10km radius of coordinates)","number_of_stones":"1","references":"<a href='https://web.archive.org/web/20140305011023/http://www.visiteysturoy.fo/uk/data/attachments/61561FEE-C20F-4D6A-8EF6-CCD5670AF30F/8F6E45FB-5360-4867-BF2F-BFAAA4F83408.pdf'>visiteysturoy.fo</a>","page":"","image":"","country":"Faroe Islands","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.821395,62.250286]
+      },
+      "properties": {"name":"Malunar Hav","weight":"176kg (388 lb)","liftable":"Yes","permission_required":"No","notes":"Very approximate location. It is said that a milkmaid named Malun lifted this stone. Be aware that the top of the stone is heavily cracked.","number_of_stones":"1","references":"<a href='https://web.archive.org/web/20140305011023/http://www.visiteysturoy.fo/uk/data/attachments/61561FEE-C20F-4D6A-8EF6-CCD5670AF30F/8F6E45FB-5360-4867-BF2F-BFAAA4F83408.pdf'>visiteysturoy.fo</a><br><a href='https://www.guidetofaroeislands.fo/travel-information/the-ultimate-guide-to-eysturoy'>guidetofaroeislands.fo</a><br><a href='https://issuu.com/visitfaroeislands/docs/vfi_hiking_uk_hq.compressed'>issuu.com/visitfaroeislands</a>","page":"","image":"","country":"Faroe Islands","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.765629,62.335223]
+      },
+      "properties": {"name":"Marjunar Hav","weight":"287.5kg (634 lb)","liftable":"No","permission_required":"","notes":"Named after Marjun, a housemaid in the 16th century who is said to have lifted the stone.","number_of_stones":"1","references":"<a href='http://visitnordoy.fo/frontpage/about/the-northern-isles/kalsoy/marjunar-hav/'>visitnordoy.fo/marjunar-hav</a><br><a href='http://visitnordoy.fo/content/uploads/2017/09/mikladalurendaligt.pdf'>visitnordoy.fo/mikladalurendaligt.pdf</a>","page":"articles/marjunar_hav","image":"marjunarhavstone.png","country":"Faroe Islands","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.958357,69.648184]
+      },
+      "properties": {"name":"Eidis Hansa-steinen","weight":"371kg (818 lb)","liftable":"No","permission_required":"","notes":"Stone lifted by Eidis Hansen who placed it in front of a merchant's shop to prevent customers from entering.","number_of_stones":"1","references":"https://digitaltmuseum.no/011085439737/eidis-hansa-steinen","page":"articles/eidis-hansa-steinen","image":"eidishansenstone.jpg","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.412121,62.186117]
+      },
+      "properties": {"name":"Jakob E. Kvistad Steinen","weight":"398.5kg (879 lb)","liftable":"","permission_required":"","notes":"Stone lifted by Jakob Kvistad circa 1889 when he was only 18 years old.","number_of_stones":"1","references":"https://www.hjorundfjord.no/artikkel/2019/06/vasstoylen-og-longhorndalen","page":"articles/kvistad","image":"kvistadStone.jpg","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.522039,59.354744]
+      },
+      "properties": {"name":"Klypelyftstein","weight":"120kg (265 lb)","liftable":"No","permission_required":"","notes":"A thin oval shaped pinch-lift stone. Lifted by Sterke Nils. Located behind a house at the Kviteseid bygdetun museum.","number_of_stones":"1","references":"https://lokalhistoriewiki.no/wiki/Klypelyftstein","page":"articles/klypelyftsteinen","image":"klypelyftstein120plaque.jpg","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.620401,59.478079]
+      },
+      "properties": {"name":"Klypelyftstein","weight":"75kg (165 lb)","liftable":"Yes","permission_required":"Yes","notes":"A 'pinch lift stone' - an oddly shaped stone lifted with one hand as a test of grip strength. Lifted by Sterke Nils.","number_of_stones":"1","references":"https://www.youtube.com/watch?v=Z2B3TdBQ0xw, http://www.froderui.com/klypelyftstein/","page":"articles/klypelyftsteinen","image":"klypelyftstein.jpg","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.355271,63.417764]
+      },
+      "properties": {"name":"Per Persasteinen","weight":"247.5kg (545 lb)","liftable":"Yes","permission_required":"No","notes":"Originally lifted by Peder Pedersen who was well known for his strength and skills as a blacksmith. Located at the Sverresborg Trøndelag Folkemuseum.","number_of_stones":1,"references":"https://sverresborg.no/, Per Persasteinen. Løftarstein fra Løvøy i Fosen - Sverresborg Trøndelag Folkemuseum / DigitaltMuseum, Folkemuseet for Trondheim og Trøndelag veileder gjennem museets samlinger (nb.no)","page":"","image":"","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.648228,59.881225]
+      },
+      "properties": {"name":"Sterke Hans Steinen","weight":"","liftable":"No","permission_required":null,"notes":"Lifted by 'Sterke Hans' (Strong Hans). Before the stone became a monument, the challenge was to lift the stone of the ground as high as possible. Located at the Tinn Museum.","number_of_stones":1,"references":"https://www.nb.no/items/90c3bc97a686ce2d1517dabc03b83cd3?page=1&searchText=steinl%C3%B8ftet","page":"","image":"","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.635128,59.488986]
+      },
+      "properties": {"name":"Sterke Nils steinen","weight":"570kg (1,257 lb)","liftable":"No","permission_required":"","notes":"An enormous stone supposedly lifted by 'Sterke Nils'. Sits near Seljord Church as a monument.","number_of_stones":"1","references":"https://lokalhistoriewiki.no/index.php/Sterke-Nils","page":"articles/sterkenils","image":"Sterke-Nils-med.jpg","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.501296,59.783418]
+      },
+      "properties": {"name":"Vatnaelv Stone","weight":"106.5kg (235 lb)","liftable":"Yes","permission_required":"Unknown","notes":"Found by workers in 1913 who were working on a road near the river Vatna. They carved 1913 into the stone. The stone is now kept at Sunnhordlandstunet Museum who keep a list of successful lifts. Weighed by Knut Einar Skår","number_of_stones":1,"references":"https://phaa.me/","page":"","image":"","country":"Norway","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.050925,57.179626]
+      },
+      "properties": {"name":"Apladalen stones","weight":"136kg (300 lb) and 120kg (265 lb)","liftable":"Yes","permission_required":"No","notes":"A pair of Drängalyft stones at the Apladalen home village park.","number_of_stones":"2","references":"http://gamla2015.skillingaryd.nu/nyheter/apladalen-i-varnamo-del-4","page":"","image":"","country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.326475,56.641623]
+      },
+      "properties": {"name":"Arnanäs stone","weight":"94kg (207 lb)","liftable":"Yes","permission_required":"","notes":"A flat egg-shaped stone. Has \"1900\" carved into it.","number_of_stones":"1","references":"","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.562588,56.480171]
+      },
+      "properties": {"name":"Ellagölshult stone","weight":"139kg (307 lb)","liftable":"Yes","permission_required":"Yes","notes":"On a low plinth. Request permission from the farm owner first.","number_of_stones":"1","references":"","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.657018,56.217274]
+      },
+      "properties": {"name":"Hörja Lyftsten","weight":"112.5kg (248 lb)","liftable":"Yes","permission_required":"","notes":"Prospective farmhands had to lift and carry this stone to get the job.","number_of_stones":"1","references":"","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.531612,56.236256]
+      },
+      "properties": {"name":"Jämshög Drängasten","weight":"137kg (302 lb)","liftable":"Yes","permission_required":"Yes","notes":"A ringed stone to be lifted with one hand. At the Jämshögs Hembygdsmuseum - please contact the museum in advanced if you'd like to lift it.","number_of_stones":"1","references":"https://www.hembygd.se/jamshog/drang","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.423852,55.990539]
+      },
+      "properties": {"name":"Karrastenen","weight":"136kg (300 lb)","liftable":"Yes","permission_required":"No","notes":"Sits next to a wooden signpost next to the Skåneleden trail.","number_of_stones":"1","references":"http://www.oldmanofthestones.com/blog/sweden-karras-stenen, https://sv.wikipedia.org/wiki/Allarps_bjär,","page":"","image":"","country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.805901,58.227086]
+      },
+      "properties": {"name":"Kungslena stone","weight":"167kg (368 lb)","liftable":"Yes","permission_required":"No","notes":"Drängalyftet next to a sign.","number_of_stones":"1","references":"","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.089351,63.859657]
+      },
+      "properties": {"name":"Kåddis stone","weight":"~135kg (298 lb)","liftable":"Yes","permission_required":"No","notes":"A drängasten from Kåddis at the soldiers' camp in Brännland. Donated to Hembygdsföreningen Umbygda by Hilbert Lidgren from nearby Kåddis. The sign invites people to give it a go.","number_of_stones":"1","references":"https://www.hembygd.se/umbygda/, https://www.brannlandswardshus.se/","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.448084,57.836161]
+      },
+      "properties": {"name":"Lyftestenen","weight":"127kg (280 lb), 174.6kg (385 lb)","liftable":"Yes","permission_required":"No","notes":"2 stones to be lifted onto the plinth.","number_of_stones":"2","references":"https://www.hembygd.se/norra-vi-hembygdsf-rening/plats/224844/picture/2337446, https://www.youtube.com/watch?v=VQmJFObdLm0","page":"","image":"","country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.728792,56.749752]
+      },
+      "properties": {"name":"Långlöt stone","weight":"99kg (219 lb)","liftable":"Yes","permission_required":"No","notes":"On the side of the road opposite the farm entrance.","number_of_stones":"1","references":"","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.933239,56.742829]
+      },
+      "properties": {"name":"Moresbacken stones","weight":"102kg (225 lb), 134.5kg (297 lb)","liftable":"Yes","permission_required":"No","notes":"There's a stone pillar you can lift the stones to.","number_of_stones":"2","references":"https://www.instagram.com/travel_liftstones_repeat/reel/C_rRfZ_guWP/","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.168847,56.751961]
+      },
+      "properties": {"name":"Ormeshaga Stone","weight":"118kg (260 lb)","liftable":"Yes","permission_required":"No","notes":"Situated under a tree. Has a plaque engraved with its name and weight.","number_of_stones":"1","references":"http://www.oldmanofthestones.com/blog/sweden-ormeshaga?categoryId=32278","page":"","image":"","country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.215316,59.284826]
+      },
+      "properties": {"name":"Örebro stones","weight":"~110kg (240 lb) to ~180kg (396 lb)","liftable":"Yes","permission_required":"No","notes":"A group of 6 or 7 stones in Örebro.","number_of_stones":"7","references":"","page":null,"image":null,"country":"Sweden","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.494721,55.788323]
+      },
+      "properties": {"name":"Mules Old lifting stone","weight":"180.5kg (398 lb)","liftable":"Yes","permission_required":"Yes","notes":"Originally from the Faroe islands, now in the Open Air museum in Denmark. 'The point was to keep the stone lifted up as long as possible.' (Hold for time)","number_of_stones":"1","references":"http://www.oldmanofthestones.com/blog/mules-old-lifting-stone?categoryId=58812","page":"","image":"","country":"Denmark","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.702287,63.161414]
+      },
+      "properties": {"name":"Karperö Lifting Stone","weight":"117kg (258 lb)","liftable":"Yes","permission_required":"Yes","notes":"Located in Karperö since 1880, originally at Nysto farm. In the 1930s it was moved to its current location near Carpella Strandlid.<br> The stone is stored in a building next to the youth centre. Permission to access the stone may be attained by contacting the youth centre, who will be happy to let you take it out as long as you return it.","number_of_stones":"1","references":"https://sv.m.wikipedia.org/wiki/Lyftstenen_i_Karper%C3%B6","page":"/articles/karpero-lifting-stone","image":"karpero-stone.jpg","country":"Finland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.371191,64.623976]
+      },
+      "properties": {"name":"Nauris-Oskari's Väkikivi","weight":"116.6kg (257 lb)","liftable":"Yes","permission_required":"No","notes":"Nauris-Oskari went to propose to the beautiful daughter of the Peltola house and was turned down. Upset, he grabbed the large stone in the yard and carried it to the gate of the house, which was 250 metres away. The people of Peltola had never been able to carry the stone for as long a distance, and Nauris-Oskari's display of strength brought shame to the house. As a result, the stone was never moved.\nLocated at the Kaunislehto Open Air Museum in Hyrynsalmi and available to lift when the museum is open.\n","number_of_stones":1,"references":"https://emuseo.fi/kaunislehto\nhttps://www.hyrynsalmi.fi/vapaa-aika-ja-kulttuuri/kulttuuri/kaunislehton-talomuseo\n","page":"","image":"","country":"Finland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.851865,46.684049]
+      },
+      "properties": {"name":"The Unspunnen Stone","weight":"83.5kg (184 lb)","liftable":"No","permission_required":"No","notes":"The 1985, 2007, and 2022 stones are all stored in the bank for safekeeping.","number_of_stones":"1","references":"","page":"articles/unspunnen-stone","image":"unspunnen-stone.jpg","country":"Switzerland","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.137668,51.101042]
+      },
+      "properties": {"name":"ATX Legend Stone","weight":"132kg","liftable":"No","permission_required":"No","notes":"Doesn't seem to exist any more. Marked with 'ATX'. Intended to be pressed overhead.","number_of_stones":"1","references":"https://www.youtube.com/watch?v=5Byu62HP4Zs","page":"articles/legend-stones#atx-legend-stone","image":"atx-stone.jpg","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.89397,53.54467]
+      },
+      "properties": {"name":"Algiz Stone ᛉ","weight":"~80kg-90kg","liftable":"Yes","permission_required":"No","notes":"Marked with the Algiz rune ᛉ. Has to be pressed overhead.","number_of_stones":"1","references":"https://www.youtube.com/watch?v=-V6P-Ep7H2s","page":"articles/legend-stones#algiz-stone-ᛉ","image":"algiz-stone.jpg","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.308917,52.598139]
+      },
+      "properties": {"name":"Ansuz Stone ᚨ","weight":"","liftable":"Yes","permission_required":"No","notes":"The first Legend Stone. Marked with the Ansuz rune ᚨ. Has to be lifted to chest.","number_of_stones":"1","references":"https://www.youtube.com/watch?v=Gzt6yEqfrI8","page":"articles/legend-stones#the-ansuz-stone-ᚨ","image":"ansuz-stone.jpg","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.578621,48.141129]
+      },
+      "properties": {"name":"Duke Christoph's stone","weight":"","liftable":"No","permission_required":"","notes":"The Duke lifted this stone in a competition to see who would marry a woman. A strong Bavarian woman also lifted the stone in the 1800s. Thanks to Szymon Wójcik for the photos of the stone.","number_of_stones":"1","references":"https://uploads.strikinglycdn.com/files/639a7c3c-6fd2-4e16-a97f-d51d41bfc24c/DUKE%20CHRISTOPH.pdf","page":"","image":"duke-christoph-stone.jpg","country":"Germany","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.692694,49.725436]
+      },
+      "properties": {"name":"Jera Stone ᛃ","weight":"","liftable":"Yes","permission_required":"No","notes":"Marked with the Jera rune ᛃ. Has to be balanced on a plinth stone.","number_of_stones":"1","references":"https://www.youtube.com/watch?v=-EPR04JFdfY","page":"articles/legend-stones#jera-stone-ᛃ","image":"jera-stone.jpg","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.356694,48.633722]
+      },
+      "properties": {"name":"Stone of Thor ᚦ","weight":"","liftable":"Yes","permission_required":"No","notes":"Marked with the Thurisaz rune ᚦ. Has to be shouldered. The path to the stone is quite rocky and goes downhill - good shoes are recommended.","number_of_stones":"1","references":"https://www.youtube.com/watch?v=5-iF7ribAMQ","page":"articles/legend-stones#stone-of-thor-ᚦ","image":"stone-of-thor.jpg","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.218998,50.904145]
+      },
+      "properties": {"name":"The Alte Boy Stone","weight":"","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"https://www.instagram.com/stories/highlights/18024597571865740/","page":"articles/legend-stones","image":"","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.806283,50.949069]
+      },
+      "properties": {"name":"The Bolzplatz Stone","weight":"","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"articles/legend-stones","image":"https://www.instagram.com/stories/highlights/18024597571865740/","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.576176,52.562195]
+      },
+      "properties": {"name":"The Genonen Stone","weight":"","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"articles/legend-stones","image":null,"country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.196612,48.893193]
+      },
+      "properties": {"name":"The Kohlruss Stone","weight":"185kg (407 lb)","liftable":"Yes","permission_required":"No","notes":"At the Eisenbär Fitnessstudio. First shouldered by Dennis Kohlruss.","number_of_stones":"1","references":"https://www.instagram.com/stories/highlights/18024597571865740/","page":"articles/legend-stones","image":"","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.74385,49.194956]
+      },
+      "properties": {"name":"Uruz Stones ᚢ","weight":"","liftable":"Yes","permission_required":"No","notes":"Marked with the Uruz rune ᚢ. 2 stones - one stone lifted to a large plinth, and the second to be carried around the plinth. At the 'Devil's table'.","number_of_stones":"2","references":"https://www.youtube.com/watch?v=u87s3L5NIyM","page":"articles/legend-stones#uruz-stones-ᚢ","image":"uruz-stone1.jpg","country":"Germany","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.799316,35.671846]
+      },
+      "properties": {"name":"Chikaramochi monument stones","weight":"206kg (455 lb)","liftable":"No","permission_required":"","notes":"Seven stones making up a monument to strong people at Tomioka Hachiman Shrine.<br>Food warehouse workers around Fukagawa would boast about their strength by lifting rice sacks and other items. They lifted heavy stones and engraved them with the worker's name and the stone's weight before donating them to shrines. The heaviest stone on display weighs 55 <i>kan</i> (206.25kg).","number_of_stones":"7","references":"https://www.jalan.net/kankou/spt_13108aj2200023434/kuchikomi/0003702230/, https://chikaraishiworld.blog.fc2.com/blog-entry-603.html, https://blog.goo.ne.jp/arakawa3po/e/6a4b23b6424b02048dcfa38ed8b909c5","page":"","image":"chikaramochi-monument.jpg","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.235062,36.131644]
+      },
+      "properties": {"name":"Hida folk village stones","weight":"93.75kg (207 lb) and 75kg (165 lb)","liftable":"Yes","permission_required":"Yes","notes":"A pair of lifting stones at the Hida Folk Village open air museum. There's an entry fee of around ¥700.","number_of_stones":"2","references":"","page":"articles/hida-folk-village-stones","image":"hida-folk-village-stones.jpg","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.790631,35.901618]
+      },
+      "properties": {"name":"Koshigaya Hisaizu Shrine Stone","weight":"190kg (419 lb)","liftable":"No","permission_required":"","notes":"A stone on a plinth lifted by Sannomiya Unosuke in 1831 when he was 24.","number_of_stones":"1","references":"","page":"","image":"","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.790579,35.901964]
+      },
+      "properties": {"name":"Koshigaya Hisaizu Shrine power stone","weight":"","liftable":"No","permission_required":"","notes":"An inaccessible stone behind the shrine - visible through the fence.","number_of_stones":"1","references":"","page":"","image":"","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.781963,35.901451]
+      },
+      "properties": {"name":"Koshigaya Katori shrine stones","weight":"70kg (154 lb)","liftable":"Yes","permission_required":"No","notes":"3 total stones. Only 1 is liftable.","number_of_stones":"3","references":"","page":"","image":"","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.410573,33.592798]
+      },
+      "properties": {"name":"Kushida Shrine's test stone","weight":"~100kg (220 lb)","liftable":"Yes","permission_required":"No","notes":" A group of 19 power stones dedicated by sumo wrestlers. The 'test stone' on the floor is liftable, the others are not.","number_of_stones":"20","references":"https://matcha-jp.com/en/1617","page":"articles/kushida-shrines-power-stones","image":"kushida-test-stone2.jpg","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.655645,36.565911]
+      },
+      "properties": {"name":"Oyama shrine's power stones","weight":"","liftable":"No","permission_required":"","notes":"Four stones donated by the Maeda family. Young men would lift these stones as a test of strength. It's said that touching these stones brings good health.","number_of_stones":"4","references":"","page":"","image":"oyama-chikaraishi.jpg","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.374042,36.355491]
+      },
+      "properties": {"name":"Raiden's stone","weight":"135kg (298 lb)","liftable":"Yes","permission_required":"No","notes":"A power stone placed next to a monument of Raiden Tameemon at a roadside stop.","number_of_stones":"1","references":"","page":"","image":"","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.752968,35.927159]
+      },
+      "properties": {"name":"Sannomiya Katori Shrine Stones","weight":"520kg, 200kg, 170kg, 110kg","liftable":"No","permission_required":"","notes":"5 stones recorded on the sign, 4 stones on display - all lifted by Sannomiya Unosuke. This is Sannomiya Unosuke's home town. The stones became designated cultural propery on March 29th 2013.","number_of_stones":"5","references":"","page":"","image":"","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.753689,34.676615]
+      },
+      "properties": {"name":"Soja power stones","weight":"97.5kg, 167kg, 180kg","liftable":"Yes","permission_required":"Yes","notes":"23 stones lifted during Chikaraishi Soja - an annual lift and hold event. The original Soja power stone was dedicated in 1847. Sumo wrestlers threw it into the lake for fun.","number_of_stones":"23","references":"","page":"","image":"","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.590657,34.796413]
+      },
+      "properties": {"name":"Usuki hachiman shrine stones","weight":"","liftable":"Yes","permission_required":"Yes","notes":"Five Stones at Usuki hachiman shrine around the Sannomiya Unosuke statue. Two were lifted by Sannomiya Unosuke himself.","number_of_stones":"5","references":"","page":"","image":"sannomiya-statue.jpg","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.015279,35.325754]
+      },
+      "properties": {"name":"Ōiko's power stone","weight":">500kg (1,102 lb)","liftable":"No","permission_required":"Unknown","notes":"A massive stone said to have been lifted in the 12th century by Ōiko, a woman of legendary strength who moved the stone in the dead of night to settle a dispute over water irrigation. Also referred to as minakuchiishi (水口石).","number_of_stones":1,"references":"","page":"articles/oikos-stone","image":"oiko-stone.jpg","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.566017,36.003806]
+      },
+      "properties": {"name":"大盤石 - Japan's heaviest power stone","weight":"610kg, 120kg","liftable":"No","permission_required":"","notes":"Sannomiya Unosuke lifted this stone in 1852 at 45 years old. He was the strongest man of the Edo period. A second 120kg stone sits beside it.","number_of_stones":"2","references":"","page":"articles/japans-heaviest-power-stone","image":"610-daibanjaku-side.jpg","country":"Japan","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.309902,33.462255]
+      },
+      "properties": {"name":"Aewol Village Stone","weight":"","liftable":"Yes","permission_required":"Unknown","notes":"The stone marker next to the lifting stone says: 'It was moved to that location from Yongdalgeujeongmul around 1918 by an adult who wanted to show off his strength, after several local strong youths failed to lift it.'","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.457624,33.50149]
+      },
+      "properties": {"name":"Baekposeo 3-gil stone","weight":"","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.242397,33.395747]
+      },
+      "properties": {"name":"Deumdol restaurant stone","weight":"","liftable":"No","permission_required":"","notes":"A single stone at 듬돌 (lifting stone) restaurant. The owner's grandfather placed a lifting stone onto the rock wall around his property, where it can be viewed today. Great noodle soup!","number_of_stones":"1","references":"","page":"","image":"jeju-lifting-stone-restaurant.jpg","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.353798,33.25935]
+      },
+      "properties": {"name":"Gamsan Village Stones","weight":"","liftable":"Yes","permission_required":"Unknown","notes":"2 stones at the Gamsan Village Office - locals would probably have a great time watching.","number_of_stones":"2","references":"","page":"","image":"jeju-gamsan-village-office-stones.jpg","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.310525,33.444028]
+      },
+      "properties": {"name":"Gwakji Village Stone","weight":"","liftable":"Yes","permission_required":"No","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.531668,33.506426]
+      },
+      "properties": {"name":"Jeju Folklore Stones","weight":"","liftable":"No","permission_required":"","notes":"3 stones at the Jeju Folklore and Natural History Museum","number_of_stones":"3","references":"","page":"","image":"jeju-folklore-history-stone.jpg","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.863673,33.522047]
+      },
+      "properties": {"name":"Jeju Haenyeo museum stone","weight":"","liftable":"Yes","permission_required":"No","notes":"A stone in the large outdoor area in front of the museum.","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.657978,33.449107]
+      },
+      "properties": {"name":"Jeju Stone Park Stone","weight":"","liftable":"Unknown","permission_required":"","notes":"At least 1 stone at the Jeju Stone Park on display behind glass, possibly one more intended to be lifted.","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.841853,33.322476]
+      },
+      "properties": {"name":"Jeju folk village stones","weight":"","liftable":"Yes","permission_required":"No","notes":"Several stones that visitors are invited to try lifting.","number_of_stones":"2","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.372576,33.47272]
+      },
+      "properties": {"name":"Jungeom Village Stones","weight":"","liftable":"Yes","permission_required":"Unknown","notes":"5 stones in front of the village office. One of the large stones has an engraving.","number_of_stones":"5","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.558467,33.511688]
+      },
+      "properties": {"name":"Lifting Stone Street","weight":"","liftable":"Unknown","permission_required":"Multiple stones.","notes":"","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.799717,33.386268]
+      },
+      "properties": {"name":"Seongeup folk village stones","weight":"","liftable":"Yes","permission_required":"No","notes":"Free to enter. 2 stones in an area with a sign, 1 smaller stone and 1 larger one. Possibly a third stone somewhere. Visitors are invited to try lifting.","number_of_stones":"2","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.898,33.474683]
+      },
+      "properties": {"name":"Siheung Village Stone","weight":"","liftable":"Yes","permission_required":"No","notes":"The village was famous for its strong men and welcomes visitors to try lifting the stone. The village was previously called Simdol meaning 'strength stone'.","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.624331,33.257909]
+      },
+      "properties": {"name":"Soesokkak stone","weight":"","liftable":"Yes","permission_required":"","notes":"1 stone at the Soesokkak Local Products Tourist Farm. The sign says 'Give it a try!'","number_of_stones":"1","references":"","page":"","image":"jeju-soesokkak-stone.jpg","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.682112,33.491547]
+      },
+      "properties": {"name":"Wasan Village Stone","weight":"","liftable":"No","permission_required":"","notes":"A stone at the town hall. It was moved when the new town hall was built. Currently missing.","number_of_stones":"1","references":"","page":"","image":"","country":"South Korea","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.767639,20.222559]
+      },
+      "properties": {"name":"Kamehameha Rock","weight":"~450kg (992  lb)","liftable":"No","permission_required":"","notes":"A very large stone supposedly lifted by King Kamehameha when he was a young teenager - estimated to weigh ~450kg","number_of_stones":"1","references":"https://www.youtube.com/watch?v=kI2szHyCVqE","page":"","image":"","country":"USA","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.989598,39.984565]
+      },
+      "properties": {"name":"The Replica Dinnie Stones","weight":"333kg (734 lb)","liftable":"Yes","permission_required":"No","notes":"Replica Dinnie Stones at the Rogue Fitness HQ retail store. Available to lift when not at competitions or events.","number_of_stones":"1","references":"","page":"articles/replica-dinnie-stones","image":"replica-dinnies.jpg","country":"USA","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.153337,40.216968]
+      },
+      "properties": {"name":"William Keith's Stone","weight":"~90kg (~200 lb)","liftable":"No","permission_required":null,"notes":"A mushroom-shaped stone used as a test of strength by Sir William Keith for potential employees and possibly slaves circa 1723-1739. Mounted on top of a wall outside the Keith House Museum. Sometimes referred to as the Graeme Park lifting stone.","number_of_stones":1,"references":"https://graemepark.blogspot.com/2014/03/william-keiths-stone-of-strength.html?m=1, http://graemepark.blogspot.com/2013/08/what-is-it-where-is-it-jun-ly-lifting.html?m=1, https://www.graemepark.org/history/","page":null,"image":null,"country":"USA","category":"historic"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.28029,-28.810825]
+      },
+      "properties": {"name":"Oakes Oval Stone","weight":"1100kg (2,425 lb)","liftable":"","permission_required":"","notes":"A massive stone <a href='https://www.youtube.com/watch?v=fGx5Cu0QNC8'>lifted by Derek Boyer</a> in 2012 in an assisted hip-lift. The stone is unnamed, but it sits outside of the Oakes Oval.","number_of_stones":"1","references":"","page":"","image":"","country":"Australia","category":"contemporary"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.448423,-17.64664]
+      },
+      "properties": {"name":"Polynesian Stonelifting","notes":"The ancient tradition of stonelifting across the islands of French Polynesia","references":"","page":"articles/polynesian-stonelifting","image":"amoraa-ofai.jpg","country":"French Polynesia","category":"culture"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.532388,-18.923185]
+      },
+      "properties": {"name":"Queen's Palace Stone","weight":"~120kg (275 lb)","liftable":"Unknown","permission_required":null,"notes":"A testing stone for prospective soldiers who wanted to guard the Queen's Palace.","number_of_stones":1,"references":"https://www.instagram.com/p/C5fsGzbo-Bq/","page":null,"image":null,"country":"Madagascar","category":"historic"}
+    }
+  ]
+}
+

@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Modern Stones of Strength</name>
+    <description>This map is dedicated to showcasing the worldwide locations of modern Stones of Strength</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>North America</name>
+      <Placemark>
+        <name>The Granite Garden</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQawy5bz77jBe9i8Sg6jxffgNB9vSEC7viCjr_jYHEap1VQQKRRJrXaYZ1P821zksg0cCrUpG0B02Tnx-HWaU4MsdsHyvC3Zw-thDpDYSwMw45ieWzRl4vO0o3aMDX47wKQWPMi1yKJs4T4rhAietRvC2tMq_8W8PVhfyPzmN6S6YzNWwtAGTCc1wlleGIerGMD6IEFunQZ4nh_HRVyHPg22cm0VsOsH18MS2ypELvJsoUd04pfPqgeG2c?fife=s16383" height="200" width="auto" /><br><br>This is one of the main locations of the Edmonton Stones of Strength. It is filled with dozens of training and testing stones, the most well known being the Devils Potato, a 409lb beast]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQawy5bz77jBe9i8Sg6jxffgNB9vSEC7viCjr_jYHEap1VQQKRRJrXaYZ1P821zksg0cCrUpG0B02Tnx-HWaU4MsdsHyvC3Zw-thDpDYSwMw45ieWzRl4vO0o3aMDX47wKQWPMi1yKJs4T4rhAietRvC2tMq_8W8PVhfyPzmN6S6YzNWwtAGTCc1wlleGIerGMD6IEFunQZ4nh_HRVyHPg22cm0VsOsH18MS2ypELvJsoUd04pfPqgeG2c?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -113.5578831,53.5086089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Eigeilli Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS_8aR9p1Q9CM3gypanLfhzjjQmctOIXiB4v686rS58vdH9beOdVB-zpvcmHRscxkutklHNA8u4THED3HNJ0cqMlmw6oDnHTv8zt2pRtWNlYYZ_BreRf359bg8Ra8lB1Afv99yz_xT55ZUetm6fbtw-eglgVNE8OJPpiMglIY2PzyiKXG3jFotVWsfqRVlEjj4x1uuABeFY-k1dGWsgMuROMYQeiA8I2HfVepKCRxmYMwCn8YSu6ZEv9rw?fife=s16383" height="200" width="auto" /><br><br>A legendary feat of strength. The 380lb stone is to be lifted to shoulder to earn the title Eigeilli, meaning Berserker or akin to a beast in ancient Gaelic. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS_8aR9p1Q9CM3gypanLfhzjjQmctOIXiB4v686rS58vdH9beOdVB-zpvcmHRscxkutklHNA8u4THED3HNJ0cqMlmw6oDnHTv8zt2pRtWNlYYZ_BreRf359bg8Ra8lB1Afv99yz_xT55ZUetm6fbtw-eglgVNE8OJPpiMglIY2PzyiKXG3jFotVWsfqRVlEjj4x1uuABeFY-k1dGWsgMuROMYQeiA8I2HfVepKCRxmYMwCn8YSu6ZEv9rw?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -113.5576658,53.5087022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Coal Miners Carry</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRcduHE0UKhzovaQ_V0FAXmoARdoxmtDOuZRIbuIBUKvY3jLrQFovVdSoYbPaE-TFAmlI1ER_o4e7fk8T4EW5yh5Eu5bHL9Y22UUnZ4LtPxU3WkbZHJJq-coOMXUn1pEzJ75D9Pd-GBMLssfhFFJMkp-Gu22PVQij93R1gInWuhRKAFzH68Y_i6LgWXER4ubrNgHTgPkMtv_sEDZ011Vka6tsZO8i1sW5x-XluZeFS0sbDqJDbKy5V5gdw?fife=s16383" height="200" width="auto" /><br><br>The 355lb Mooseafell stone greatly resembles the legendary Husafell stone of Iceland. The Mooseafell is to be carried around the site in 1 round trip. The strength required in this feat is to honor the incredible strength of the coal miners of the Edmonton river valley beginning in the 1880's]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRcduHE0UKhzovaQ_V0FAXmoARdoxmtDOuZRIbuIBUKvY3jLrQFovVdSoYbPaE-TFAmlI1ER_o4e7fk8T4EW5yh5Eu5bHL9Y22UUnZ4LtPxU3WkbZHJJq-coOMXUn1pEzJ75D9Pd-GBMLssfhFFJMkp-Gu22PVQij93R1gInWuhRKAFzH68Y_i6LgWXER4ubrNgHTgPkMtv_sEDZ011Vka6tsZO8i1sW5x-XluZeFS0sbDqJDbKy5V5gdw?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -113.5582183,53.5085515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Collach's Crown]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRDZt-jN8yTZnm8jo5kwgtOOAeara_8t9XO_k4MatsGnZmkPepyxXwVRRFuwmE5JIOS-l5EOaznf5_B4T2LF9LM1yZBMwIajmCGpQar2tNeFYG68oQ65SpeKkg7JHqeHF2A37lpFWYlA1YMgoIj0rYLKsyWBDXDFC4baf3qcsvGRGv5XD5N1otHOwlfPn6Jb0Cz3iFm9gDdVDEeWsXKLF-AZvs-pL_XoivMLeEmBXQVON86M655vjaZzQQ?fife=s16383" height="200" width="auto" /><br><br>In similar fashion of the Saddlin Mare in Scotland, Culloch's Crown is a loading feat of strength. The 246lb Crown is to be placed on the large plinth; a plinth faintly resembling a wild boars head; Collach is Gaelic for the Boar.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRDZt-jN8yTZnm8jo5kwgtOOAeara_8t9XO_k4MatsGnZmkPepyxXwVRRFuwmE5JIOS-l5EOaznf5_B4T2LF9LM1yZBMwIajmCGpQar2tNeFYG68oQ65SpeKkg7JHqeHF2A37lpFWYlA1YMgoIj0rYLKsyWBDXDFC4baf3qcsvGRGv5XD5N1otHOwlfPn6Jb0Cz3iFm9gDdVDEeWsXKLF-AZvs-pL_XoivMLeEmBXQVON86M655vjaZzQQ?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -113.5604258,53.508451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Shaw Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRUsGp7aFLgRuE3UlAVX6BuPQXovTgHEwQaTN0sQowzxHBJEOSTXxIfm4Yp7xLptL5gZRIm99LkHBZRz6AKTmCU9RzMXd-4T89F5JuUuowW9lVhtNTUUkgRDBmbSCLxw7Qyt5SPCNbxReSsxiysAQdhTytNicKzE0jgdRWUtjZs3r-wX-YhmJk2DDv41WrWntTm0Imdew-OzxHWgb11P9i5KCyhWPVsqqCALiOnG80eRjTua7QkHk8sLzU?fife=s16383" height="200" width="auto" /><br><br>This area was originally owned as a homestead during the Klondike gold rush. The second owner of this property was the Shaw family. There was a farm right here in the city. This awkward 300lb stone was originally lifted and placed into a long since disintegrate  stone wall. The stone is to be lifted to shoulder for a complete lift. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRUsGp7aFLgRuE3UlAVX6BuPQXovTgHEwQaTN0sQowzxHBJEOSTXxIfm4Yp7xLptL5gZRIm99LkHBZRz6AKTmCU9RzMXd-4T89F5JuUuowW9lVhtNTUUkgRDBmbSCLxw7Qyt5SPCNbxReSsxiysAQdhTytNicKzE0jgdRWUtjZs3r-wX-YhmJk2DDv41WrWntTm0Imdew-OzxHWgb11P9i5KCyhWPVsqqCALiOnG80eRjTua7QkHk8sLzU?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -113.5524035,53.5173589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Nisbet Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQt3pfqSlIlZZ0O2HNiRVCnwED9A41kWmyDSfJ-in3rs3sqQXAv_y8LCE-mfMIIBcKf61sjUIZgcxuECDN27lT5MRFI5jPd1zZa3wGWbPA_hkbu4SPdyDQ3R_iiaD_diMvMMVI5xpzO5zccgsyUSYxd8Ii0mxeiyItDgny-bAOPNSuujDFC6NiD-k81mL4YojsY9JTVxZp3JzCWskT0j7fwdS4K1cQDddu0f7V4jDsTclU2CpCGLxiNi1U?fife=s16383" height="200" width="auto" /><br><br>325lbs to be lifted to chest for 2s to demonstrate control. This stone is a tribute to the Scottish heritage of the Nisbet family. This family dates back hundreds of years. Upon completion of a successful lift you will be awarded a shirt with a custom logo of a wild boar. The boar is tied deeply into mythology and is the logo on the family crest of the Nisbet clan.THIS IS NOT THE STONES LOCATION, but it is close. Contact Edmonton Stones of Strength, or Caveman.daveman on instagram for an attempt at this lift.  ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQt3pfqSlIlZZ0O2HNiRVCnwED9A41kWmyDSfJ-in3rs3sqQXAv_y8LCE-mfMIIBcKf61sjUIZgcxuECDN27lT5MRFI5jPd1zZa3wGWbPA_hkbu4SPdyDQ3R_iiaD_diMvMMVI5xpzO5zccgsyUSYxd8Ii0mxeiyItDgny-bAOPNSuujDFC6NiD-k81mL4YojsY9JTVxZp3JzCWskT0j7fwdS4K1cQDddu0f7V4jDsTclU2CpCGLxiNi1U?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -113.5656587,53.5193767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Maguire Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR1FkqZN2rievQt0LzCueut4-NFZqJrHHtnadlDGqcF_j6uGo6OiV7Jig37bhn0u6k9Nf_1evq1RUgmvMeaSzaKA4fxkSst8_7ew5H8EZR8fgiUdQeWislWP1PVAChmAKT3zd_KR2BjupndIPDT48aP2Pr0tqyt6ejTqTSPZAk9L4fgTcrkDCzH0rtoFTLE1eCUMyuZVT8CKIhj6sU59-2hIdG-jkUe6ojzK17P52hn-cdx1G_hkSfFmOU?fife=s16383" height="200" width="auto" /><br><br>This 385lb Brute of a stone has been named after the first man to lift it, Zack Maguire. Zack has made 2 trips out from Ontario to lift the Edmonton Stones of Strength and is a great advocate of Stone Lifting. It only seemed appropriate to name this stone after him as he was the first man to lift it. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR1FkqZN2rievQt0LzCueut4-NFZqJrHHtnadlDGqcF_j6uGo6OiV7Jig37bhn0u6k9Nf_1evq1RUgmvMeaSzaKA4fxkSst8_7ew5H8EZR8fgiUdQeWislWP1PVAChmAKT3zd_KR2BjupndIPDT48aP2Pr0tqyt6ejTqTSPZAk9L4fgTcrkDCzH0rtoFTLE1eCUMyuZVT8CKIhj6sU59-2hIdG-jkUe6ojzK17P52hn-cdx1G_hkSfFmOU?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -113.5589976,53.5085131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Makwa Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR4EWluv0oiJi6MB7dD-G1DhH7EB9yggVFRgeS6t7i48Dxze6xi7fgrdKcfFA4NqzCrI2KcTgSmutJ96DgosN5RKoBCanN9JoNpPa5kBQ-PhjH22M1ZAn7U76rZFmJV6-rQhnObRhijO7n3rD_S_4tALgTjmIyh_L2oiUNp1C3sXMTrNeII8tTJ-bO-b_R4pC6SlR5l6Jmqdv4bh0ewpS3QF6cVlzmJ7d8_vzMTAh8eCaZv6ak1tIUp_-Y?fife=s16383" height="200" width="auto" /><br><br>352lbs. Makwa is the Ojibwe word for Bear, a fitting name for the amount of strength needed to lift this stone. A successful lift of this stone is to chest with a 2 second hold to show control]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR4EWluv0oiJi6MB7dD-G1DhH7EB9yggVFRgeS6t7i48Dxze6xi7fgrdKcfFA4NqzCrI2KcTgSmutJ96DgosN5RKoBCanN9JoNpPa5kBQ-PhjH22M1ZAn7U76rZFmJV6-rQhnObRhijO7n3rD_S_4tALgTjmIyh_L2oiUNp1C3sXMTrNeII8tTJ-bO-b_R4pC6SlR5l6Jmqdv4bh0ewpS3QF6cVlzmJ7d8_vzMTAh8eCaZv6ak1tIUp_-Y?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.0653609,44.1847976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Conal Stone</name>
+        <description>A medium sized stone to be lifted to shoulder. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.714245613477,40.1213095626073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Key Stones/Moose stone</name>
+        <description><![CDATA[Gifford Stone (257 lbs)<br>To be loaded to plinth <br>Leila Stone (298 lbs)<br>Complete lift to chest<br>Pinchot Stone (189 lbs)<br>Complete lift to shoulder <br>Bull Moose Stone (400+)<br>Any lift makes the list <br>-lifted to chest to be considered Bull Moose Strong <br>The Key Stones (713 lbs combined)<br>Ringed stones to be lifted in the traditional dinnie style (under construction)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.884511215954,40.0705448170551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ferry man's Stone]]></name>
+        <description><![CDATA[Ferry Man's Stone (heavy)<br>Named in honor of the brave Ferry men who worked these dangerous waters<br>Complete lift to chest]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7090164604936,40.1188155406271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moab Stone
+</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSLKyUjpisQ_5ziehvD0eKq_6PXL4xGdeaCpuic2kFZmnlesHbJ4yTsmFfWlwgI8B_3ositagrDTfPZHYcajBzXFOWXqSVGQNIK3Q4G3xjGbR6R1MFXwptFPSSwITMmh-oquZjfRttrRwblNRuzgpRWflM2vHUgLkegrscTCd-HpZxc_OiXj9iCYwMjcObLTzo6FW00O5oLcgOnOqDuEUjsnIgZAFPX0oHA17iSEt2bf-REEpohAy1gZd8?fife=s16383" height="200" width="auto" /><br><br>Stone weighs 232lb / 105kg.                           Stone must be shouldered to complete the lift.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSLKyUjpisQ_5ziehvD0eKq_6PXL4xGdeaCpuic2kFZmnlesHbJ4yTsmFfWlwgI8B_3ositagrDTfPZHYcajBzXFOWXqSVGQNIK3Q4G3xjGbR6R1MFXwptFPSSwITMmh-oquZjfRttrRwblNRuzgpRWflM2vHUgLkegrscTCd-HpZxc_OiXj9iCYwMjcObLTzo6FW00O5oLcgOnOqDuEUjsnIgZAFPX0oHA17iSEt2bf-REEpohAy1gZd8?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -109.4029444,38.4805758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Spike</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRBIfyQ8IuM22gTWHhT7S39Mxr1FXqZurKdOp2PwU2x5DOImpoyxvaEmTQdid-b0Pw5KoZp4Frk6F-AUwV9fqiGQkAQvGR368Tc73Y__49nHPJ9l1ruOxXp34cY8yQrdZpmStbR9A9HKdnef6TYzv422uF_eQW9eKTX2uQi9Fcwavw1ULbdEIgjNJIJMsphQZnioVfJLVPviSop45VV5GtsnHRjv2TVxOIIY4NQuH-HBG3ESzXmxAFdR-A?fife=s16383" height="200" width="auto" /><br><br>Walking the Golden Spike. 240lb / 109kg stone to be picked held against the chest and walked around the path back to where you started. You must walk the full 152 feet around the path to complete the challenge. You can also walk as long as possible to set a distance record]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRBIfyQ8IuM22gTWHhT7S39Mxr1FXqZurKdOp2PwU2x5DOImpoyxvaEmTQdid-b0Pw5KoZp4Frk6F-AUwV9fqiGQkAQvGR368Tc73Y__49nHPJ9l1ruOxXp34cY8yQrdZpmStbR9A9HKdnef6TYzv422uF_eQW9eKTX2uQi9Fcwavw1ULbdEIgjNJIJMsphQZnioVfJLVPviSop45VV5GtsnHRjv2TVxOIIY4NQuH-HBG3ESzXmxAFdR-A?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -112.4917348,41.6284122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Cottonwood Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSKw3SSsD6HvIRzEkBFiWlqFF2ym4XbTDtuHeVCyuyYEjI3g-t12yQD_vBc6frA5grEYCv7McESh_zG5Se2O9s7FzKYtIb9nbCsFpZcEv0EExZjgiiT4mvrsOfqsQpLK-23J--z25xh-JLMyVxL3fXtgmH-VcOwu7t6trw7BIwQcT745fx3zNULKMj0VbNC7ZqLoOtl2C22drw4e9f9sxSEkCA22YMW7AD_753WT6I2t9SA8AIyXXaLpIk?fife=s16383" height="200" width="auto" /><br><br>280lb/127kg                                                        Stone must be shouldered for a complete lift.part of the Utah stones of strength]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSKw3SSsD6HvIRzEkBFiWlqFF2ym4XbTDtuHeVCyuyYEjI3g-t12yQD_vBc6frA5grEYCv7McESh_zG5Se2O9s7FzKYtIb9nbCsFpZcEv0EExZjgiiT4mvrsOfqsQpLK-23J--z25xh-JLMyVxL3fXtgmH-VcOwu7t6trw7BIwQcT745fx3zNULKMj0VbNC7ZqLoOtl2C22drw4e9f9sxSEkCA22YMW7AD_753WT6I2t9SA8AIyXXaLpIk?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.7753141,40.5715566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buffalo Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSCWPrB9OAM4AQgvrJIX0kjVngdeq2ysO8uTyG1Yg1tjx9jqKOgSJX797yF-6TKDk9jPhiZ-hiq9-k7axbUfwzrS3bnYtiDg0j5CEZZjCMrd8Cd9fGT2gE072SF8buQuANFO8lAsOLxGmkbij_GeS13YDWEQ3r27JHaQtkcHR42X0pFcLCNfK7JTJubPw6gsZpyiDOkvl8FtuNx6JtVZU4GFnSUuTCMKZI9WTECn8dDe16M7_OqADf--Tg?fife=s16383" height="200" width="auto" /><br><br>Buffalo Stone weighs 302lb / 137kg. Stone must be shouldered to complete the lift]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSCWPrB9OAM4AQgvrJIX0kjVngdeq2ysO8uTyG1Yg1tjx9jqKOgSJX797yF-6TKDk9jPhiZ-hiq9-k7axbUfwzrS3bnYtiDg0j5CEZZjCMrd8Cd9fGT2gE072SF8buQuANFO8lAsOLxGmkbij_GeS13YDWEQ3r27JHaQtkcHR42X0pFcLCNfK7JTJubPw6gsZpyiDOkvl8FtuNx6JtVZU4GFnSUuTCMKZI9WTECn8dDe16M7_OqADf--Tg?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -112.2508268,41.0276625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka Stones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQZbEDo8lc3AFONtOUs6KyBaPrRJ8OALltugcB9wioR6gSqIvockaYOp6qlyOybIuekCskA-ZB8TQj3S117EEuY3s2LQM_716pTklG_RrT7xAIZ8nUyY38-vxswi876ynlYyTHtVGgypsOnlpNNAhGCjogsvGHikLGlOG3Ma2pNtcKUHDULGm7I9X43nTx1KfEPzdCUp94mnh2TD_4r2BBaZU_rfMgforxNa8zyITuOY7Lt3JLmfZo2QR4?fife=s16383" height="200" width="auto" /><br><br>3 stones. load all 3 stones onto the plinth to complete the challenge.part of the Utah stones of strength]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQZbEDo8lc3AFONtOUs6KyBaPrRJ8OALltugcB9wioR6gSqIvockaYOp6qlyOybIuekCskA-ZB8TQj3S117EEuY3s2LQM_716pTklG_RrT7xAIZ8nUyY38-vxswi876ynlYyTHtVGgypsOnlpNNAhGCjogsvGHikLGlOG3Ma2pNtcKUHDULGm7I9X43nTx1KfEPzdCUp94mnh2TD_4r2BBaZU_rfMgforxNa8zyITuOY7Lt3JLmfZo2QR4?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -112.0984921,39.962071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soapstone Berzerker</name>
+        <description>340 lb / 154kg                                                       Successful lift is placing the stone on the plinth. part of the Utah stones of strength.part of the Utah stones of strength</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -111.0845803,40.5942377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prows Drangastenen Stone</name>
+        <description>330lb / 150kg stone                                           Successful lift is from the ground onto the tree stump.part of the Utah stones of strength</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -111.621649,40.4393167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Uinta Hav's]]></name>
+        <description><![CDATA["Milk Maid 324lb / 147kg (Women's Hav)<br>The Legend 528kg / 240kg (Men's Hav)"                 A successful lift is breaking the stone from the two small stones they rest on.part of the Utah stones of strength]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -110.9613037,40.6112988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uinta Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTvIWSxV_xm0YwSF_1mMQYKLhHJwZeWORZR5vRRvRFfZoZGmLC0VKR73uKK0m-PYPKkjho-dFmTixRU_PvTALfVDG2yQ4VM7R4O5i6nyLklWi366lmvv38ECBoSlLGQHI3xE7hFgeH1DoSVY68HwCI7TPpel1ctiv6dNVJXF7BuursWYc2vP4-O4z9C3XnpP43t27ONc83wgTVUrfQKtLrbZD7Su4KFRTnGjrDaNloI4ursl005MDAOb_8?fife=s16383" height="200" width="auto" /><br><br>260lb / 118kg lift to the shoulder.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTvIWSxV_xm0YwSF_1mMQYKLhHJwZeWORZR5vRRvRFfZoZGmLC0VKR73uKK0m-PYPKkjho-dFmTixRU_PvTALfVDG2yQ4VM7R4O5i6nyLklWi366lmvv38ECBoSlLGQHI3xE7hFgeH1DoSVY68HwCI7TPpel1ctiv6dNVJXF7BuursWYc2vP4-O4z9C3XnpP43t27ONc83wgTVUrfQKtLrbZD7Su4KFRTnGjrDaNloI4ursl005MDAOb_8?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.0474524,40.5795783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Cottonwood Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSsRTx7VQtCYKPRDCZ0rsIzJVSq6_wQqAyaZc0c6pGgmbpLOkxoDVQFmtV2goMKfXPPxYl5goaC1fyHVO3px__FJv3pibNBHK580BTM49RKjn8Jg0cY3oR4XcToeCodx_vSJc-VuFTiKi0LgyUGG6NhgEvao3srV6xXw4Bv7ON30LjvOd7ruGtCJHD_qC2_yYHp5Q95IDC_rSdHq7RvbUi2f6wbVxjAO9fbkCoHcjhcJ3yMT8EZu-_33uY?fife=s16383" height="200" width="auto" /><br><br>Unknown weight                                                          Stone must be shouldered for a complete lift.part of the Utah stones of strength]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSsRTx7VQtCYKPRDCZ0rsIzJVSq6_wQqAyaZc0c6pGgmbpLOkxoDVQFmtV2goMKfXPPxYl5goaC1fyHVO3px__FJv3pibNBHK580BTM49RKjn8Jg0cY3oR4XcToeCodx_vSJc-VuFTiKi0LgyUGG6NhgEvao3srV6xXw4Bv7ON30LjvOd7ruGtCJHD_qC2_yYHp5Q95IDC_rSdHq7RvbUi2f6wbVxjAO9fbkCoHcjhcJ3yMT8EZu-_33uY?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.6406363,40.645244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knoxlyn Stone</name>
+        <description>Medium sized stone to be lifted to chest</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3274009843832,39.8446232187474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Soildier's Stone]]></name>
+        <description><![CDATA[Soildier's Stone (320 lbs)<br>No chalk can be used within park property<br>Completed lift to chest, shouldering for bragging rights]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2380270906752,39.8045007954841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coal Miners Stone</name>
+        <description>This is a medium sized stone to be loaded onto a rock wall plinth</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -79.5856378721623,39.96735636629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orrtanna Stone</name>
+        <description>Medium sized stone to be lifted to chest</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3183975220526,39.8390139203919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Shield and the Stone </name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSSMe028QoeIHq1dxYsFEckyrRulizHQCux-adAHVennorfANtfkud5o_bfAGlr9s_vRLpFP2HmR0vY2tMuSaFSuv2PkYC7-ZBdL-UOWCu_3FFTSQ5c8Yp9tDlEvgEF3rLQ-kcnQFsfgcTaoesiejcAE0ujmWvzvukbSkxChBbg4-2gBND7Z7e7OFJIXkKmZLTEbMr9B2knTNDMZz4EzVnz8oKNcGS7HEBslkFewOu5tenGPcApv4TlkWQ?fife=s16383" height="200" width="auto" /><br><br>The objective of this lift is to take the stone from the ground and do laps around the plinth, more laps for more strength. A completed lift is one or more loops. The stone can be set on either the downhill side or uphill side. The stone is a very unbalanced  176lbs.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSSMe028QoeIHq1dxYsFEckyrRulizHQCux-adAHVennorfANtfkud5o_bfAGlr9s_vRLpFP2HmR0vY2tMuSaFSuv2PkYC7-ZBdL-UOWCu_3FFTSQ5c8Yp9tDlEvgEF3rLQ-kcnQFsfgcTaoesiejcAE0ujmWvzvukbSkxChBbg4-2gBND7Z7e7OFJIXkKmZLTEbMr9B2knTNDMZz4EzVnz8oKNcGS7HEBslkFewOu5tenGPcApv4TlkWQ?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.37047,41.795645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Sabin Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ1Mpi0s-BR4D7BtUfK1zB4raDEzEvCvLrT3BGjHr_Kncw15NHpyTgRCdfQhliTkfwfYiGlHWnraQj4UK6Lu4QVbRxQRPIxzE2zvlm_fNN96a6ezrlj6ewnid2XRYlHAk_3GtHqhR5mQ9U0ORt-9F-1J_hyP0QYakI1hAXtxs4o_PnQq2IR0SfeVIYpfcqsjslseUyxMdlJ3E-K8enTcAU7e1Sg6rw2lf7NjYj3maD9vBFKk549GlsWQgw?fife=s16383" height="200" width="auto" /><br><br>The Stone is located in Sabin point park, open dawn to dusk. Show up and lift or let us know when you're planning on coming down and well usually be able to join you. Please move the stone to the grass when lifting and replace it on the stone wall when done. Don't forget to tag @newenglandstonelifting in your photos and videos.                             ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ1Mpi0s-BR4D7BtUfK1zB4raDEzEvCvLrT3BGjHr_Kncw15NHpyTgRCdfQhliTkfwfYiGlHWnraQj4UK6Lu4QVbRxQRPIxzE2zvlm_fNN96a6ezrlj6ewnid2XRYlHAk_3GtHqhR5mQ9U0ORt-9F-1J_hyP0QYakI1hAXtxs4o_PnQq2IR0SfeVIYpfcqsjslseUyxMdlJ3E-K8enTcAU7e1Sg6rw2lf7NjYj3maD9vBFKk549GlsWQgw?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.366704,41.765416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Spangler's Spring Stone]]></name>
+        <description><![CDATA[No chalk allowed within Gettysburg Park grounds.<br>Completed lift is to chest, shouldering for bragging rights]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2189981994151,39.8372569250045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wakonokin Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT54PaW1XjAg2Nj673JjTkH3Jl6zafFm9AanWWzBTnDbPtty0wBJwboQg3uc5BT7E5ckaqO94oaz5n86bWSoyTIFSo64tWB-2muwapYJYryIUD3EdCWuDn8Ojk2cn-_lB6QI0wqhro81yubpRe7v6RpYWIP_poBHjyq_taM0hiyHDmkqFJAzvZOIKZXoknE9rRHhW0OAQAN_I2K9ouPrujK-fvysqvohPMY_HsTYITQnLMwcvHDunzC9zk?fife=s16383" height="200" width="auto" /><br><br>351lbs. This stone was contributed by Alex Burlison. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT54PaW1XjAg2Nj673JjTkH3Jl6zafFm9AanWWzBTnDbPtty0wBJwboQg3uc5BT7E5ckaqO94oaz5n86bWSoyTIFSo64tWB-2muwapYJYryIUD3EdCWuDn8Ojk2cn-_lB6QI0wqhro81yubpRe7v6RpYWIP_poBHjyq_taM0hiyHDmkqFJAzvZOIKZXoknE9rRHhW0OAQAN_I2K9ouPrujK-fvysqvohPMY_HsTYITQnLMwcvHDunzC9zk?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.755222222222,40.5713055555556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elder Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS838OtG3LyqLu1sBDaGW7_CaDmMixXAMmpKAHdhGenq_9F8R0SdG_oqOhw6Bli3v10_9oEdr4b-BQ-oHcuBiBeaghS8lTUstiI0121bFVLI7epFcfW-5aDZAfALyjw_QeqjLwF8w6Tzqt4yJpO2-xoZRakCnI8RkLj9rMHWSpFzF3Le6PU0kVlhLmM8W26LuXB1Rp9z8v3D8Jp06P5p7OqNBPUXl-HGCo89NGK44WnPldzBmm5pxdOJJk?fife=s16383" height="200" width="auto" /><br><br>370 lbs                                                                                A beautiful lifting stone contributed  by Alex Burlison.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS838OtG3LyqLu1sBDaGW7_CaDmMixXAMmpKAHdhGenq_9F8R0SdG_oqOhw6Bli3v10_9oEdr4b-BQ-oHcuBiBeaghS8lTUstiI0121bFVLI7epFcfW-5aDZAfALyjw_QeqjLwF8w6Tzqt4yJpO2-xoZRakCnI8RkLj9rMHWSpFzF3Le6PU0kVlhLmM8W26LuXB1Rp9z8v3D8Jp06P5p7OqNBPUXl-HGCo89NGK44WnPldzBmm5pxdOJJk?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.737229,40.6976218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The King of Table Rock</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQuQUBzVPMquRfHEJGJFVqv3RVDztAKU8lIiA9GCLl5IDruEpcdlApPegkMHBh1UVOxEqHPNtGnUW-zTZuLsNum9qGvsp3WAq3sBy4r25sj3cR-OFlMBsDj4onv6Z1f9Fgd69ABw2lGYQ4WFRDEYr59jyZLuYtq0toV_pCanriYnMAusQTW7S46aCjt-ZMhHMKAaiVe8gs3XZJhpfoYarhqOxz8HI0SNxhHxttPD7Sh43DH_e9PfOkmeS8?fife=s16383" height="200" width="auto" /><br><br>he King of Table Rock is 240lb stone located just below the summit of beautiful Table Rock. This is no easy feat of strength. The hike nears 3 miles all uphill and it's no small stone. The lift has a breathtaking view. Contributed by Jarrad Holcombe]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQuQUBzVPMquRfHEJGJFVqv3RVDztAKU8lIiA9GCLl5IDruEpcdlApPegkMHBh1UVOxEqHPNtGnUW-zTZuLsNum9qGvsp3WAq3sBy4r25sj3cR-OFlMBsDj4onv6Z1f9Fgd69ABw2lGYQ4WFRDEYr59jyZLuYtq0toV_pCanriYnMAusQTW7S46aCjt-ZMhHMKAaiVe8gs3XZJhpfoYarhqOxz8HI0SNxhHxttPD7Sh43DH_e9PfOkmeS8?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.7046892,35.0489918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hara Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTVV8yKD9tt3K2Y-pEGpbv3bU5DTEv_rFk230EWiNzOyLGgD920b3EbFY9FuqE_w8RonJeA6Bc9SKdonWuXnVgSTSnrq9T92VjIAfe-g_4XO8gc1KyfMX-in6MUoojfvLhprKkACt4-K_YmkNiA9R8mlF9njJmp1lLEtlqXNP1bG1vXRc3p3MmvFy3DcHMOmgkIb0YVnHYGe96MCtaKp7aUKQxg9IoEFPEyqm8oQV7K6U0EDFozEVBnlH8?fife=s16383" height="200" width="auto" /><br><br>This is a beautiful lifting stone contributed by Alex Burlison. It weighs 331lbs]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTVV8yKD9tt3K2Y-pEGpbv3bU5DTEv_rFk230EWiNzOyLGgD920b3EbFY9FuqE_w8RonJeA6Bc9SKdonWuXnVgSTSnrq9T92VjIAfe-g_4XO8gc1KyfMX-in6MUoojfvLhprKkACt4-K_YmkNiA9R8mlF9njJmp1lLEtlqXNP1bG1vXRc3p3MmvFy3DcHMOmgkIb0YVnHYGe96MCtaKp7aUKQxg9IoEFPEyqm8oQV7K6U0EDFozEVBnlH8?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.757166666667,40.5711944444445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Squantum Tooth</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQg8dBYJnCPGunh4j7KQb4rvTK2HU7Y8M-GiEDBsDGRDvaks6_epmAoROrGHmhxN4U9HN4GpgracS-1u4h6y55IOVNkQB4E0buBZesWLGTlMNtr5u6ClDiTm8gYXWJmyzs0HiA0TMXCRQ-oGAF98YkYqZl5iYxVsEZeydMiZKWFa5pvoRE0nQ1oh5tFNEFlfDBeHa1Kmh2d9qdQjCsJ4dikWFxn3aM0MtAmPRrRD7RorrDBU_mOUG2LjRw?fife=s16383" height="200" width="auto" /><br><br>This stone is 457lb located in the Squantum woods. It has been weighed and documented by New England Stone Lifting. First person to lift this to chest will recive a 3D printed stone as a prize!!!]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQg8dBYJnCPGunh4j7KQb4rvTK2HU7Y8M-GiEDBsDGRDvaks6_epmAoROrGHmhxN4U9HN4GpgracS-1u4h6y55IOVNkQB4E0buBZesWLGTlMNtr5u6ClDiTm8gYXWJmyzs0HiA0TMXCRQ-oGAF98YkYqZl5iYxVsEZeydMiZKWFa5pvoRE0nQ1oh5tFNEFlfDBeHa1Kmh2d9qdQjCsJ4dikWFxn3aM0MtAmPRrRD7RorrDBU_mOUG2LjRw?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.371469,41.794319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Goldethorp Lifting Stones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR3r17DwFzN3gtgR1ObDpHYtcLxiO3i1wAHNRdRHk4vdiHaRPorXMV9rDwDSMKJtloleW0mtoeEbWSnYXR5y9Dt34pX8Ww6OL4v8vWlBYfA0cFEsQksocfSo1ZUTjPJT5xZ4eG2rSNX3srzaw9oB4vFypHiBSO5KsNADvRy0uys_HztnS6r7JFX3FXkqW2uYZQZSQn_53JJWIHU-kN0U-DFJdxH1ryqY28JavguRKgSUqcLgC9SwOwvpYw?fife=s16383" height="200" width="auto" /><br><br>Lift by appointment only. Contact Josh Goldthorp or the Goldthorp Lifting Stones Instagram page.<br><br>These stones were set up as a challenge in 2017 and have had many attempts to lift them from people around the globe. In those we’ve had one successful female lift. <br><br>The Challenge for males is to shoulder the “Chieftain stone” in order to receive a commemorative challenge coin. Females have to shoulder the “Wee Lass”. No tacky allowed (of course). A ship captains bell has been added to the challenge to solidify your control over the stone but it is not required to receive a coin. Once the stone is shouldered you simply walk over and ring the bell on the post.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR3r17DwFzN3gtgR1ObDpHYtcLxiO3i1wAHNRdRHk4vdiHaRPorXMV9rDwDSMKJtloleW0mtoeEbWSnYXR5y9Dt34pX8Ww6OL4v8vWlBYfA0cFEsQksocfSo1ZUTjPJT5xZ4eG2rSNX3srzaw9oB4vFypHiBSO5KsNADvRy0uys_HztnS6r7JFX3FXkqW2uYZQZSQn_53JJWIHU-kN0U-DFJdxH1ryqY28JavguRKgSUqcLgC9SwOwvpYw?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.9748758,49.1333066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Virginia Stones of Strength</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSjhXOru0YtKaxxeTPnU2d1u5UpMg3wpvJ84MfnpE2yQltTac3kCyyauAHx3ErOwMNhJPJgEEuPcz8gyrCWk5Ez0Ye6ZnugzpTRJkR6hC4AY0F6v_NnZY7CuvxGuTtUALN2AbzlQeiIe8XwZ-5pQ60EMZOgdyydLz2lc6Zq-XX_pzzIu2zWKo5qzH8sF34SGEcAz9p157GyyhTKJwvislGxE4b-_fWETFoxC-J9Hkg4UEaiUgGI2LE6k0A?fife=s16383" height="200" width="auto" /><br><br>All stones can be accessed through an email to minorswing89@gmail.com                                   -The Embershard Stone, medium size                     -The Tombstone, medium                                         -The Bear Stone, medium                                          -The Fathers Day stone, medium]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSjhXOru0YtKaxxeTPnU2d1u5UpMg3wpvJ84MfnpE2yQltTac3kCyyauAHx3ErOwMNhJPJgEEuPcz8gyrCWk5Ez0Ye6ZnugzpTRJkR6hC4AY0F6v_NnZY7CuvxGuTtUALN2AbzlQeiIe8XwZ-5pQ60EMZOgdyydLz2lc6Zq-XX_pzzIu2zWKo5qzH8sF34SGEcAz9p157GyyhTKJwvislGxE4b-_fWETFoxC-J9Hkg4UEaiUgGI2LE6k0A?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.6356,37.494477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Reeves' Stones]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTwJXhA5PsdXcsHev0_i7rOK_31Kpci8JLiImNuHiTGhEbWF8PDkBMHXnAxF6qOKbIebjZHkgCS2DwvbsWzosKNWUmqVcZVJBhKGNavff8CCZ8M7_qS3ksk3JJwBLXcwYVjLLULze9tUP9KE8aAaPHpdLfsfGtMoqy9np7QkDret51RYY6DbTytfvb8QhtALYwQlZTSthhbv26CnO9EPFSMNECgkynSvA2g7CuJsLDORdAH9pivoE5iexY?fife=s16383" height="200" width="auto" /><br><br>a pair of Stones lifted it the same style as the Dinnie Stones. These stones are harvested from my family property and bear the name of my late grandfather. The combined weight of the stones are 546lbs. The small stone weighs in at 251lbs and the large one at 295lbs. These stones are located on private property. Please reach out to @southern_appalachian_sos on Instagram to schedule a time. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTwJXhA5PsdXcsHev0_i7rOK_31Kpci8JLiImNuHiTGhEbWF8PDkBMHXnAxF6qOKbIebjZHkgCS2DwvbsWzosKNWUmqVcZVJBhKGNavff8CCZ8M7_qS3ksk3JJwBLXcwYVjLLULze9tUP9KE8aAaPHpdLfsfGtMoqy9np7QkDret51RYY6DbTytfvb8QhtALYwQlZTSthhbv26CnO9EPFSMNECgkynSvA2g7CuJsLDORdAH9pivoE5iexY?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.0328547288358,34.7254021448523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRtsZQKyElcy7ABZ1Rb-TypUwSb26_SFOFtawaenBe2s9x2Hu_Z2Eq8u3DlVpwfhSN0lSJm_Whj7zd2W6XqNmEwas0AdT7k8-ruepQ-eJ3JxGExPIg9euKPh10onafpjOVMsYrN9TbO8p68nJ4wIsjAzDetKUCi_l3dtDBk30KOwKUjY0DeA-BUaWv5k9S_G57GNseVo84MtaioKCTfXwqWjKF9qVT7eCjT3Eno7fGvAt-Ub4RKJiWLTig?fife=s16383" height="200" width="auto" /><br><br>One of the first stones established in the Southern Rockies. This stone falls on the heavier end of medium.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRtsZQKyElcy7ABZ1Rb-TypUwSb26_SFOFtawaenBe2s9x2Hu_Z2Eq8u3DlVpwfhSN0lSJm_Whj7zd2W6XqNmEwas0AdT7k8-ruepQ-eJ3JxGExPIg9euKPh10onafpjOVMsYrN9TbO8p68nJ4wIsjAzDetKUCi_l3dtDBk30KOwKUjY0DeA-BUaWv5k9S_G57GNseVo84MtaioKCTfXwqWjKF9qVT7eCjT3Eno7fGvAt-Ub4RKJiWLTig?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.20192,38.25626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newlin Fullsterkur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ5a4XJpPaqSg5zdxvRGQdqds7rH2rXsNwNNcbELaONu0RqKLMYE6cnMT4khfzoWF-_q_p34ZRjibD6ZWXPnzTt4LfP5bp3I9EeTrg8eY-3jEtbXdCqkXuLVcLFsMK9DrQcI2wfse8btOGPLr_v84rrJziJqYEqzDddoJuRQKid-X1-YfozL5EAunCNe6AHec7UTxsIZHN1ku3SLa3h29LHLmYZ8Q-WJYULvjRlFmj600c-e5XTRfmuaYk?fife=s16383" height="200" width="auto" /><br><br>This stone is 343.3lbs, and the second heaviest stone established in Colorado. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ5a4XJpPaqSg5zdxvRGQdqds7rH2rXsNwNNcbELaONu0RqKLMYE6cnMT4khfzoWF-_q_p34ZRjibD6ZWXPnzTt4LfP5bp3I9EeTrg8eY-3jEtbXdCqkXuLVcLFsMK9DrQcI2wfse8btOGPLr_v84rrJziJqYEqzDddoJuRQKid-X1-YfozL5EAunCNe6AHec7UTxsIZHN1ku3SLa3h29LHLmYZ8Q-WJYULvjRlFmj600c-e5XTRfmuaYk?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.195342,38.259116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bear Tooth Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRHtOrdqQDvhfzr-lt2ymWNFMjnqr7Zi-tfWF9BG-G15_1XGUIat9aGjEQh_SzFvPZ-Jx9cQ9bue6-v26CgYickYI_tMYvMlVpOqoFZAy-0pm-g-W6uNQG3cs3CMmMCbSibns4bH-zkaA8bXlFkNZEtlVGgOTN4Ik9d519N96-FmSIkULg5edNcZf97ZKeZQRKXjoqo2m2JneFRmRAZUR9jAlABJhahjjh08oA8631G-MN8A7QvlebiXSc?fife=s16383" height="200" width="auto" /><br><br>This beautiful stone is 300lbs]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRHtOrdqQDvhfzr-lt2ymWNFMjnqr7Zi-tfWF9BG-G15_1XGUIat9aGjEQh_SzFvPZ-Jx9cQ9bue6-v26CgYickYI_tMYvMlVpOqoFZAy-0pm-g-W6uNQG3cs3CMmMCbSibns4bH-zkaA8bXlFkNZEtlVGgOTN4Ik9d519N96-FmSIkULg5edNcZf97ZKeZQRKXjoqo2m2JneFRmRAZUR9jAlABJhahjjh08oA8631G-MN8A7QvlebiXSc?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.195,38.259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Obvious Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSvSL5Ph7SUEEdbt09A2QMKUmeJZAhqnjs8-XjtbRJVjyy73J1A3Z1ihdUXYgYnN5poscVPnRnnwtKM022W06ZZYPKr_nq_AP_fsm_N4bCFi2IvkpMLM--E0MDI2MA28bLiP43ecvZWGKcLQEPCzUGkBoviYGsC__LEVwohDmSGu49r7gph_1H7zG4c1HpRHndtJBhF3BPamcMfI7XAdSvt4VdYXsfkVoeQH2UUNuS90zUA5V6riZIPME4?fife=s16383" height="200" width="auto" /><br><br>This is a medium sized stone]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSvSL5Ph7SUEEdbt09A2QMKUmeJZAhqnjs8-XjtbRJVjyy73J1A3Z1ihdUXYgYnN5poscVPnRnnwtKM022W06ZZYPKr_nq_AP_fsm_N4bCFi2IvkpMLM--E0MDI2MA28bLiP43ecvZWGKcLQEPCzUGkBoviYGsC__LEVwohDmSGu49r7gph_1H7zG4c1HpRHndtJBhF3BPamcMfI7XAdSvt4VdYXsfkVoeQH2UUNuS90zUA5V6riZIPME4?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.1949,38.259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sowers Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTrw0ek15tREkffwNI75HoASUI1rEmILdzuBBw2QWI7TTCg3MVhVvP_9csJFurPJ9zQUOpQBV6ew0uZpl5JBMAedC6R0Y1YxDa5FDiDgK5bTo8JQY3sW-apONqyg6L0N9BuJQxD2COfGnFf4gXG2zGFHCQO0IiTdJO6OhmXlIe1Eu3nKgCdc4XFbz21v3_lhc75ZfxBos300ex9KNU6lAC4tVEwC8jOTXJNZnNoMyzQlzB2EZ_1L-gqOII?fife=s16383" height="200" width="auto" /><br><br>This is a light shouldering and carrying stone, 171lbs.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTrw0ek15tREkffwNI75HoASUI1rEmILdzuBBw2QWI7TTCg3MVhVvP_9csJFurPJ9zQUOpQBV6ew0uZpl5JBMAedC6R0Y1YxDa5FDiDgK5bTo8JQY3sW-apONqyg6L0N9BuJQxD2COfGnFf4gXG2zGFHCQO0IiTdJO6OhmXlIe1Eu3nKgCdc4XFbz21v3_lhc75ZfxBos300ex9KNU6lAC4tVEwC8jOTXJNZnNoMyzQlzB2EZ_1L-gqOII?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.1955,38.2591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skyland Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSYsKT1D5jQXdADzx54Zi_tpFvomMjwbSQXcpX7sgQ2ZuwfHLrae2N7PTiTppgz1Dazdahx8a5_S14AUe7qp_rYQa6EMhTJgVUZetB0hAe272gZP9dKNYKXUIes14qgYCz7XgopwB6Kd3xWSdFGOuGzh1OfXBVJEimOgP63h9x87h0AtuhLyukwPHgQoUmxdVH1H98QmptuJrsQc3zjpOUIHo1RVaZVKKQ1CSFiDigpxFyvegFS0xISFZA?fife=s16383" height="200" width="auto" /><br><br>This is the only established stone currently in The Skyland Bouldering area in Crested Butte, Colorado, as well as one of the highest elevations lifting stones in North America, sitting roughly at 9100ft above sea level. The Skyland Stone is a medium weight stone, coming in at 212lbs. A unique shape and texture for the stones of this area, this stone is incredibly fun to lift. It’s has yet to be shouldered]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSYsKT1D5jQXdADzx54Zi_tpFvomMjwbSQXcpX7sgQ2ZuwfHLrae2N7PTiTppgz1Dazdahx8a5_S14AUe7qp_rYQa6EMhTJgVUZetB0hAe272gZP9dKNYKXUIes14qgYCz7XgopwB6Kd3xWSdFGOuGzh1OfXBVJEimOgP63h9x87h0AtuhLyukwPHgQoUmxdVH1H98QmptuJrsQc3zjpOUIHo1RVaZVKKQ1CSFiDigpxFyvegFS0xISFZA?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.9544,38.8747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11 Mile shield carry</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQvRXKXoDM_5s0hA6nL9hJif4yr_rmv41LGsrdX4YWFsAFpHEM-dTrweKUxpsRNDy0SYQ1I0p05hv8Qt5J8d8lMZ6QFra8Wq7xC2By523xQwZyl4Z7ZbuGRjfWuqqXEu4QXdKqaez9Te9OrmiwZP8weqI5629W6Irv0pn468ZMGaIKBpw--mv_fYhXAR8zREWQ4E-k5YmLI-tBtBBz8u5LRCbVQCR86ezkbf7GjGdzsNNaVemZrwigNs_c?fife=s16383" height="200" width="auto" /><br><br>This is the first stone in Colorado that is dedicated specifically to a shield carry. Its is a 250lb stone that is to be carried 100ft and placed back at the starting point.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQvRXKXoDM_5s0hA6nL9hJif4yr_rmv41LGsrdX4YWFsAFpHEM-dTrweKUxpsRNDy0SYQ1I0p05hv8Qt5J8d8lMZ6QFra8Wq7xC2By523xQwZyl4Z7ZbuGRjfWuqqXEu4QXdKqaez9Te9OrmiwZP8weqI5629W6Irv0pn468ZMGaIKBpw--mv_fYhXAR8zREWQ4E-k5YmLI-tBtBBz8u5LRCbVQCR86ezkbf7GjGdzsNNaVemZrwigNs_c?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.4846736,38.9233009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buffalo Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSnPjySXSh1EYiyv4QdfpHTdwcJO-6DX0IZ2LNpVKR9k_qoDRGuMW-jEaxygprX3E8DQgCwusgnR5hv6Jy63x8KgbVYyMZBBRK0-A4WTDCqEOKU138XGQir4ttHz1nkNCH2NdWqDwSTbspeXsMs1sfONIUJ1evd-GjyXtGhxvrUDIzGoHxbbs9fj4xX3Vhac51IU7fG1e4GQ0lg4kCyUXKzxND97r9qxpGoteRzzFx_SowKFn8LUNotGrA?fife=s16383" height="200" width="auto" /><br><br>this stone is 352lbs and the heaviest established stone in Colorado. It’s awkward balancing makes it extremely difficult to get to lap, but it’s very fun to perform hav lifts with. Both of these stones are within 50ft of each others and there is a large amount of potential in the area]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSnPjySXSh1EYiyv4QdfpHTdwcJO-6DX0IZ2LNpVKR9k_qoDRGuMW-jEaxygprX3E8DQgCwusgnR5hv6Jy63x8KgbVYyMZBBRK0-A4WTDCqEOKU138XGQir4ttHz1nkNCH2NdWqDwSTbspeXsMs1sfONIUJ1evd-GjyXtGhxvrUDIzGoHxbbs9fj4xX3Vhac51IU7fG1e4GQ0lg4kCyUXKzxND97r9qxpGoteRzzFx_SowKFn8LUNotGrA?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.4845663,38.9234089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cascade Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgjcpw4R_aU5njPDyz-HU-7QOEdCFyIKJZSHzWeYmQkIAYE8W9t0c7kHgAgMgq1h-t-ypk3kmghnhML7hTBBW9TFk_uui7ZgXs8yKfLDudaONT0NStc-2rdrV9ZnbqfvU2hnz8Fqvp2uB_KjDtUrKt_FIB0cQuEUeBMhTePHXEmy9cziyEr_zFFwRno_wMCtiNUxkbD7ALG3X1dr5v-uHJBokzirJm_PrDJkbODbbSy4DgkIe-wmR3JRs?fife=s16383" height="200" width="auto" /><br><br>named after the large amount of Cascade hopes that grow in the area. This stone is 167lbs. It is located near Ice Lake on the United States Air Force Academy in Colorado Springs, Colorado. The Academy is public access from either driving onto the base or taking the nearby trailhead to get to the stone]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgjcpw4R_aU5njPDyz-HU-7QOEdCFyIKJZSHzWeYmQkIAYE8W9t0c7kHgAgMgq1h-t-ypk3kmghnhML7hTBBW9TFk_uui7ZgXs8yKfLDudaONT0NStc-2rdrV9ZnbqfvU2hnz8Fqvp2uB_KjDtUrKt_FIB0cQuEUeBMhTePHXEmy9cziyEr_zFFwRno_wMCtiNUxkbD7ALG3X1dr5v-uHJBokzirJm_PrDJkbODbbSy4DgkIe-wmR3JRs?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -104.834744,38.954958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pahnaquint Stone/Mitoge Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS6MRqPypGpx9VDYdfCPjhq63vSu0PtYQs6G6Zxez2WS54BUpOZ6mJt4Fl1R-u-lad-1QrxdEazSTNG6NQf5DibfahvjO6MtOZTFdyZRPBdXQFdtpZB9gHhPQp4IYPcqBRqzbmK5kGQLvfyzev9AFNwuDZv_Lyn-wnQs6Uv5pgwI0NRapKWMD7onhv8-NtEDR55WvDVghmau7EzBlaybu3FWCVgUN4voZZBg2eI8IJKud-f75YK1lFGAd8?fife=s16383" height="200" width="auto" /><br><br>Pahnaquint Stone 265 lbs<br>This gorgeous, striped and swirled orange stone is named after the Ute word for river. This stone is incredibly smooth and lighter than it’s size would suggest.<br><br>Mitoge Stone 346 lbs<br>This stone is made of the grey quartz monzonite that is common to Little Cottonwood, and is marked by a striking black circle on its face. It is named after the Ute word for moon.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS6MRqPypGpx9VDYdfCPjhq63vSu0PtYQs6G6Zxez2WS54BUpOZ6mJt4Fl1R-u-lad-1QrxdEazSTNG6NQf5DibfahvjO6MtOZTFdyZRPBdXQFdtpZB9gHhPQp4IYPcqBRqzbmK5kGQLvfyzev9AFNwuDZv_Lyn-wnQs6Uv5pgwI0NRapKWMD7onhv8-NtEDR55WvDVghmau7EzBlaybu3FWCVgUN4voZZBg2eI8IJKud-f75YK1lFGAd8?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -111.776444444444,40.5718611111111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jones Gym</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRBUyddxpDAojXee7pcPY3KZq-DswCY-mhVz9OfCF07DZ0W3FDtNQizcHWaMtThFQqAm1Q1Ri3JIJr_5klguxjWJdrw3WSwFrrF6x8PWTG8wntYanXR7umh8BDDs1EbZ4tAihijvMB57-apcXRFZPm2NlOqKBVQQ7cY5ncM1sReE-72w6TKHiuCwn2vw755OHGYibcDUpdfS_DKIjOzJbGf0fxEfmsNgcui9dfeQUe4Qev7xsbEw4r2cao?fife=s16383" height="200" width="auto" /><br><br>This location has 12 natural stones and a loadable stone of steel. These range from 199-421lbs. They can be lifted by sending an email to jonesgym@hotmail.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRBUyddxpDAojXee7pcPY3KZq-DswCY-mhVz9OfCF07DZ0W3FDtNQizcHWaMtThFQqAm1Q1Ri3JIJr_5klguxjWJdrw3WSwFrrF6x8PWTG8wntYanXR7umh8BDDs1EbZ4tAihijvMB57-apcXRFZPm2NlOqKBVQQ7cY5ncM1sReE-72w6TKHiuCwn2vw755OHGYibcDUpdfS_DKIjOzJbGf0fxEfmsNgcui9dfeQUe4Qev7xsbEw4r2cao?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -66.1196923,43.8363775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stein Voller Stärke</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR0B1u0d_wYw1hx3c5vWhpv0ll-EGVNuLS2nFWkiwVssAYqDULA4taS16Vpx22NFD0ObUxpp63lS2WcovB5LT9XG7UT3Gqf6PbI8SGLi6_3-vr8Nfsbj5MpF_YztECIHnmFY2gty46ax_eyWslFOkO6vCKxQBTgJPMOkgTihXCHCBNDOSOJxcjx_rbp1hb53T-g1iDn4_mI0qvAaHAmldTdRP4uMDeB-hcVbFRlhVqbOwt7-VqivtVWBZI?fife=s16383" height="200" width="auto" /><br><br>Weight: 411 lbs<br><br>Description: <br>Originally found at the annual Columbus Oktoberfest, hence the German name. This stone is the ultimate test. To even lap this stone is an enigma for the most hardened stone lifters. Much like the husafell stone, there are three levels to this one stone. Amlodi is to break ground with the stone. Halfsterkur is to lift the stone to your lap. Fullsterkur is a full lift to the chest. A leverage lift is not permitted. As always, tacky is forbidden on natural stones. <br><br>Address: <br>Cleveland, Ohio<br>(Please message Sean Urquhart @seanurq for the exact location as it is currently in his personal training collection)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR0B1u0d_wYw1hx3c5vWhpv0ll-EGVNuLS2nFWkiwVssAYqDULA4taS16Vpx22NFD0ObUxpp63lS2WcovB5LT9XG7UT3Gqf6PbI8SGLi6_3-vr8Nfsbj5MpF_YztECIHnmFY2gty46ax_eyWslFOkO6vCKxQBTgJPMOkgTihXCHCBNDOSOJxcjx_rbp1hb53T-g1iDn4_mI0qvAaHAmldTdRP4uMDeB-hcVbFRlhVqbOwt7-VqivtVWBZI?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.050928,41.364771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Innes Stones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS2nDlh1UoluA1X9ygoE8ubXjoNjCuGxvkl9aN6hfXvEzLPcSwJXPkzeIk_bFHyPmohu2BQi7LZSgCxcP3IMuu76qgTUIaoJ_U1FGzQCWZu8s4yCcENBT5sOK7GoabVYJn4aeoMyNH_yLVfJlD3NnxxvG_Php0eoXUcRCIkIbRNM2n2DnK_TgAb2wOnRPuwVAgLu4K0pGaSt7ZYJKfiCGEWfg55f7DbULtyJaOWe6r3s8PqNpXdmSoW6MA?fife=s16383" height="200" width="auto" /><br><br>The Innes Walking Stones — referred to as just the Innes Stones — are a pair of unbalanced ringed stones with a challenge directly inspired by the Dinnie Stones. <br><br>The heavier stone weighs 189lbs and the lighter stone weighs 145 lbs for a total of 334lbs. <br><br>The challenge of the lnnes Walking Stones is to carry the stones for max distance — farmer’s walk style — along a 50ft course.<br><br>Rules<br>* Athletes must carry the stones as far as possible along the 50ft course.<br>* Athletes are allowed a single drop along with a 10 second break, after which they must continue to carry the stones.<br>* Once the athlete drops the stones a second time, their attempt is over and the distance is measured.<br>* If an athlete manages to reach the end of the 50ft course, they must turn around and continue the walk back down the course.<br>* If the athlete reaches the end of the 50ft course before their first drop, they are allowed to drop the stones and pick them up in the opposite direction instead of turning with the stones in hand. This is treated as their single allowed drop.<br>* After the athlete’s second (and final) drop, the distance is measured from the starting line to the front of the farthest stone.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS2nDlh1UoluA1X9ygoE8ubXjoNjCuGxvkl9aN6hfXvEzLPcSwJXPkzeIk_bFHyPmohu2BQi7LZSgCxcP3IMuu76qgTUIaoJ_U1FGzQCWZu8s4yCcENBT5sOK7GoabVYJn4aeoMyNH_yLVfJlD3NnxxvG_Php0eoXUcRCIkIbRNM2n2DnK_TgAb2wOnRPuwVAgLu4K0pGaSt7ZYJKfiCGEWfg55f7DbULtyJaOWe6r3s8PqNpXdmSoW6MA?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.5147037288364,43.4242517039104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stephenfield Shield</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmwKVrOArl1snIq7-7A732pZJOUOxHI4JQ2szIYoGwvGI34jczCqXb53u7uQgmbiJGPgyWECCR2-LSGFr2_9cvGSD8CStF05nUkkdf9Im4Dmx6BcjFpSZsjWAVQLqnMyJVXKemocw4CL8w0_TvqCfUnVF5tWqrAMwF3QadTQhoo7wNVgQorlJ6FR5eRj2nlXWl_GuCdd4mKu8EIyrPqpIW7F9zhUyKLyXuAsRU0XkIP4p--oYhIIJy85g?fife=s16383" height="200" width="auto" /><br><br>There is a stone in Stephenfield Provincial Park, Manitoba, underneath the spillway by the dam, oit has been named the  Stephenfield Shield. It is a 257 lb shield shaped stone (hence the name).As the stones by the floodway are placed there for erosion control it does need to be placed back under the floodway after being lifted.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmwKVrOArl1snIq7-7A732pZJOUOxHI4JQ2szIYoGwvGI34jczCqXb53u7uQgmbiJGPgyWECCR2-LSGFr2_9cvGSD8CStF05nUkkdf9Im4Dmx6BcjFpSZsjWAVQLqnMyJVXKemocw4CL8w0_TvqCfUnVF5tWqrAMwF3QadTQhoo7wNVgQorlJ6FR5eRj2nlXWl_GuCdd4mKu8EIyrPqpIW7F9zhUyKLyXuAsRU0XkIP4p--oYhIIJy85g?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.2807727322349,49.5251079714347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hollow Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQPJaDfEOzfXInNW_5fDJfunB0QGas3dWKCR9h_HASXsnepOswcXy7TH-FJ2RKxXa3xnpadxlWZGbmHS9PU9uJI993cOf5pHiuii8JZ93p4X6fY7EfhdE3ZMr4w6MF7uFKsK8n7i0s8ENocR32oEYt7AWS72y3KdsuZ3PPd1gjpUXGorc0DMEPdnplUD-nmz98ue5ecLjiaqSuHh8vYlIBf1Bzpt8qxTilMi1RABK8sR6Qf8Z0u0IHBSdA?fife=s16383" height="200" width="auto" /><br><br>Walk through downtown DeLand and you may pass the stone and never know it. The stone sits perfectly in some landscaping in front of the courthouse like it has always been there. The truth is I secretly (and without permission) placed the stone there for my F3 brothers to lift and to spread the gospel of stone lifting in Florida. We call where we work out "The Hollow" so that's how the stone got its name. Follow TheHollowStone177 on IG even though we now know it weights 178.5lbs!<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTNo0GOvupjeRNMNx2ThUb1O_I8iGxWSOfmJqOcH3okZW6WdNIoCDwm8b-xxaE7ukPGfGqvi683gTEdnq4PRJyD5c7ezBWgoHLYqivfdEFtg-3Oes7MLy2DyoAEpSv-9IYqFJ32cQXkPQaTJWpuGYTXbFipiHnigLWAwsD2fZIGK2CvP3brK6Py9caBfFFRAlFPT2C6hhZn2yDSoft1X2ioB4GRhu45XeibH9rAhcLZTqLyTsWk4G7D67s?fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQPJaDfEOzfXInNW_5fDJfunB0QGas3dWKCR9h_HASXsnepOswcXy7TH-FJ2RKxXa3xnpadxlWZGbmHS9PU9uJI993cOf5pHiuii8JZ93p4X6fY7EfhdE3ZMr4w6MF7uFKsK8n7i0s8ENocR32oEYt7AWS72y3KdsuZ3PPd1gjpUXGorc0DMEPdnplUD-nmz98ue5ecLjiaqSuHh8vYlIBf1Bzpt8qxTilMi1RABK8sR6Qf8Z0u0IHBSdA?fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTNo0GOvupjeRNMNx2ThUb1O_I8iGxWSOfmJqOcH3okZW6WdNIoCDwm8b-xxaE7ukPGfGqvi683gTEdnq4PRJyD5c7ezBWgoHLYqivfdEFtg-3Oes7MLy2DyoAEpSv-9IYqFJ32cQXkPQaTJWpuGYTXbFipiHnigLWAwsD2fZIGK2CvP3brK6Py9caBfFFRAlFPT2C6hhZn2yDSoft1X2ioB4GRhu45XeibH9rAhcLZTqLyTsWk4G7D67s?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.301167,29.029111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bergstrand Stones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRmuLgg_j2_rf2wJJPGGtqQZF0rpJzMKHGynbxX8qn2KgMCcwg76LddG7XVnZfHz7bWv4kphWYULxWXyiHR4kCzhlRDrjMAZo3KCcMJAYWAfObb93NP4Q6mvIJU3fvxtwyJ-YyY6neMIAqvuMESdmAMa_lE_8S63DsDg3j1ITPiEwZp8Gs6UIzjqzebuCdicLuJU_tptPMG6lotjHhx3F_bW1iwzbF--8X4fQfTuQygPTqpGkpqJq6tIag?fife=s16383" height="200" width="auto" /><br><br>The weights are approximately 55kg, 118kg, 127kg, 136kg, and 235kg. Contact derek.bergstrand@gmail.com or on Instagram @derekbergstrand]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRmuLgg_j2_rf2wJJPGGtqQZF0rpJzMKHGynbxX8qn2KgMCcwg76LddG7XVnZfHz7bWv4kphWYULxWXyiHR4kCzhlRDrjMAZo3KCcMJAYWAfObb93NP4Q6mvIJU3fvxtwyJ-YyY6neMIAqvuMESdmAMa_lE_8S63DsDg3j1ITPiEwZp8Gs6UIzjqzebuCdicLuJU_tptPMG6lotjHhx3F_bW1iwzbF--8X4fQfTuQygPTqpGkpqJq6tIag?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.3465324,44.296056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Cruz Stones of Strength</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQG-tLfaegq9SRpHh2_O4dHqN2oY9YF9wbaGKZZS21EM2zgXMH4bF1VdMKtfvDpGX6AHLPfbj-XWvhfHb5hyTrHdiB3VU1BsAcqWTgOwcfGgUgNbymPgJbl-1CsHc6UQuzCrNDM3FxJWjmZKbxn0WMGCGbR8USX6l4ULkJYNaozIn_1nrJwEjlkE8zL45RPziS1cqjn9K48IGncFJ42wPdsCD9weDxzlxOfOxwWQ7IPH7S-e_IfCtIoRO8?fife=s16383" height="200" width="auto" /><br><br>Small stone: “Lil John” 61.3kg<br>Medium stone: “Shafffer Stone” 123.5kg<br>Large stone: “Takakuna” 203.8kg <br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRnRizNVAs-ZNOVQtaNDfjCo3m-_hVM1y1P7HZV5p8rna1NOOwbwZp1TdvlhQ4TsdZXmljwKUMEMJ47_PCvacmhZ_mzOEG98eCEsduUCSR535Ew1LNcxhoS4fPXcx_Bq2Vn9iP6kLV2pwK8g_b_hhAg5HfZ0EDIttR4fKIJiah_w-W6asvHFL0jGXmbgG_4glPX1MJg3KhfIKh2ucgj1upwAmARqf9Yzi5cRV5IyOihC4Ur6dmEMWwljjs?fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTVXI-jc_gTXCEQdJLfe_RWP5LVhjBMIVkY7x1KJhmS4so77NPIPNFsDBu4XRYkiZoqERE4WPvQxUoyFD0E0cz3fRSS_gwKkWA53oWtoagx0e4S75SarGIsEVqs0DJstE_2jF01Ekzt7dwRvAhFBGDcKc947T1niKgr-wJ0Gs4XFbLZ-1xVsbcjHk5VTP8zyaT7TjU5surnTQ8d7xszu4e7TNAGJhtiA75ngB1nfuHoKp4dxNqPDzYfFEw?fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQy1YZ5W23dHiA3B8UjrrkeYsjlnv3vIqEsVyEBnJZJjZtezS9XOVRiJHMIKt5K-1MiXwCu0K30SJAWLJNkUCp46_-LKDDuVs1xGr3n3Kw4BIH0MGjxdYedbXaKtU2r7X2OwUK_IQXZVyc23o3D-7r_7D98xJSBKq1d59XDaqd-y4YtOFjU9_FmRJSjuLWzFPYfdWuTmwtpc9-ByrDygcZBnXbTjLaBoFiLQvGV527HLgi6-OVsU6jEi2E?fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQG-tLfaegq9SRpHh2_O4dHqN2oY9YF9wbaGKZZS21EM2zgXMH4bF1VdMKtfvDpGX6AHLPfbj-XWvhfHb5hyTrHdiB3VU1BsAcqWTgOwcfGgUgNbymPgJbl-1CsHc6UQuzCrNDM3FxJWjmZKbxn0WMGCGbR8USX6l4ULkJYNaozIn_1nrJwEjlkE8zL45RPziS1cqjn9K48IGncFJ42wPdsCD9weDxzlxOfOxwWQ7IPH7S-e_IfCtIoRO8?fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRnRizNVAs-ZNOVQtaNDfjCo3m-_hVM1y1P7HZV5p8rna1NOOwbwZp1TdvlhQ4TsdZXmljwKUMEMJ47_PCvacmhZ_mzOEG98eCEsduUCSR535Ew1LNcxhoS4fPXcx_Bq2Vn9iP6kLV2pwK8g_b_hhAg5HfZ0EDIttR4fKIJiah_w-W6asvHFL0jGXmbgG_4glPX1MJg3KhfIKh2ucgj1upwAmARqf9Yzi5cRV5IyOihC4Ur6dmEMWwljjs?fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTVXI-jc_gTXCEQdJLfe_RWP5LVhjBMIVkY7x1KJhmS4so77NPIPNFsDBu4XRYkiZoqERE4WPvQxUoyFD0E0cz3fRSS_gwKkWA53oWtoagx0e4S75SarGIsEVqs0DJstE_2jF01Ekzt7dwRvAhFBGDcKc947T1niKgr-wJ0Gs4XFbLZ-1xVsbcjHk5VTP8zyaT7TjU5surnTQ8d7xszu4e7TNAGJhtiA75ngB1nfuHoKp4dxNqPDzYfFEw?fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQy1YZ5W23dHiA3B8UjrrkeYsjlnv3vIqEsVyEBnJZJjZtezS9XOVRiJHMIKt5K-1MiXwCu0K30SJAWLJNkUCp46_-LKDDuVs1xGr3n3Kw4BIH0MGjxdYedbXaKtU2r7X2OwUK_IQXZVyc23o3D-7r_7D98xJSBKq1d59XDaqd-y4YtOFjU9_FmRJSjuLWzFPYfdWuTmwtpc9-ByrDygcZBnXbTjLaBoFiLQvGV527HLgi6-OVsU6jEi2E?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.017038888889,37.0046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Asia</name>
+      <Placemark>
+        <name>Param Shakti Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSc0JNWchiWeOwbYodpGgNQ9QS_a83e7XFeXokZPMDa13YILZO_VVQvD8Uif8IBv1i8m4QQaG1C19TfpUWeePFKBV3QruiUI-ST8cDAwl6m1LIMnzNQ48u8lNBZnhJl3-l5GA6mCVfFd7aKTDXCf669hchlEKMcg1S9Aya58nBOfFRXL2kcRxZEsd2KatxN_EG9_KjXGD_0chipz8LONMhmWqXwAHXQo_eof9fbmbuaGjgejz9OdvPFS-Y?fife=s16383" height="200" width="auto" /><br><br>228kg/502lbs. The stone can be lifted at any height using a cloth or towel. Lapping and walking it any amount of steps is a huge challenge. This stone is yet to be shouldered. Stone contributed by Aniruddha Borade, contact him at +91 8888288240 to attempt this massive challenge!]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSc0JNWchiWeOwbYodpGgNQ9QS_a83e7XFeXokZPMDa13YILZO_VVQvD8Uif8IBv1i8m4QQaG1C19TfpUWeePFKBV3QruiUI-ST8cDAwl6m1LIMnzNQ48u8lNBZnhJl3-l5GA6mCVfFd7aKTDXCf669hchlEKMcg1S9Aya58nBOfFRXL2kcRxZEsd2KatxN_EG9_KjXGD_0chipz8LONMhmWqXwAHXQo_eof9fbmbuaGjgejz9OdvPFS-Y?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            76.2050156,19.2132125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>United Kingdom</name>
+      <Placemark>
+        <name>Seamus à Ghlinnie</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSBfG-CBOj8ara5NhMcUKYOVZywe18YjZnCqIUza3bv59A2Xsx-c7SReZ_vCrYJk_jXDq0PSfc9REVXio_8KowQxMi_sd1ddx7WoDO8_wavx-LKulSrd2qvZbvSAR_Vlqga8BY8AgZkbYrSoa4Wu2ody7dfybiv4aprTf5K7LkGerf6M7y1od5F6LmMqHi0zkhn1GN2py2OfDSsZkCHNbMu5F32FqGw42ifglR3zly84aXgB0kYGm3v92c?fife=s16383" height="200" width="auto" /><br><br>137.5kg<br>Location<br>James of the Glen Memorial <br>South side of Ballachulish Bridge <br><br>The reason for placing a stone here <br><br>The story of what happened here really got to me and ive wanted to place a lifting stone here as a mark of respect to the wrongly convicted James Stewart of the glen for a while and so that the brutal injustice of what happened here is never forgot <br><br>History <br>      <br>Colin Campbell ( the red fox ) was shot in the hills of appin by an unknown man. Thought at the time to be Allan Breck Stewart of Appin for revenge for Campbells part in the highland clearances. But Allan Breck fled the country and could never be tried . ( allan Breck was a jacobite supporter and became imortalised in the book and film Kidnapped by Robert Louis Stevenson) . It was widely believed he didn't commit the murder <br>However <br>The head of clan Campbell ( the most powerful clan in the area and English Hanovarian supporters ) has seen this a chance to send a message to all jacobite]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSBfG-CBOj8ara5NhMcUKYOVZywe18YjZnCqIUza3bv59A2Xsx-c7SReZ_vCrYJk_jXDq0PSfc9REVXio_8KowQxMi_sd1ddx7WoDO8_wavx-LKulSrd2qvZbvSAR_Vlqga8BY8AgZkbYrSoa4Wu2ody7dfybiv4aprTf5K7LkGerf6M7y1od5F6LmMqHi0zkhn1GN2py2OfDSsZkCHNbMu5F32FqGw42ifglR3zly84aXgB0kYGm3v92c?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.1825749,56.6876028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castle Kilchurn Stones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSuvwuPViqfuIFfyDybOO6ljEO5tgu2lqovgbMB-NZiss1hadtpP7QG9Z88daK5OKzOR52KVRjci_ZQcidjw_LtpWKfkYi7CNtUjIyrsfVrHMC4gc7vrkgQqSpzIaw4wpyd74VWLQjRoMlQB_GULmUzUcbGINGsCTQ7ROIesULb6s6q_FFiYCnZUbujWMs2Oc1XR3d0_EaddxBHnyh7VO8n3aHuNkg6uKqECDxaIqHnCBQbnlHxki7X66Q?fife=s16383" height="200" width="auto" /><br><br>1 medium and 1 very large stone<br>These were contributed by Jamie Gorrian.<br>He has placed these stones in what he feels would have been one of the most significant stone finds in world history.<br><br>The stone of strong Black Donald <br><br>He searched and searched for this stone but with way to many stones in the Vicinity making an ID was impossible so decided that he would place two stones <br><br>One absolutely massive and worthy of one of the greatest gallowglass warriors in scots history and the other a more modest size so most lifters could lift onto the plinth ( named the loch awe plinth ) <br><br>These stones are in one of the most beautiful lifting spots in all of Scotland. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSuvwuPViqfuIFfyDybOO6ljEO5tgu2lqovgbMB-NZiss1hadtpP7QG9Z88daK5OKzOR52KVRjci_ZQcidjw_LtpWKfkYi7CNtUjIyrsfVrHMC4gc7vrkgQqSpzIaw4wpyd74VWLQjRoMlQB_GULmUzUcbGINGsCTQ7ROIesULb6s6q_FFiYCnZUbujWMs2Oc1XR3d0_EaddxBHnyh7VO8n3aHuNkg6uKqECDxaIqHnCBQbnlHxki7X66Q?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.0251089,56.4018158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Logie Kirk Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTvQg8mEDG2FJHuzwrTVGGonk-d27AbhTfCnZbLQI9-eoEGgVAg-usQpRvEAL9c-hXF-mH8bM8eiQfzxQghve-B_BVnb9Jt95zIoOQxpBa8Krc-Dphd6GQLogZyNb5yd-n04sxi5MLCKMgR0kDDk846Pwgt7nIpFGRN5RZfR6q2F2NKXbwE0TEvhljg2Kfwn4RSi6b7oSQVlhXxqHBnN5cvoThajxKYc142Z9fn2h4-HOAej0UWDkq1ceQ?fife=s16383" height="200" width="auto" /><br><br>This stone is 145kg                                                     There has been Kirk here since the 1100's. The old Kirk ruin is behind the new Kirk which was built in the 1700's. The stone sits directly in front of the front facing wall and track to the graveyard. The stone is obviously river stone and has been placed here as the nearest river is a mile away, although in ancient times the river came right to the Kirk.                                                 -Contributed by Jamie Gorrian ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTvQg8mEDG2FJHuzwrTVGGonk-d27AbhTfCnZbLQI9-eoEGgVAg-usQpRvEAL9c-hXF-mH8bM8eiQfzxQghve-B_BVnb9Jt95zIoOQxpBa8Krc-Dphd6GQLogZyNb5yd-n04sxi5MLCKMgR0kDDk846Pwgt7nIpFGRN5RZfR6q2F2NKXbwE0TEvhljg2Kfwn4RSi6b7oSQVlhXxqHBnN5cvoThajxKYc142Z9fn2h4-HOAej0UWDkq1ceQ?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.90504558373775,56.148810829044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Viribus stone </name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmmySxxUVG_ehX-0AHgHkFrc_dIxTcp0iy_65P9V6JVg90YREryOGcozTbPqrh9wmxSS-aUd7mRhqVqs65eOB_-3d8X47s-MRIcaE9Vff3AEpiW4qYS2MaFhStQpngE__MnMqJmcWa7yH0GUBgkajKD13B-dDeVEIKSWPlHoZTDNEsdQ5jo_Qk81pn51WX5VPF3DEzqaDHoI97-jIIHORqePB283KScdCsXQZ_0B7oDldpJBPSMzTpT4M?fife=s16383" height="200" width="auto" /><br><br>A Latin word used for strength, force or might.<br>Totis viribus meaning by all of ones might.<br>Stone weight is 164kg.<br>The challenge is to lift the stone and load it onto a platform at a height of 3ft 6.<br>On completion of the lift the lifters height, weight, age and date the stone was lifted is recorded.<br>Attempts must be witnessed by Brett Miles <br>Bdmstrong@gmail.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmmySxxUVG_ehX-0AHgHkFrc_dIxTcp0iy_65P9V6JVg90YREryOGcozTbPqrh9wmxSS-aUd7mRhqVqs65eOB_-3d8X47s-MRIcaE9Vff3AEpiW4qYS2MaFhStQpngE__MnMqJmcWa7yH0GUBgkajKD13B-dDeVEIKSWPlHoZTDNEsdQ5jo_Qk81pn51WX5VPF3DEzqaDHoI97-jIIHORqePB283KScdCsXQZ_0B7oDldpJBPSMzTpT4M?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.231286,51.085063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sheriffmuir Lifting Stones</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS6_CZ4SEtmh4GhlbyHbjd9Al8gpr84loCToLm-q0lUiNiEjbQ4ygON2fEpxSGpM687wl7o8PWd9w2mddtGKtFIFGEuxxoE0yUU6tmpmWix1BH8s4z1LOuZugoa70ZXLYZ1VgdM403Cd_lNOz9JaW9m6GIgtIT4fPgfoNXMwjHDcilNU-PhvsaJoSz2XUTZ44NhblaLluCdbtSDkdefdgTZdRK2k6-QL0lpcOq_CQPQ-Ye6YScNhq5JI8w?fife=s16383" height="200" width="auto" /><br><br>55kg/73kg/95kg/130kg                                              These stones were placed by Jamie Gorrian to mimic the ancient testing stones known as the "arc of seven stanes" . After the sad demise of the last surviving arc the "Wallace putting stone".  ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS6_CZ4SEtmh4GhlbyHbjd9Al8gpr84loCToLm-q0lUiNiEjbQ4ygON2fEpxSGpM687wl7o8PWd9w2mddtGKtFIFGEuxxoE0yUU6tmpmWix1BH8s4z1LOuZugoa70ZXLYZ1VgdM403Cd_lNOz9JaW9m6GIgtIT4fPgfoNXMwjHDcilNU-PhvsaJoSz2XUTZ44NhblaLluCdbtSDkdefdgTZdRK2k6-QL0lpcOq_CQPQ-Ye6YScNhq5JI8w?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.8349005,56.2336869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clan Macrae Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTnjR3Si5Zjf5Z5aL2FoLoIQ7lAyyNCCmssr9svbtpMLo4XA1sC2q6br8Um-JG3WTXAP7iIqmoNnxWanRVwRdDUJRwTyz7ZvX9wIJ5KiSi5weGgdT7fJhmGC3kFN6vcXTzdBWmfZzPvhtbPaDL6hih0_sd4SS5ULj5OKdX1_ku1ArQ2zNWmrPNr3KnlV8aCTFzJb3WIOvkZYIj_9exRo0bvyy0Tq4zgf3yP6_pqrQbreh1IFlGNfj7JKdM?fife=s16383" height="200" width="auto" /><br><br>Still to be weighed, but a heavy stone.                   This area is steeped in history as the infamous battle of Sherriffmuir took place here during the Jacobite uprising. The standard was raised just along from the lifting stone. Every Macrae to the last man was killed in that battle, hence the memorial. Jamie Gorian found, lifted, and named the stone in honour of the Clan Macrae]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTnjR3Si5Zjf5Z5aL2FoLoIQ7lAyyNCCmssr9svbtpMLo4XA1sC2q6br8Um-JG3WTXAP7iIqmoNnxWanRVwRdDUJRwTyz7ZvX9wIJ5KiSi5weGgdT7fJhmGC3kFN6vcXTzdBWmfZzPvhtbPaDL6hih0_sd4SS5ULj5OKdX1_ku1ArQ2zNWmrPNr3KnlV8aCTFzJb3WIOvkZYIj_9exRo0bvyy0Tq4zgf3yP6_pqrQbreh1IFlGNfj7JKdM?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.910256,56.19547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The no 9 Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQrPh1xUmwq8rIcFhgAV28ylIeLjeVfG_WDtJDQqG_PNyAIgokC8njl3mkz20HjNLFPr5QsVmpKxF7bWLkg-o42dnqtOkAwmTin8Y_RasSi-PVlUXBVRYTRlvcB_dhXTN9dKmbWktf89DiprFBbXvW1NtARPHQMjyaUyqY_YeYKchDBRVmCCwaKjLR8liM1gnd_FhcH4F8HcrXXc_TLtO7kCoTGZmFCxDYJKG32zJsa2TtXojSyLYJCIfU?fife=s16383" height="200" width="auto" /><br><br>this stone is found right in the middle of the ochil stone loop. The stone is named the no 9 stone because it sits next to the old no 9 shaft in the Lornshill woods. Stone weight coming soon.         Contributed by Jamie Gorrian]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQrPh1xUmwq8rIcFhgAV28ylIeLjeVfG_WDtJDQqG_PNyAIgokC8njl3mkz20HjNLFPr5QsVmpKxF7bWLkg-o42dnqtOkAwmTin8Y_RasSi-PVlUXBVRYTRlvcB_dhXTN9dKmbWktf89DiprFBbXvW1NtARPHQMjyaUyqY_YeYKchDBRVmCCwaKjLR8liM1gnd_FhcH4F8HcrXXc_TLtO7kCoTGZmFCxDYJKG32zJsa2TtXojSyLYJCIfU?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.806785,56.133712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glendevon Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSqLGpppI7KG1FguepdR6q6oRmcxJvRC6tioUlt3TqbDRzHpJSsNdfevXDmPD8_VEGIn15DzZUltE9FNVSU2TNYPDid5AeYPDcMq38QOjbXQF1dvSjAG9deA5MWQO7CBLlISDb2uTs_faaeJht-kSBeVeV4Qh2DklSv4lMKSepcVZqclASQhrhiF1TiWDyhpGHzJSTOGlBUQhQuOT09rnwc96DBjv07cD4XvfCe5f3SR4advmqtPBVK4-4?fife=s16383" height="200" width="auto" /><br><br>no official weight, but a heavy stone. This stone sits next to a tree on the road to Frackie Fishery  near Ben Shee at lower Glendevon. An absolutely beautiful lifting location. The stone is very reminiscent of an ultach stone (north uist). A great stine for those wishing to try a heavier stone ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSqLGpppI7KG1FguepdR6q6oRmcxJvRC6tioUlt3TqbDRzHpJSsNdfevXDmPD8_VEGIn15DzZUltE9FNVSU2TNYPDid5AeYPDcMq38QOjbXQF1dvSjAG9deA5MWQO7CBLlISDb2uTs_faaeJht-kSBeVeV4Qh2DklSv4lMKSepcVZqclASQhrhiF1TiWDyhpGHzJSTOGlBUQhQuOT09rnwc96DBjv07cD4XvfCe5f3SR4advmqtPBVK4-4?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.697246,56.225651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Harvienston Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmcTgDpVr1Qxf-BdISajixSEVn7dMKelPZrjEU9MQqrugYWQAL5cG9MW9n8bVBJnQUBWs2QO_cLDsGtQmkrsBfhKXzcgr2rc_bwmxHGHs6cpnaquBqUhjKre0OTeHpvhfIrvwVouJ-1DO8BmRU1N3ZEFXZzckOC0D9-oy7_g7pcWV2Rl92qwOZI6xHsWVzmthXs54hmbwKFq4olXFaqhlBppGxPNBi9A_jm0NMu48AitOan-s5bdT0eCo?fife=s16383" height="200" width="auto" /><br><br>This stone sits half way up the Ochil hills in Tillicoultry and requires a bit of fitness to get to it. The stone sits on the path near the burn heading downhill.                                  ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmcTgDpVr1Qxf-BdISajixSEVn7dMKelPZrjEU9MQqrugYWQAL5cG9MW9n8bVBJnQUBWs2QO_cLDsGtQmkrsBfhKXzcgr2rc_bwmxHGHs6cpnaquBqUhjKre0OTeHpvhfIrvwVouJ-1DO8BmRU1N3ZEFXZzckOC0D9-oy7_g7pcWV2Rl92qwOZI6xHsWVzmthXs54hmbwKFq4olXFaqhlBppGxPNBi9A_jm0NMu48AitOan-s5bdT0eCo?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.733876,56.161247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Glenochil Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS2PZ6OskZcKxq7ulvInEUDHFoDFGuztxGzg6U9tc1l2bso0vxKtnCFanibkwidHIN1vc1DcYKE25JS-b05VWKDDMaca2FBzIk71pb3NSUZYsV4scO2ZEk5mQQzEEdkoZWmDAiuWomjq67lACOQK7hVc-3OxBfH4imly7SwWSKw9_dG2ylJZ1sbSDWZyC-TCZrWs8_VaRCPZRj_faIRqXl5b2_AWG32ww9ZOCyeXfRRb2IqzK7NNmwQyVk?fife=s16383" height="200" width="auto" /><br><br>177.5kg. This stone sits in the woods directly opposit Glenochil prison. The stone is an absolute beast. This stone is a serious test of strength. Weighed by Jamie Gorrian and Mark Sheriff. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGS2PZ6OskZcKxq7ulvInEUDHFoDFGuztxGzg6U9tc1l2bso0vxKtnCFanibkwidHIN1vc1DcYKE25JS-b05VWKDDMaca2FBzIk71pb3NSUZYsV4scO2ZEk5mQQzEEdkoZWmDAiuWomjq67lACOQK7hVc-3OxBfH4imly7SwWSKw9_dG2ylJZ1sbSDWZyC-TCZrWs8_VaRCPZRj_faIRqXl5b2_AWG32ww9ZOCyeXfRRb2IqzK7NNmwQyVk?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.815418,56.139349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Wolf Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR3y4UpwQMuLpxkREJIyeZL0DC5FwltJvNFPZj63nzdw5CKr6OIZRIzpLpIPq3VahGNW7jWalEu0dgbgytrtgsnDf9xazU7nlwlJNtsPO--f-wWjsshw25zb5D81qbt3psJO2W9Up6_WaciD-nYLgBd3GoWVQS6y005w38KYrTAYstP5LhDsuIkBoBPjWoKs4fXuVJmEL65hbtmO9GUNd3huqg7l65AFO-638VPocgiI_ZTbCpEaCaM_ac?fife=s16383" height="200" width="auto" /><br><br>99kg. This beautiful stone was carried from the banks of The River Dee by Scotsman John Gibb; the infamous Scottish stone lifter that is the Highland wolf. <br><br>This stone was presented to Englishman Jamie Oates at the end of a stone tour, to mark their stone brotherhood and their passion for stone lifting. <br><br>The stone was taken 600 miles south, back to Tamworth, England. The stone is now sited at Common Barn Farm, where it will be used to test the strength of the local folk and visitors to the area.<br><br>Weighing in at 99kg, the stone is a perfect test of strength. <br><br>Feats of strength are wind under the stone, stone to chest and stone to shoulder. Completion of any of these feats in considered a successful lift.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR3y4UpwQMuLpxkREJIyeZL0DC5FwltJvNFPZj63nzdw5CKr6OIZRIzpLpIPq3VahGNW7jWalEu0dgbgytrtgsnDf9xazU7nlwlJNtsPO--f-wWjsshw25zb5D81qbt3psJO2W9Up6_WaciD-nYLgBd3GoWVQS6y005w38KYrTAYstP5LhDsuIkBoBPjWoKs4fXuVJmEL65hbtmO9GUNd3huqg7l65AFO-638VPocgiI_ZTbCpEaCaM_ac?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.76623522602357,52.647195955865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Craigellachie Stone</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTKfAXrRfchLhqsU0lN3WC_9H3i2424PThHXPCOgEVThhX_EJ83XLZftQyR9ufekPg6Gq-6zpMIMfbhUy9AmcTyyRwqkeG8ZUX5r-t10UWg9M4HxB0BRYqcWwB5QaN76Ypw20JbYkD4cHP6usN3j8QUAa8ekas_t_qguCuJS0v6BAJl5Qq5HJY3U_-eP4Lkb5C9IFdYXutKlzTdfhlxymxSKkUdyDalPn4QLCe7k2ZKa3DLzKD1wbmXpRc?fife=s16383" height="200" width="auto" /><br><br>This 143kg stone sits next to the ancient Craigellachie bridge built by teleford near to ballindalloch. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTKfAXrRfchLhqsU0lN3WC_9H3i2424PThHXPCOgEVThhX_EJ83XLZftQyR9ufekPg6Gq-6zpMIMfbhUy9AmcTyyRwqkeG8ZUX5r-t10UWg9M4HxB0BRYqcWwB5QaN76Ypw20JbYkD4cHP6usN3j8QUAa8ekas_t_qguCuJS0v6BAJl5Qq5HJY3U_-eP4Lkb5C9IFdYXutKlzTdfhlxymxSKkUdyDalPn4QLCe7k2ZKa3DLzKD1wbmXpRc?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.193681,57.49119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The 'Stanton Stone']]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSVlt3EHLLPb-OVvg-28GXP8bqr993ivtZbwGF5XejiMjadEIHWvlrAT_8g2EXmAudXcbY58VR5tbbv72raenPPiiFIGpnRt2RISPjhSwEjEwuxBakbQVRAYkDtIpmInm0j42ZL3bZdh1SVQuw0lq5vS6T1Vx-kyfhsu7kb3Fyxb0Rp4NflGdgh-yl2sIcocUQtX2xrIkWN-rjpA0YwCx4r2UEZDTP8r8hTVbdtztxB2ZEdafJUqGb_VIw?fife=s16383" height="200" width="auto" /><br><br>At the site of 4 Bronze Age stone circles up to 4000 years old, including the famous 'Nine Ladies Stone Circle' The 'Stanton Stone' is located near a lone birch tree within Stanton Moor, Peak District, Derbyshire UK. <br><br>The Stone weighs 141kg (141.7kg actual)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSVlt3EHLLPb-OVvg-28GXP8bqr993ivtZbwGF5XejiMjadEIHWvlrAT_8g2EXmAudXcbY58VR5tbbv72raenPPiiFIGpnRt2RISPjhSwEjEwuxBakbQVRAYkDtIpmInm0j42ZL3bZdh1SVQuw0lq5vS6T1Vx-kyfhsu7kb3Fyxb0Rp4NflGdgh-yl2sIcocUQtX2xrIkWN-rjpA0YwCx4r2UEZDTP8r8hTVbdtztxB2ZEdafJUqGb_VIw?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.636619,53.163096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wales</name>
+      <Placemark>
+        <name>The Stone beyond the Wall</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRDDMlOetMZG2sFMOz1dXfqImOZdpDwaSTrBO9CvGz7eVsK1ZzNUDsNZ5n8OavSoTm4ZnbtlWAJ6yCwOe1azXOMZyNg52phLoycOUoDLDiJuGbV_k5JulMdeT4v3B_ymhHcT9njxMCHrlzeL0Gu6dIzlXq_Ox-DV_A7-_qUc43PQjdtf-362x-8EBAcpGy9iGamWKvItM5tTDEePoazZ1bM6htdoLjquVXGTUyCB3BDyhQAOZJT6rVVKSk?fife=s16383" height="200" width="auto" /><br><br>147kg <br>Lift and place the stone up and into the wall. Originally found by Paul Thorpe on and part of his 'Welsh Stones of Strength']]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRDDMlOetMZG2sFMOz1dXfqImOZdpDwaSTrBO9CvGz7eVsK1ZzNUDsNZ5n8OavSoTm4ZnbtlWAJ6yCwOe1azXOMZyNg52phLoycOUoDLDiJuGbV_k5JulMdeT4v3B_ymhHcT9njxMCHrlzeL0Gu6dIzlXq_Ox-DV_A7-_qUc43PQjdtf-362x-8EBAcpGy9iGamWKvItM5tTDEePoazZ1bM6htdoLjquVXGTUyCB3BDyhQAOZJT6rVVKSk?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.031394,53.074424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Belgium</name>
+      <Placemark>
+        <name><![CDATA["DIABLO" The White Devil]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGToVGIzBJ0QNgondlj9iEsmnMwfDJep6lLNJRO8DlyD4OpXyg1PU42fwLRHRV4gT58smnUanrqWZuAzAS0Ezzjra1CRkt0BuEzVQlUQfL3j3r4TwdD9lZ0fcXW10wARZHD6XoTElC8N8NOHQABCQFLupbxDvJq5huLTUgnFoOEnHxqDem2a2cnnK6IQNRY3jOZzea7vsy4fQa4IktwOSkxkrVDBOTsbE6SXnlxVGbcQI-sMX-d1aOOSNu4?fife=s16383" height="200" width="auto" /><br><br>This 146.7kg stone is found at the most northern point of Belgium, on the Hollandia Line, the Dutch defence line from WW2. The lifting location of DIABLO is in the orchard that once was the battlefield of operation SWITCHBACK, and is named in honor of those that battled so bravely on that once so cold morning on October. In the Fields of East-Flanders.                   contact: slock.chiara on Instagram to lift the stone. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGToVGIzBJ0QNgondlj9iEsmnMwfDJep6lLNJRO8DlyD4OpXyg1PU42fwLRHRV4gT58smnUanrqWZuAzAS0Ezzjra1CRkt0BuEzVQlUQfL3j3r4TwdD9lZ0fcXW10wARZHD6XoTElC8N8NOHQABCQFLupbxDvJq5huLTUgnFoOEnHxqDem2a2cnnK6IQNRY3jOZzea7vsy4fQa4IktwOSkxkrVDBOTsbE6SXnlxVGbcQI-sMX-d1aOOSNu4?fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.49857711791992,51.2421607971191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
