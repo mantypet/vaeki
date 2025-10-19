@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="1ax2zC2kt7aS-A4Y3Vycq9AekpSbWJBUI">
 	<name>The Finnosopher&apos;s Stones</name>
-	<gx:CascadingStyle kml:id="__managed_style_2D8EE668643B31B96EB3">
+	<gx:CascadingStyle kml:id="__managed_style_3C7321F80F3B331DB4A8">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -40,54 +40,17 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1259305DB23B31B96EB3">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk018</td></tr>
-      <tr><th>name</th><td>Björsby Lyftstenen</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0E59BEA9BB3B31B96EB3">
+	<StyleMap id="__managed_style_16E6551EE33B331DB4A7">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_1259305DB23B31B96EB3</styleUrl>
+			<styleUrl>#__managed_style_23F7FD48D13B331DB4A7</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_2D8EE668643B31B96EB3</styleUrl>
+			<styleUrl>#__managed_style_0AA41E3BA43B331DB4A8</styleUrl>
 		</Pair>
 	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_2326B59BF33B31B8E460">
+	<gx:CascadingStyle kml:id="__managed_style_27329553D73B331DB4AB">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -114,28 +77,18 @@
   </head>
   <body>
     <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk017</td></tr>
-      <tr><th>name</th><td>Nils-Fafas Lyfton</td></tr>
-      <tr><th>weight</th><td>253</td></tr>
-      <tr><th>confirmed</th><td>true</td></tr>
-      <tr><th>coords_precision</th><td>10</td></tr>
+      <tr><th>id</th><td>vk016</td></tr>
+      <tr><th>name</th><td>Mattilan Mummu</td></tr>
+      <tr><th>weight</th><td>200</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
     </table>
   </body>
 </html>]]></text>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_057DB068CD3B31B8366C">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1D8B245DB43B31B8366C</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_20B36DA3DC3B31B8366C</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_27E023CBFA3B31B70F76">
+	<gx:CascadingStyle kml:id="__managed_style_07373C943A3B331DB4AC">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -162,8 +115,8 @@
   </head>
   <body>
     <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk014</td></tr>
-      <tr><th>name</th><td>Jylhän naisten väkikivi</td></tr>
+      <tr><th>id</th><td>vk015</td></tr>
+      <tr><th>name</th><td>Tohnisen äijän kivi</td></tr>
       <tr><th>weight</th><td></td></tr>
       <tr><th>confirmed</th><td>false</td></tr>
       <tr><th>coords_precision</th><td></td></tr>
@@ -173,7 +126,17 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_182F70F1DD3B31B70F76">
+	<StyleMap id="__managed_style_52E1A282753B331DB4A0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_67997332043B331DB4A0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_05DBDAC74C3B331DB4A1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_4089219D193B331DB4AB">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -199,8 +162,8 @@
   </head>
   <body>
     <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk014</td></tr>
-      <tr><th>name</th><td>Jylhän naisten väkikivi</td></tr>
+      <tr><th>id</th><td>vk015</td></tr>
+      <tr><th>name</th><td>Tohnisen äijän kivi</td></tr>
       <tr><th>weight</th><td></td></tr>
       <tr><th>confirmed</th><td>false</td></tr>
       <tr><th>coords_precision</th><td></td></tr>
@@ -210,7 +173,214 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_20B41D2F583B31B54744">
+	<gx:CascadingStyle kml:id="__managed_style_2ED8F773D93B331DB4A4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk002</td></tr>
+      <tr><th>name</th><td>Tåmasstejne</td></tr>
+      <tr><th>weight</th><td>92</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3BE19F10B93B331DB4AB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4089219D193B331DB4AB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_07373C943A3B331DB4AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_316E611FA63B331DB4A6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_41321EB8E93B331DB4A6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00BAE8816F3B331DB4A7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1372C7D03B3B331DB4A9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk012</td></tr>
+      <tr><th>name</th><td>Hiiden äijän väkikivi</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td>100</td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_47454138083B331DB4A4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk006</td></tr>
+      <tr><th>name</th><td>Skrifskolstennar #3</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_151FB1B9193B331DB4A6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk013</td></tr>
+      <tr><th>name</th><td>Porasen tuvan väkikivi</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_64E02F42773B331DB4AC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk009</td></tr>
+      <tr><th>name</th><td>Stubbåkers Grisen</td></tr>
+      <tr><th>weight</th><td>139</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2204CC7A633B331DB4A9">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -248,7 +418,55 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_268BFC44223B31B446F4">
+	<StyleMap id="__managed_style_0C02D7461E3B331DB4A9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1372C7D03B3B331DB4A9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2204CC7A633B331DB4A9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2081C9B99A3B331DB4A3">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk003</td></tr>
+      <tr><th>name</th><td>Risbackasten</td></tr>
+      <tr><th>weight</th><td>175</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td>50</td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_6EE2818C5B3B331DB4A8">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -286,28 +504,158 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0C2A13A7C53B31B446F4">
+	<StyleMap id="__managed_style_0D152D72903B331DB4AB">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_196E7C3E0A3B31B446F4</styleUrl>
+			<styleUrl>#__managed_style_104F9B5F1F3B331DB4AB</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_268BFC44223B31B446F4</styleUrl>
+			<styleUrl>#__managed_style_27329553D73B331DB4AB</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="__managed_style_04F7D990EE3B31B7B517">
+	<StyleMap id="__managed_style_4346EFEA943B331DB4A8">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_16CA25F6543B31B7B517</styleUrl>
+			<styleUrl>#__managed_style_59D799C2BE3B331DB4A8</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_229964AA263B31B7B517</styleUrl>
+			<styleUrl>#__managed_style_6EE2818C5B3B331DB4A8</styleUrl>
 		</Pair>
 	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_2602CC8BB23B318B7818">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/none_template.kml#main</styleUrl>
+	<StyleMap id="__managed_style_19735E6D693B331DB4AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_223CF35D6E3B331DB4AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_38512146393B331DB4AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_59D799C2BE3B331DB4A8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk011</td></tr>
+      <tr><th>name</th><td>Södra Björköstenet</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_4C6089ABAB3B331DB4AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_5A3F2B0C813B331DB4AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_64E02F42773B331DB4AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2E230EA9F73B331DB4A1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk004</td></tr>
+      <tr><th>name</th><td>Skrifskolstennar #1</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_41321EB8E93B331DB4A6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk014</td></tr>
+      <tr><th>name</th><td>Jylhän naisten väkikivi</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0AA41E3BA43B331DB4A8">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -326,11 +674,224 @@
 				<color>40ffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
-				<displayMode>hide</displayMode>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk017</td></tr>
+      <tr><th>name</th><td>Nils-Fafas Lyfton</td></tr>
+      <tr><th>weight</th><td>253</td></tr>
+      <tr><th>confirmed</th><td>true</td></tr>
+      <tr><th>coords_precision</th><td>10</td></tr>
+    </table>
+  </body>
+</html>]]></text>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1B58FE33F43B31B08860">
+	<gx:CascadingStyle kml:id="__managed_style_47930E78CF3B331DB4A0">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk007</td></tr>
+      <tr><th>name</th><td>Junntansten</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_5867A994AE3B331DB4A4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk006</td></tr>
+      <tr><th>name</th><td>Skrifskolstennar #3</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2ED573BF6F3B331DB4A6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk013</td></tr>
+      <tr><th>name</th><td>Porasen tuvan väkikivi</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19D681247E3B331DB4A3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk003</td></tr>
+      <tr><th>name</th><td>Risbackasten</td></tr>
+      <tr><th>weight</th><td>175</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td>50</td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_33D197B5863B331DB4A4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_47454138083B331DB4A4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5867A994AE3B331DB4A4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5A3F2B0C813B331DB4AC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk009</td></tr>
+      <tr><th>name</th><td>Stubbåkers Grisen</td></tr>
+      <tr><th>weight</th><td>139</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_67997332043B331DB4A0">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -367,7 +928,328 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_0FE8BE4A253B31B39716">
+	<gx:CascadingStyle kml:id="__managed_style_223CF35D6E3B331DB4AC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk010</td></tr>
+      <tr><th>name</th><td>Karperö lyftsten</td></tr>
+      <tr><th>weight</th><td>117</td></tr>
+      <tr><th>confirmed</th><td>true</td></tr>
+      <tr><th>coords_precision</th><td>10</td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01A9A7C3DA3B331DB49F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_092FF4D5F63B331DB4A0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1EC756595A3B331DB4A0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_2AB177B75A3B331DB4A0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_3291DD82563B331DB4A0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_47930E78CF3B331DB4A0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_3291DD82563B331DB4A0">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk007</td></tr>
+      <tr><th>name</th><td>Junntansten</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_05DBDAC74C3B331DB4A1">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk005</td></tr>
+      <tr><th>name</th><td>Skrifskolstennar #2</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2843BDA80C3B331DB4A8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk018</td></tr>
+      <tr><th>name</th><td>Björsby Lyftstenen</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_104F9B5F1F3B331DB4AB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk016</td></tr>
+      <tr><th>name</th><td>Mattilan Mummu</td></tr>
+      <tr><th>weight</th><td>200</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_352806866F3B331DB4A1">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk004</td></tr>
+      <tr><th>name</th><td>Skrifskolstennar #1</td></tr>
+      <tr><th>weight</th><td></td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_11E011C8153B331DB4A1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2E230EA9F73B331DB4A1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_352806866F3B331DB4A1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_09C5329AA83B331DB4A3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19D681247E3B331DB4A3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2081C9B99A3B331DB4A3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_02D68F97ED3B331DB4A4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D1E8D52F33B331DB4A4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2ED8F773D93B331DB4A4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_097D2884F83B331DB4A6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_151FB1B9193B331DB4A6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2ED573BF6F3B331DB4A6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1D1E8D52F33B331DB4A4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk002</td></tr>
+      <tr><th>name</th><td>Tåmasstejne</td></tr>
+      <tr><th>weight</th><td>92</td></tr>
+      <tr><th>confirmed</th><td>false</td></tr>
+      <tr><th>coords_precision</th><td></td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_38512146393B331DB4AC">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -405,17 +1287,92 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_080437E5BF3B31B31070">
+	<gx:CascadingStyle kml:id="__managed_style_290D6269603B331DB49E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk001</td></tr>
+      <tr><th>name</th><td>Nauris-Oskarin väkikivi</td></tr>
+      <tr><th>weight</th><td>116.6</td></tr>
+      <tr><th>confirmed</th><td>true</td></tr>
+      <tr><th>coords_precision</th><td>10</td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1358BF16983B331DB49E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk001</td></tr>
+      <tr><th>name</th><td>Nauris-Oskarin väkikivi</td></tr>
+      <tr><th>weight</th><td>116.6</td></tr>
+      <tr><th>confirmed</th><td>true</td></tr>
+      <tr><th>coords_precision</th><td>10</td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_105921FFBA3B331DB4A8">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_17A9F01E413B31B31070</styleUrl>
+			<styleUrl>#__managed_style_2843BDA80C3B331DB4A8</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_22D1D3BAA03B31B31070</styleUrl>
+			<styleUrl>#__managed_style_3C7321F80F3B331DB4A8</styleUrl>
 		</Pair>
 	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_0864331B7D3B31B25E44">
+	<gx:CascadingStyle kml:id="__managed_style_1EC756595A3B331DB4A0">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -454,7 +1411,17 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_10ADB729123B31B69F41">
+	<StyleMap id="__managed_style_060F73DE9F3B331DB49E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1358BF16983B331DB49E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_290D6269603B331DB49E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_23F7FD48D13B331DB4A7">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -480,8 +1447,46 @@
   </head>
   <body>
     <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk013</td></tr>
-      <tr><th>name</th><td>Porasen tuvan väkikivi</td></tr>
+      <tr><th>id</th><td>vk017</td></tr>
+      <tr><th>name</th><td>Nils-Fafas Lyfton</td></tr>
+      <tr><th>weight</th><td>253</td></tr>
+      <tr><th>confirmed</th><td>true</td></tr>
+      <tr><th>coords_precision</th><td>10</td></tr>
+    </table>
+  </body>
+</html>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_00BAE8816F3B331DB4A7">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Väkikivi information</title>
+  </head>
+  <body>
+    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
+      <tr><th>id</th><td>vk014</td></tr>
+      <tr><th>name</th><td>Jylhän naisten väkikivi</td></tr>
       <tr><th>weight</th><td></td></tr>
       <tr><th>confirmed</th><td>false</td></tr>
       <tr><th>coords_precision</th><td></td></tr>
@@ -491,7 +1496,32 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1D8B245DB43B31B8366C">
+	<gx:CascadingStyle kml:id="__managed_style_103FBC70D33B331DB47F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/none_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_06092436DC3B331DB47F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/none_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -509,26 +1539,11 @@
 				<color>40ffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk016</td></tr>
-      <tr><th>name</th><td>Mattilan Mummu</td></tr>
-      <tr><th>weight</th><td>200</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
+				<displayMode>hide</displayMode>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_14C861B2E83B31B25E43">
+	<gx:CascadingStyle kml:id="__managed_style_092FF4D5F63B331DB4A0">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -566,1031 +1581,16 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0E3AF123F63B31B25E43">
+	<StyleMap id="__managed_style_002B7544A93B331DB47E">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_14C861B2E83B31B25E43</styleUrl>
+			<styleUrl>#__managed_style_06092436DC3B331DB47F</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_0864331B7D3B31B25E44</styleUrl>
+			<styleUrl>#__managed_style_103FBC70D33B331DB47F</styleUrl>
 		</Pair>
 	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_2447C685A73B31AECD47">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk003</td></tr>
-      <tr><th>name</th><td>Risbackasten</td></tr>
-      <tr><th>weight</th><td>175</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td>50</td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_22D1D3BAA03B31B31070">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk009</td></tr>
-      <tr><th>name</th><td>Stubbåkers Grisen</td></tr>
-      <tr><th>weight</th><td>139</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_257FB7B0883B31B1B556">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk007</td></tr>
-      <tr><th>name</th><td>Junntansten</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_06450358E43B31B69F41">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_10ADB729123B31B69F41</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_26A0AC93203B31B69F41</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_0A0B78BD3A3B318B7818">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1F1C0419DB3B318B7818</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_2602CC8BB23B318B7818</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_196E7C3E0A3B31B446F4">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk011</td></tr>
-      <tr><th>name</th><td>Södra Björköstenet</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_125CEB81EA3B31B8E460">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk017</td></tr>
-      <tr><th>name</th><td>Nils-Fafas Lyfton</td></tr>
-      <tr><th>weight</th><td>253</td></tr>
-      <tr><th>confirmed</th><td>true</td></tr>
-      <tr><th>coords_precision</th><td>10</td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_083952D5AE3B31B1B556">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1D712912AC3B31B1B556</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_257FB7B0883B31B1B556</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_1F1C0419DB3B318B7818">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/none_template.kml#main</styleUrl>
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<displayMode>hide</displayMode>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_11722F00A73B31B39714">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk010</td></tr>
-      <tr><th>name</th><td>Karperö lyftsten</td></tr>
-      <tr><th>weight</th><td>117</td></tr>
-      <tr><th>confirmed</th><td>true</td></tr>
-      <tr><th>coords_precision</th><td>10</td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_10B052A3363B31AECD47">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk003</td></tr>
-      <tr><th>name</th><td>Risbackasten</td></tr>
-      <tr><th>weight</th><td>175</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td>50</td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0CB9406E583B31AECD47">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_10B052A3363B31AECD47</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_2447C685A73B31AECD47</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_0DACF06F583B31B0FD1F">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1B1A24F2B13B31B0FD1F</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_061D4C30813B31B0FD20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_26A0AC93203B31B69F41">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk013</td></tr>
-      <tr><th>name</th><td>Porasen tuvan väkikivi</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_26B5B58CC33B31ADC496">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk002</td></tr>
-      <tr><th>name</th><td>Tåmasstejne</td></tr>
-      <tr><th>weight</th><td>92</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_17A9F01E413B31B31070">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk009</td></tr>
-      <tr><th>name</th><td>Stubbåkers Grisen</td></tr>
-      <tr><th>weight</th><td>139</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_2765A611813B31B08860">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk005</td></tr>
-      <tr><th>name</th><td>Skrifskolstennar #2</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0A15AC3C303B31B70F76">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_182F70F1DD3B31B70F76</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_27E023CBFA3B31B70F76</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_0AFDE6522D3B31B08860">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1B58FE33F43B31B08860</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_2765A611813B31B08860</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_20B36DA3DC3B31B8366C">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk016</td></tr>
-      <tr><th>name</th><td>Mattilan Mummu</td></tr>
-      <tr><th>weight</th><td>200</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1D712912AC3B31B1B556">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk007</td></tr>
-      <tr><th>name</th><td>Junntansten</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_2A733A35E83B31AFAE27">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk004</td></tr>
-      <tr><th>name</th><td>Skrifskolstennar #1</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_2D621195A43B31AC4777">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk001</td></tr>
-      <tr><th>name</th><td>Nauris-Oskarin väkikivi</td></tr>
-      <tr><th>weight</th><td>116.6</td></tr>
-      <tr><th>confirmed</th><td>true</td></tr>
-      <tr><th>coords_precision</th><td>10</td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_09FC83DCCB3B31AFAE27">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1B0549EA123B31AFAE27</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_2A733A35E83B31AFAE27</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_009121AB6F3B31B8E460">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_125CEB81EA3B31B8E460</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_2326B59BF33B31B8E460</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_1B0549EA123B31AFAE27">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk004</td></tr>
-      <tr><th>name</th><td>Skrifskolstennar #1</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1ECEE9D2733B31ADC496">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk002</td></tr>
-      <tr><th>name</th><td>Tåmasstejne</td></tr>
-      <tr><th>weight</th><td>92</td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1B1A24F2B13B31B0FD1F">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk006</td></tr>
-      <tr><th>name</th><td>Skrifskolstennar #3</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_061D4C30813B31B0FD20">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk006</td></tr>
-      <tr><th>name</th><td>Skrifskolstennar #3</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0F35342C773B31B39714">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_11722F00A73B31B39714</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_0FE8BE4A253B31B39716</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_229964AA263B31B7B517">
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4.8</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk015</td></tr>
-      <tr><th>name</th><td>Tohnisen äijän kivi</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1671CE1E1F3B31B54744">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk012</td></tr>
-      <tr><th>name</th><td>Hiiden äijän väkikivi</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td>100</td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0FC2450EC73B31ADC496">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1ECEE9D2733B31ADC496</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_26B5B58CC33B31ADC496</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_04DAE12A733B31AC4777">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_10659C32063B31AC4777</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_2D621195A43B31AC4777</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_16CA25F6543B31B7B517">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk015</td></tr>
-      <tr><th>name</th><td>Tohnisen äijän kivi</td></tr>
-      <tr><th>weight</th><td></td></tr>
-      <tr><th>confirmed</th><td>false</td></tr>
-      <tr><th>coords_precision</th><td></td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0F3AB5CC383B31B54744">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1671CE1E1F3B31B54744</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_20B41D2F583B31B54744</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_10659C32063B31AC4777">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>3.2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<!DOCTYPE html>
-<html lang="fi">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Väkikivi information</title>
-  </head>
-  <body>
-    <table class="vaekikivi-meta" border="1" cellpadding="4" cellspacing="0">
-      <tr><th>id</th><td>vk001</td></tr>
-      <tr><th>name</th><td>Nauris-Oskarin väkikivi</td></tr>
-      <tr><th>weight</th><td>116.6</td></tr>
-      <tr><th>confirmed</th><td>true</td></tr>
-      <tr><th>coords_precision</th><td>10</td></tr>
-    </table>
-  </body>
-</html>]]></text>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
 	<Folder id="0083619A903B318B5D39">
 		<name>Map of Finnish lifting stones (&quot;Väkikivi&quot;)</name>
 		<open>1</open>
@@ -1604,7 +1604,7 @@
 			<range>2423124.753820896</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0A0B78BD3A3B318B7818</styleUrl>
+		<styleUrl>#__managed_style_002B7544A93B331DB47E</styleUrl>
 		<Placemark id="00CECF97443B2C7176E7">
 			<name>Nauris-Oskarin väkikivi</name>
 			<LookAt>
@@ -1617,7 +1617,7 @@
 				<range>421.7686083110001</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_04DAE12A733B31AC4777</styleUrl>
+			<styleUrl>#__managed_style_060F73DE9F3B331DB49E</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>28.3713277,64.6240456,0</coordinates>
@@ -1635,7 +1635,7 @@
 				<range>436.8766706428954</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0FC2450EC73B31ADC496</styleUrl>
+			<styleUrl>#__managed_style_02D68F97ED3B331DB4A4</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>23.3441667,63.6995,0</coordinates>
@@ -1653,7 +1653,7 @@
 				<range>439.4279908478609</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0CB9406E583B31AECD47</styleUrl>
+			<styleUrl>#__managed_style_09C5329AA83B331DB4A3</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>23.5096944,63.54297219999999,0</coordinates>
@@ -1671,7 +1671,7 @@
 				<range>443.4599245150947</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_09FC83DCCB3B31AFAE27</styleUrl>
+			<styleUrl>#__managed_style_11E011C8153B331DB4A1</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>22.3800833,63.29536109999999,0</coordinates>
@@ -1689,7 +1689,7 @@
 				<range>437.4545652307256</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0AFDE6522D3B31B08860</styleUrl>
+			<styleUrl>#__managed_style_52E1A282753B331DB4A0</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>22.6996667,63.66405559999999,0</coordinates>
@@ -1707,7 +1707,7 @@
 				<range>439.4067182970908</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0DACF06F583B31B0FD1F</styleUrl>
+			<styleUrl>#__managed_style_33D197B5863B331DB4A4</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>23.4983056,63.5442778,0</coordinates>
@@ -1725,7 +1725,7 @@
 				<range>439.596802687411</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_083952D5AE3B31B1B556</styleUrl>
+			<styleUrl>#__managed_style_2AB177B75A3B331DB4A0</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>22.5231667,63.5326111,0</coordinates>
@@ -1743,7 +1743,7 @@
 				<range>440.8686855647791</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0E3AF123F63B31B25E43</styleUrl>
+			<styleUrl>#__managed_style_01A9A7C3DA3B331DB49F</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>22.4317001,63.45453029999999,0</coordinates>
@@ -1761,7 +1761,7 @@
 				<range>441.433484683405</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_080437E5BF3B31B31070</styleUrl>
+			<styleUrl>#__managed_style_4C6089ABAB3B331DB4AC</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>22.3098111,63.4198477,0</coordinates>
@@ -1779,7 +1779,7 @@
 				<range>445.6384641282914</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0F35342C773B31B39714</styleUrl>
+			<styleUrl>#__managed_style_19735E6D693B331DB4AC</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>21.7022778,63.1614444,0</coordinates>
@@ -1797,7 +1797,7 @@
 				<range>452.4212190322932</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0C2A13A7C53B31B446F4</styleUrl>
+			<styleUrl>#__managed_style_4346EFEA943B331DB4A8</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>21.0516111,62.7439167,0</coordinates>
@@ -1815,7 +1815,7 @@
 				<range>442.9734766446192</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0F3AB5CC383B31B54744</styleUrl>
+			<styleUrl>#__managed_style_0C02D7461E3B331DB4A9</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>24.6452737,63.3252512,0</coordinates>
@@ -1833,7 +1833,7 @@
 				<range>445.75004006671</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_06450358E43B31B69F41</styleUrl>
+			<styleUrl>#__managed_style_097D2884F83B331DB4A6</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>24.2505833,63.1545833,0</coordinates>
@@ -1851,7 +1851,7 @@
 				<range>445.1961114257411</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0A15AC3C303B31B70F76</styleUrl>
+			<styleUrl>#__managed_style_316E611FA63B331DB4A6</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>24.5371819,63.1886435,0</coordinates>
@@ -1869,7 +1869,7 @@
 				<range>453.0611916188919</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_04F7D990EE3B31B7B517</styleUrl>
+			<styleUrl>#__managed_style_3BE19F10B93B331DB4AB</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>23.7959554,62.7044751,0</coordinates>
@@ -1887,7 +1887,7 @@
 				<range>471.1863430914661</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_057DB068CD3B31B8366C</styleUrl>
+			<styleUrl>#__managed_style_0D152D72903B331DB4AB</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>25.8022491,61.5839122,0</coordinates>
@@ -1905,7 +1905,7 @@
 				<range>491.270599895883</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_009121AB6F3B31B8E460</styleUrl>
+			<styleUrl>#__managed_style_16E6551EE33B331DB4A7</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>25.2702222,60.33372219999999,0</coordinates>
@@ -1923,7 +1923,7 @@
 				<range>493.6158256966333</range>
 				<altitudeMode>relativeToGround</altitudeMode>
 			</LookAt>
-			<styleUrl>#__managed_style_0E59BEA9BB3B31B96EB3</styleUrl>
+			<styleUrl>#__managed_style_105921FFBA3B331DB4A8</styleUrl>
 			<Point>
 				<extrude>1</extrude>
 				<coordinates>19.9618889,60.1871111,0</coordinates>
