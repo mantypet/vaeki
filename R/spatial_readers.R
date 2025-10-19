@@ -1,7 +1,7 @@
 # Sets up R spatial data readers
 # Created by Petteri Mäntymaa 09/2025
 
-source(here::here("R/global.R"))
+source(here::here("R/string_parsers.R"))
 
 #' Download liftingstones.org stone locations as geoJSON
 #'
@@ -16,9 +16,9 @@ download_liftingstones_org_geojson <- function() {
 #' Read liftingstone locations in an exploratory list structure by source
 #'
 read_stones_as_list <- function(include_meta = TRUE) {
-  stones.lsorg <- read_sf(dsn = here::here("local_data/2025-10-07-mapbox-liftingstones-org.geoJSON"), quiet = TRUE)
-  stones.omos <- read_sf(dsn = here::here("local_data/2025-10-07-google-maps-old-man-of-the-stones.kml"), quiet = TRUE)
-  stones.msos <- read_sf(dsn = here::here("local_data/2025-10-07-google-maps-modern-stones-of-strength.kml"), quiet = TRUE)
+  stones.lsorg <- read_sf(dsn = here::here("common_data/2025-10-07-mapbox-liftingstones-org.geoJSON"), quiet = TRUE)
+  stones.omos <- read_sf(dsn = here::here("common_data/2025-10-07-google-maps-old-man-of-the-stones.kml"), quiet = TRUE)
+  stones.msos <- read_sf(dsn = here::here("common_data/2025-10-07-google-maps-modern-stones-of-strength.kml"), quiet = TRUE)
   
   if(!include_meta) {
     stones.lsorg <- stones.lsorg |>
