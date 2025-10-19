@@ -3,6 +3,26 @@
 
 source(here::here("R/string_parsers.R"))
 
+#' List features available from given WFS service getCapabilities request
+#' Tilastokeskus paikkatietohakemisto, kuntapohjaiset tilastointialueet (getCapabilities)
+#'
+#'
+wfs_list_features <- function(url = "https://geo.stat.fi/geoserver/tilastointialueet/wfs?service=WFS&version=2.0.0&request=GetCapabilities") {
+  cap_wfs <- read_xml(url)
+  types <- xml_find_all(cap_wfs, ".//wfs:FeatureType/wfs:Name", xml_ns(cap_wfs)) |> xml_text()
+  types
+}
+
+#' Read WFS feature as sf object
+#' 
+#' 
+wfs_read_feature <- function(feature_name = "tilastointialueet:maakunta4500k_2025", url_base = "https://geo.stat.fi/geoserver/tilastointialueet/wfs") {
+  url <- glue("{url_base}?service=WFS&version=2.0.0&request=GetFeature&typeName={feature_name}&outputFormat=application/json")
+  sf_obj <- read_sf(dsn = url, quiet = TRUE)
+  sf_obj
+}
+
+
 #' Download liftingstones.org stone locations as geoJSON
 #'
 #'

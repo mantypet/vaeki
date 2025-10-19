@@ -3,6 +3,7 @@
 
 # SET LIBRARIES
 suppressPackageStartupMessages({
+  library(here)
   library(dplyr)
   library(forcats)
   library(ggplot2)
@@ -12,6 +13,7 @@ suppressPackageStartupMessages({
   library(tibble)
   library(tidyr)
   library(purrr)
+  library(xml2)
   library(rvest)
   library(sf)
   library(stringdist)
