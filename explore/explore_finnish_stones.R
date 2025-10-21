@@ -1,29 +1,33 @@
 source(here::here("R/spatial_readers.R"))
 
 finstones <- read_sf(dsn = here::here("common_data/2025-10-19-finnish-stones.kml"), quiet = TRUE) |>
-  transmute(name = Name) |>
+  transmute(stone_name_fi = Name) |>
   st_transform(crs = 3067)
 
-d_maakunta2025 <- wfs_read_feature(feature_name = "tilastointialueet:maakunta4500k_2025") |>
-  st_transform(crs = 3067) |>
-  transmute(maakunta_code = maakunta,
+finstones.excel <- finstones |>
+  st_drop_geometry() |>
+  as.data.frame()
+
+finstones_append <- read.csv(here::here("common_data/2025-10-21-finnish-stones.csv")) |>
+  as.data.frame()
+ 
+feature_name <- "tilastointialueet:maakunta4500k_2025"
+crs <- 3067
+d_maakunta2025 <- wfs_read_feature(feature_name) |>
+  st_transform(crs = crs) |>
+  transmute(feature_name = feature_name,
+            maakunta_code = maakunta,
             maakunta_name_fi = nimi,
             maakunta_name_sv = namn,
             maakunta_name_en = name)
 
+write_sf(d_maakunta2025,
+         dsn = here::here("common_data/2025-10-21-d_maakunta.geoJSON"),
+         driver = "GeoJSON",
+         delete_dsn = TRUE)
+
+
+
 finstones.rep <- finstones |>
   st_join(d_maakunta2025, join = st_within)
 
-# Read common_data/2025-10-19-finnish-stones.kml as xml
-library(xml2)
-
-doc <- read_xml(here::here("common_data/2025-10-19-finnish-stones.kml"))
-
-descriptions <- xml_find_all(doc, ".//gx:CascadingStyle")
-
-test <- xml_child(xml_child(xml_child(xml_child(xml_child(doc, 1), 2), 1), 5), 1)
-
-desc_texts <- xml_text(descriptions)
-
-length(desc_texts)
-cat(substr(desc_texts[1], 1, 300))
