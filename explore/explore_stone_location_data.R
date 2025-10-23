@@ -25,8 +25,14 @@ historic.rep <- liftingstones.historic |>
          weight_kg = weight_as_numeric(weight_kg),
          weight_lb = weight_as_numeric(weight_lb)) |>
   ungroup() |>
-  select(data_source, location_id, name_rep, weight_kg, weight_lb, geometry) |>
+  select(data_source, location_id, country, name_rep, weight_kg, weight_lb, number_of_stones, geometry) |>
   arrange(desc(weight_kg))
+
+# tables
+liftingstones.historic |>
+  filter(country == "Iceland") |>
+  summarise(n = n(),
+            sum = sum(as.numeric(number_of_stones)))
 
 # plots
 historic.rep |>
