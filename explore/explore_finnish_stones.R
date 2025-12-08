@@ -33,27 +33,7 @@ d_maakunta2025 <- read_sf(here::here("common_data/2025-10-21-d_maakunta.geoJSON"
 finstones.rep <- finstones |>
   st_join(d_maakunta2025, join = st_within)
 
-finstone.sources <- read.xlsx(file = here::here("common_data/2025-10-21-finnish-stones-sources.xlsx"),
+finstone.sources <- read.xlsx(file = here::here("common_data/2025-12-08-finnish-stones-sources.xlsx"),
                               sheetName = "sources",
-                              colClasses = "text") |>
-  filter(!is.na(bibtex))
-
-parse_bibtex <- function(bib_string) {
-  bib_string |>
-    bib2df:::bib2df_gather() |>
-    bib2df:::bib2df_tidy(separate_names = FALSE)
-}
-
-finstones.bib <- finstone.sources$bibtex |>
-  purrr::map(.f = ~parse_bibtex(.x)) |>
-  bind_rows()
-
-bib_test <- bib2df:::bib2df_gather(bib_test)
-bib_test <- bib2df:::bib2df_tidy(bib_test, separate_names = FALSE)
-
-bib2df:::bib2df
-path <- system.file("extdata", "LiteratureOnCommonKnowledgeInGameTheory.bib", package = "bib2df")
-
-df <- bib2df(path)
-debugonce(bib2df)
+                              colClasses = "text")
 
