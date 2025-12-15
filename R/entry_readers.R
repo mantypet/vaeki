@@ -55,6 +55,11 @@ read_kotiseutumuseot <- function() {
   county_kotiseutu.tbl
 }
 
-
+#'
+#'
+#'
+read_finnish_stones_sources_drive <- function() {
+  finstones <- googledrive::drive_download("2025-10-21-finnish-stones-sources")
+}
 
 

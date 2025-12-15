@@ -19,6 +19,7 @@ suppressPackageStartupMessages({
   library(stringdist)
   library(stringr)
   library(xlsx)
+  library(googledrive)
 })
 
 # Force locale
