@@ -58,8 +58,8 @@ read_kotiseutumuseot <- function() {
 #'
 #'
 #'
-read_finnish_stones_sources_drive <- function() {
-  finstones <- googledrive::drive_download("2025-10-21-finnish-stones-sources")
+read_finnish_stones_sources <- function() {
+  sources <- data.table::fread(here::here("common_data/back-ups/2026-01-07-finnish-stones-sources.csv"))
 }
 
 
